@@ -2173,7 +2173,7 @@ def sportsonline():
     import datetime
     
     # URL del file di programmazione
-    PROG_URL = "https://sportsonline.st/prog.txt"
+    PROG_URL = "https://sportsonline.sc/prog.txt"
     # Lingua che vogliamo cercare
     TARGET_LANGUAGE = "ITALIAN"
     
@@ -2224,7 +2224,7 @@ def sportsonline():
             playlist_entries.append({
                 "name": "NESSUN EVENTO", 
                 "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-                "referrer": "https://sportsonline.st/",
+                "referrer": "https://sportsonline.sc/",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
             })
         else:
@@ -2288,7 +2288,7 @@ def sportsonline():
                     playlist_entries.append({
                         "name": event_name,
                         "url": page_url,
-                        "referrer": "https://sportsonline.st/",
+                        "referrer": "https://sportsonline.sc/",
                         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                     })
             
@@ -2299,7 +2299,7 @@ def sportsonline():
                 playlist_entries.append({
                     "name": "NESSUN EVENTO", 
                     "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-                    "referrer": "https://sportsonline.st/",
+                    "referrer": "https://sportsonline.sc/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                 })
     

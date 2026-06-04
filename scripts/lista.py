@@ -163,7 +163,7 @@ def eventi_dlhd_m3u8_generator_world():
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
 
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.com"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json")
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u")
     HEADERS = { 
@@ -749,7 +749,7 @@ def eventi_dlhd_m3u8_generator():
 
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.com"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json") # Cache in scripts
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u") # Output in main dir
      
@@ -1308,7 +1308,7 @@ def schedule_extractor():
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
     
-    LINK_DADDYBYPASS = os.getenv("LINK_DADDYBYPASS", "").strip() or "https://dlstreams.com"
+    LINK_DADDYBYPASS = os.getenv("LINK_DADDYBYPASS", "").strip() or "https://dlhd.pk"
     
     def html_to_json(html_content):
         """Converte il contenuto HTML della programmazione in formato JSON."""
@@ -2173,7 +2173,7 @@ def sportsonline():
     import datetime
     
     # URL del file di programmazione
-    PROG_URL = "https://sportsonline.st/prog.txt"
+    PROG_URL = "https://sportsonline.sc/prog.txt"
     # Lingua che vogliamo cercare
     TARGET_LANGUAGE = "ITALIAN"
     
@@ -2224,7 +2224,7 @@ def sportsonline():
             playlist_entries.append({
                 "name": "NESSUN EVENTO", 
                 "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-                "referrer": "https://sportsonline.st/",
+                "referrer": "https://sportsonline.sc/",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
             })
         else:
@@ -2288,7 +2288,7 @@ def sportsonline():
                     playlist_entries.append({
                         "name": event_name,
                         "url": page_url,
-                        "referrer": "https://sportsonline.st/",
+                        "referrer": "https://sportsonline.sc/",
                         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                     })
             
@@ -2299,7 +2299,7 @@ def sportsonline():
                 playlist_entries.append({
                     "name": "NESSUN EVENTO", 
                     "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-                    "referrer": "https://sportsonline.st/",
+                    "referrer": "https://sportsonline.sc/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                 })
     
@@ -2322,7 +2322,7 @@ def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
     Cerca i file .m3u8 nei siti specificati per i canali daddy e tennis
     """
     # Carica la variabile d'ambiente LINK_DADDY
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.com"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
     # Restituisce direttamente l'URL .php come richiesto
     embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}"
     print(f"URL .php per il canale Daddylive {channel_id}: {embed_url}")

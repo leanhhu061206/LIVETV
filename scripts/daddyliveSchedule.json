@@ -6254,6 +6254,10 @@
                     {
                         "channel_name": "Win+ Futbol",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "249"
                     }
                 ]
             },
@@ -6404,6 +6408,16 @@
                     {
                         "channel_name": "Win+ Futbol",
                         "channel_id": "392"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Bolivia Division Profesional : Oriente Petrolero vs Always Ready",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "257"
                     }
                 ]
             },
@@ -6758,6 +6772,10 @@
                         "channel_id": "163"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "256"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2052"
                     }
@@ -6770,6 +6788,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "255"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -6786,6 +6808,10 @@
                         "channel_id": "165"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "254"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2054"
                     }
@@ -6798,6 +6824,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "250"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -6814,6 +6844,10 @@
                         "channel_id": "167"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "251"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2056"
                     }
@@ -6826,6 +6860,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "253"
                     },
                     {
                         "channel_name": "TSN5",
@@ -6848,6 +6886,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "169"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "252"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -7372,7 +7414,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -7386,7 +7428,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -7404,7 +7446,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -7418,7 +7460,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -7432,7 +7474,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -7442,7 +7484,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -7452,7 +7494,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -7462,7 +7504,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -7472,7 +7514,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -7482,7 +7524,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -7492,7 +7534,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -7502,7 +7544,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -7512,7 +7554,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -7522,7 +7564,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -7532,7 +7574,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -7542,7 +7584,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -7552,7 +7594,7 @@
                 ]
             },
             {
-                "time": "20:30",
+                "time": "23:40",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
@@ -10530,6 +10572,10 @@
                     {
                         "channel_name": "ESPN3 Brazil",
                         "channel_id": "83"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "261"
                     }
                 ]
             },
@@ -10540,6 +10586,10 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "263"
                     }
                 ]
             },
@@ -10550,6 +10600,10 @@
                     {
                         "channel_name": "ACC Network USA",
                         "channel_id": "664"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "258"
                     }
                 ]
             },
@@ -10560,6 +10614,10 @@
                     {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "264"
                     },
                     {
                         "channel_name": "NBCNY USA",
@@ -10574,6 +10632,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "196"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "262"
                     }
                 ]
             },

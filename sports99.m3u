@@ -1,20 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere Clubes HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere 2 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere 3 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere 4 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere 5 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.6.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere 6 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere 7 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 14:00 - Brazilian Serie B - Londrina vs Operário Ferroviário (Premiere 1 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 21:30 - Brazilian Serie B - Ponte Preta vs São Bernardo (Premiere Clubes HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-06 21:30 - Brazilian Serie B - Ponte Preta vs São Bernardo (Premiere 2 HD BR)
@@ -111,8 +95,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20PM%20EDT%20Chivas%20E
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-09 23:30 - American Major League Soccer - Toronto FC vs Nashville SC (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-09 23:30 - American Major League Soccer - Toronto FC vs Nashville SC (TSN 5 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-09 23:30 - Brazilian Serie B - América Mineiro vs Náutico (Premiere Clubes HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-09 23:30 - Brazilian Serie B - América Mineiro vs Náutico (Premiere 2 HD BR)
@@ -2189,6 +2171,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Premiere%204&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Premiere%205&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Premiere.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Premiere 6)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Premiere%206&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Netflix.Premiere.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Premiere 7)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Premiere%207&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Premiere.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Premiere 8)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Premiere%208&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Premiere.9" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Premiere 9)
@@ -2299,8 +2283,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Junior%20ES&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Kids%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Motor.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Motor ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Motor%20ES&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Netflix.Paranormal.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Paranormal ES)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Paranormal%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Sci-Fi.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Sci-Fi ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Sci-Fi%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Series.Comedia.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Series Comedia ES)
@@ -2321,8 +2303,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Box%20Office%20FHD&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Comedy%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Discovery.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Discovery FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Discovery%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Netflix.Horror.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Horror 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Horror%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Kids.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Kids 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Kids%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Movies.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Movies 2 FHD)
@@ -2517,12 +2497,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.05:.Milwaukee.Brewers.@.Cincinnati.Reds.|.HOME.CINR.|.Sat.05.Sep.18:40.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 16:10 - MLB - Cincinnati Reds vs Milwaukee Brewers (MLB 05: Milwaukee Brewers @ Cincinnati Reds | HOME CINR | Sat 05 Sep 18:40 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2005%3A%20Milwaukee%20Brewers%20%40%20Cincinnati%20Reds%20%7C%20HOME%20CINR%20%7C%20Sat%2005%20Sep%2018%3A40%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 16:10 - MLB - Cincinnati Reds vs Milwaukee Brewers (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 16:10 - MLB - Cincinnati Reds vs Milwaukee Brewers (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.05:.Milwaukee.Brewers.@.Cincinnati.Reds.|.HOME.CINR.|.Sat.05.Sep.18:40.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 16:10 - MLB - Cincinnati Reds vs Milwaukee Brewers (MLB 05: Milwaukee Brewers @ Cincinnati Reds | HOME CINR | Sat 05 Sep 18:40 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2005%3A%20Milwaukee%20Brewers%20%40%20Cincinnati%20Reds%20%7C%20HOME%20CINR%20%7C%20Sat%2005%20Sep%2018%3A40%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.02:.Atlanta.Braves.@.Philadelphia.Phillies.|.HOME.NBCSP.|.Sat.05.Sep.18:05.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:10 - MLB - Philadelphia Phillies vs Atlanta Braves (MLB 02: Atlanta Braves @ Philadelphia Phillies | HOME NBCSP | Sat 05 Sep 18:05 (Live))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2002%3A%20Atlanta%20Braves%20%40%20Philadelphia%20Phillies%20%7C%20HOME%20NBCSP%20%7C%20Sat%2005%20Sep%2018%3A05%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:10 - MLB - Philadelphia Phillies vs Atlanta Braves (MLB | Philadelphia Phillies)
@@ -2535,6 +2515,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:10 - MLB - Philadelphia Phillies vs Atlanta Braves (TSN 2 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.06:.Boston.Red.Sox.@.Baltimore.Orioles.|.HOME.MASN.|.Sat.05.Sep.19:05.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Baltimore Orioles vs Boston Red Sox (MLB 06: Boston Red Sox @ Baltimore Orioles | HOME MASN | Sat 05 Sep 19:05 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20Boston%20Red%20Sox%20%40%20Baltimore%20Orioles%20%7C%20HOME%20MASN%20%7C%20Sat%2005%20Sep%2019%3A05%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Baltimore Orioles vs Boston Red Sox (MLB | Baltimore Orioles)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Baltimore Orioles vs Boston Red Sox (MLB | Boston Red Sox)
@@ -2545,16 +2527,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=us&user=cdnlive
 https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Baltimore Orioles vs Boston Red Sox (MLB Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.06:.Boston.Red.Sox.@.Baltimore.Orioles.|.HOME.MASN.|.Sat.05.Sep.19:05.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Baltimore Orioles vs Boston Red Sox (MLB 06: Boston Red Sox @ Baltimore Orioles | HOME MASN | Sat 05 Sep 19:05 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20Boston%20Red%20Sox%20%40%20Baltimore%20Orioles%20%7C%20HOME%20MASN%20%7C%20Sat%2005%20Sep%2019%3A05%20(Live)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.04:.Los.Angeles.Angels.@.Pittsburgh.Pirates.|.HOME.SNP.|.Sat.05.Sep.18:40.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Pittsburgh Pirates vs Los Angeles Angels (MLB 04: Los Angeles Angels @ Pittsburgh Pirates | HOME SNP | Sat 05 Sep 18:40 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2004%3A%20Los%20Angeles%20Angels%20%40%20Pittsburgh%20Pirates%20%7C%20HOME%20SNP%20%7C%20Sat%2005%20Sep%2018%3A40%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Pittsburgh Pirates vs Los Angeles Angels (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Pittsburgh Pirates vs Los Angeles Angels (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-09-06 17:35 - MLB - Pittsburgh Pirates vs Los Angeles Angels (AT&T SportsNet Pittsburgh HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.04:.Los.Angeles.Angels.@.Pittsburgh.Pirates.|.HOME.SNP.|.Sat.05.Sep.18:40.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:35 - MLB - Pittsburgh Pirates vs Los Angeles Angels (MLB 04: Los Angeles Angels @ Pittsburgh Pirates | HOME SNP | Sat 05 Sep 18:40 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2004%3A%20Los%20Angeles%20Angels%20%40%20Pittsburgh%20Pirates%20%7C%20HOME%20SNP%20%7C%20Sat%2005%20Sep%2018%3A40%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.03:.Detroit.Tigers.@.Cleveland.Guardians.|.HOME.CLEG.|.Sat.05.Sep.18:10.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - Cleveland Guardians vs Detroit Tigers (MLB 03: Detroit Tigers @ Cleveland Guardians | HOME CLEG | Sat 05 Sep 18:10 (Live))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2003%3A%20Detroit%20Tigers%20%40%20Cleveland%20Guardians%20%7C%20HOME%20CLEG%20%7C%20Sat%2005%20Sep%2018%3A10%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - Cleveland Guardians vs Detroit Tigers (MLB | Cleveland Guardians)
@@ -2569,22 +2549,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - Miami Marlins vs Chicago Cubs (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.00:.San.Francisco.Giants.@.New.York.Mets.|.HOME.SNY.|.Sat.05.Sep.16:10.(Final)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - New York Mets vs San Francisco Giants (MLB 00: San Francisco Giants @ New York Mets | HOME SNY | Sat 05 Sep 16:10 (Final))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2000%3A%20San%20Francisco%20Giants%20%40%20New%20York%20Mets%20%7C%20HOME%20SNY%20%7C%20Sat%2005%20Sep%2016%3A10%20(Final)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - New York Mets vs San Francisco Giants (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - New York Mets vs San Francisco Giants (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-09-06 17:40 - MLB - New York Mets vs San Francisco Giants (SportsNet New York FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.00:.San.Francisco.Giants.@.New.York.Mets.|.HOME.SNY.|.Sat.05.Sep.16:10.(Final)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - New York Mets vs San Francisco Giants (MLB 00: San Francisco Giants @ New York Mets | HOME SNY | Sat 05 Sep 16:10 (Final))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2000%3A%20San%20Francisco%20Giants%20%40%20New%20York%20Mets%20%7C%20HOME%20SNY%20%7C%20Sat%2005%20Sep%2016%3A10%20(Final)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.10:.Arizona.Diamondbacks.@.Houston.Astros.|.NETWORK.FOX.|.Sat.05.Sep.19:15.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB 10: Arizona Diamondbacks @ Houston Astros | NETWORK FOX | Sat 05 Sep 19:15 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2010%3A%20Arizona%20Diamondbacks%20%40%20Houston%20Astros%20%7C%20NETWORK%20FOX%20%7C%20Sat%2005%20Sep%2019%3A15%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Houston Astros)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Space.City.Home.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Houston Astros vs Arizona Diamondbacks (Space City Home Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Space%20City%20Home%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.10:.Arizona.Diamondbacks.@.Houston.Astros.|.NETWORK.FOX.|.Sat.05.Sep.19:15.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB 10: Arizona Diamondbacks @ Houston Astros | NETWORK FOX | Sat 05 Sep 19:15 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2010%3A%20Arizona%20Diamondbacks%20%40%20Houston%20Astros%20%7C%20NETWORK%20FOX%20%7C%20Sat%2005%20Sep%2019%3A15%20(Live)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.08:.Toronto.Blue.Jays.@.Kansas.City.Royals.|.HOME.ROYL.|.Sat.05.Sep.19:10.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB 08: Toronto Blue Jays @ Kansas City Royals | HOME ROYL | Sat 05 Sep 19:10 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2008%3A%20Toronto%20Blue%20Jays%20%40%20Kansas%20City%20Royals%20%7C%20HOME%20ROYL%20%7C%20Sat%2005%20Sep%2019%3A10%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB | Toronto Blue Jays)
@@ -2595,20 +2577,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&
 https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Kansas City Royals vs Toronto Blue Jays (TVA Sports CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.08:.Toronto.Blue.Jays.@.Kansas.City.Royals.|.HOME.ROYL.|.Sat.05.Sep.19:10.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB 08: Toronto Blue Jays @ Kansas City Royals | HOME ROYL | Sat 05 Sep 19:10 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2008%3A%20Toronto%20Blue%20Jays%20%40%20Kansas%20City%20Royals%20%7C%20HOME%20ROYL%20%7C%20Sat%2005%20Sep%2019%3A10%20(Live)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.07:.Tampa.Bay.Rays.@.Texas.Rangers.|.HOME.RSN.|.Sat.05.Sep.19:05.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:35 - MLB - Texas Rangers vs Tampa Bay Rays (MLB 07: Tampa Bay Rays @ Texas Rangers | HOME RSN | Sat 05 Sep 19:05 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20Tampa%20Bay%20Rays%20%40%20Texas%20Rangers%20%7C%20HOME%20RSN%20%7C%20Sat%2005%20Sep%2019%3A05%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:35 - MLB - Texas Rangers vs Tampa Bay Rays (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:35 - MLB - Texas Rangers vs Tampa Bay Rays (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.07:.Tampa.Bay.Rays.@.Texas.Rangers.|.HOME.RSN.|.Sat.05.Sep.19:05.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:35 - MLB - Texas Rangers vs Tampa Bay Rays (MLB 07: Tampa Bay Rays @ Texas Rangers | HOME RSN | Sat 05 Sep 19:05 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20Tampa%20Bay%20Rays%20%40%20Texas%20Rangers%20%7C%20HOME%20RSN%20%7C%20Sat%2005%20Sep%2019%3A05%20(Live)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.12:.St..Louis.Cardinals.@.Colorado.Rockies.|.HOME.COLR.|.Sat.05.Sep.20:10.(Preview)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 19:10 - MLB - Colorado Rockies vs St. Louis Cardinals (MLB 12: St. Louis Cardinals @ Colorado Rockies | HOME COLR | Sat 05 Sep 20:10 (Preview))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2012%3A%20St.%20Louis%20Cardinals%20%40%20Colorado%20Rockies%20%7C%20HOME%20COLR%20%7C%20Sat%2005%20Sep%2020%3A10%20(Preview)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Colorado.Rockies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 19:10 - MLB - Colorado Rockies vs St. Louis Cardinals (MLB | Colorado Rockies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 19:10 - MLB - Colorado Rockies vs St. Louis Cardinals (MLB | St. Louis Cardinals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.12:.St..Louis.Cardinals.@.Colorado.Rockies.|.HOME.COLR.|.Sat.05.Sep.20:10.(Preview)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 19:10 - MLB - Colorado Rockies vs St. Louis Cardinals (MLB 12: St. Louis Cardinals @ Colorado Rockies | HOME COLR | Sat 05 Sep 20:10 (Preview))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2012%3A%20St.%20Louis%20Cardinals%20%40%20Colorado%20Rockies%20%7C%20HOME%20COLR%20%7C%20Sat%2005%20Sep%2020%3A10%20(Preview)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.11:.New.York.Yankees.@.San.Diego.Padres.|.NETWORK.FOX.|.Sat.05.Sep.19:15.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 20:10 - MLB - San Diego Padres vs New York Yankees (MLB 11: New York Yankees @ San Diego Padres | NETWORK FOX | Sat 05 Sep 19:15 (Live))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2011%3A%20New%20York%20Yankees%20%40%20San%20Diego%20Padres%20%7C%20NETWORK%20FOX%20%7C%20Sat%2005%20Sep%2019%3A15%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 20:10 - MLB - San Diego Padres vs New York Yankees (MLB | San Diego Padres)
@@ -2623,14 +2603,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 20:10 - MLB - San Diego Padres vs New York Yankees (Sportsnet One HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.14:.Athletics.@.Seattle.Mariners.|.HOME.SEAM.|.Sat.05.Sep.21:40.(Preview)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 20:10 - MLB - Seattle Mariners vs Athletics (MLB 14: Athletics @ Seattle Mariners | HOME SEAM | Sat 05 Sep 21:40 (Preview))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2014%3A%20Athletics%20%40%20Seattle%20Mariners%20%7C%20HOME%20SEAM%20%7C%20Sat%2005%20Sep%2021%3A40%20(Preview)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 20:10 - MLB - Seattle Mariners vs Athletics (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 20:10 - MLB - Seattle Mariners vs Athletics (MLB | Oakland Athletics)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-california-hd-us.webp",[MLB] 2026-09-06 20:10 - MLB - Seattle Mariners vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.14:.Athletics.@.Seattle.Mariners.|.HOME.SEAM.|.Sat.05.Sep.21:40.(Preview)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 20:10 - MLB - Seattle Mariners vs Athletics (MLB 14: Athletics @ Seattle Mariners | HOME SEAM | Sat 05 Sep 21:40 (Preview))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2014%3A%20Athletics%20%40%20Seattle%20Mariners%20%7C%20HOME%20SEAM%20%7C%20Sat%2005%20Sep%2021%3A40%20(Preview)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.09:.Minnesota.Twins.@.Chicago.White.Sox.|.HOME.CHSN.|.Sat.05.Sep.19:10.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 22:20 - MLB - Chicago White Sox vs Minnesota Twins (MLB 09: Minnesota Twins @ Chicago White Sox | HOME CHSN | Sat 05 Sep 19:10 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2009%3A%20Minnesota%20Twins%20%40%20Chicago%20White%20Sox%20%7C%20HOME%20CHSN%20%7C%20Sat%2005%20Sep%2019%3A10%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 22:20 - MLB - Chicago White Sox vs Minnesota Twins (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 22:20 - MLB - Chicago White Sox vs Minnesota Twins (MLB | Minnesota Twins)
@@ -2643,8 +2625,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[MLB] 2026-09-06 22:20 - MLB - Chicago White Sox vs Minnesota Twins (ESPN 3 Primera HD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.09:.Minnesota.Twins.@.Chicago.White.Sox.|.HOME.CHSN.|.Sat.05.Sep.19:10.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 22:20 - MLB - Chicago White Sox vs Minnesota Twins (MLB 09: Minnesota Twins @ Chicago White Sox | HOME CHSN | Sat 05 Sep 19:10 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2009%3A%20Minnesota%20Twins%20%40%20Chicago%20White%20Sox%20%7C%20HOME%20CHSN%20%7C%20Sat%2005%20Sep%2019%3A10%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 02:10 - MLB - Los Angeles Dodgers vs Washington Nationals (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 02:10 - MLB - Los Angeles Dodgers vs Washington Nationals (Sportsnet Ontario HD CA)
@@ -2677,6 +2657,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%202%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MASN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Baltimore Orioles vs Cleveland Guardians (MASN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.06:.Boston.Red.Sox.@.Baltimore.Orioles.|.HOME.MASN.|.Sat.05.Sep.19:05.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Baltimore Orioles vs Cleveland Guardians (MLB 06: Boston Red Sox @ Baltimore Orioles | HOME MASN | Sat 05 Sep 19:05 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20Boston%20Red%20Sox%20%40%20Baltimore%20Orioles%20%7C%20HOME%20MASN%20%7C%20Sat%2005%20Sep%2019%3A05%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Baltimore Orioles vs Cleveland Guardians (Sportsnet Pacific CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Baltimore Orioles vs Cleveland Guardians (Sportsnet Ontario CA)
@@ -2691,8 +2673,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Baltimore Orioles vs Cleveland Guardians (Sportsnet West HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.06:.Boston.Red.Sox.@.Baltimore.Orioles.|.HOME.MASN.|.Sat.05.Sep.19:05.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Baltimore Orioles vs Cleveland Guardians (MLB 06: Boston Red Sox @ Baltimore Orioles | HOME MASN | Sat 05 Sep 19:05 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20Boston%20Red%20Sox%20%40%20Baltimore%20Orioles%20%7C%20HOME%20MASN%20%7C%20Sat%2005%20Sep%2019%3A05%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Boston Red Sox vs Los Angeles Angels (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Boston Red Sox vs Los Angeles Angels (MLB | Los Angeles Angels)
@@ -2801,6 +2781,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.|.MLB.Network.Strike.Zoneⓧ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-mlb-network-strike-zone.webp",[MLB] 2026-09-08 02:05 - MLB - Athletics vs Toronto Blue Jays (USA | MLB Network Strike Zoneⓧ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20%7C%20MLB%20Network%20Strike%20Zone%E2%93%A7&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 02:05 - MLB - Athletics vs Toronto Blue Jays (NBC Sports California HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 02:05 - MLB - Athletics vs Toronto Blue Jays (MLB Network CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 02:05 - MLB - Athletics vs Toronto Blue Jays (Sportsnet Pacific CA)
@@ -2817,8 +2799,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 02:05 - MLB - Athletics vs Toronto Blue Jays (Sportsnet West HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 02:05 - MLB - Athletics vs Toronto Blue Jays (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 22:35 - MLB - Baltimore Orioles vs Cleveland Guardians (MLB | Baltimore Orioles)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 22:35 - MLB - Baltimore Orioles vs Cleveland Guardians (MLB | Cleveland Guardians)
@@ -3011,8 +2991,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (TSN 5 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-10 02:10 - MLB - Los Angeles Dodgers vs Cincinnati Reds (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-10 02:10 - MLB - Los Angeles Dodgers vs Cincinnati Reds (MLB | Cincinnati Reds)
@@ -3213,8 +3191,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Boston Red Sox vs Kansas City Royals (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Boston Red Sox vs Kansas City Royals (TSN 5 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Miami Marlins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -4107,16 +4083,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="DAZN.F1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-f1-fhd.webp",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (DAZN F1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1%20FHD&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-hd-fr.webp",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Canal+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eleven.Sports.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sports-1-fhd-pl.webp",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Eleven Sports 1 FHD PL)
@@ -4163,10 +4147,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20UK&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 08:45 - MotoGP -  vs  (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4191,10 +4181,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20UK&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 13:00 - MotoGP -  vs  (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4257,10 +4253,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 09:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4279,16 +4281,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4307,10 +4313,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 08:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4411,8 +4423,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4431,40 +4441,68 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4483,10 +4521,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 00:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 05:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4505,10 +4549,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 05:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4559,10 +4609,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 02:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4581,10 +4637,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4603,16 +4665,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 03:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4647,16 +4713,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 02:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4723,16 +4801,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4753,20 +4843,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4801,16 +4893,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4877,16 +4981,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4907,14 +5023,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -4949,16 +5069,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5025,16 +5157,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5055,20 +5199,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5087,10 +5241,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5141,10 +5301,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5179,22 +5345,32 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5213,16 +5389,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5257,16 +5445,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5333,10 +5533,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5387,16 +5593,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5463,16 +5681,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -5491,40 +5721,76 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.2026-09-06.|.11:45.(GMT).|.Valkenswaard.-.Longines.Global.Champions.Tour.Grand.Prix.|.Longines.Global.Champions.Tour.|.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Next | 2026-09-06 | 11:45 (GMT) | Valkenswaard - Longines Global Champions Tour Grand Prix | Longines Global Champions Tour | ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%202026-09-06%20%7C%2011%3A45%20(GMT)%20%7C%20Valkenswaard%20-%20Longines%20Global%20Champions%20Tour%20Grand%20Prix%20%7C%20Longines%20Global%20Champions%20Tour%20%7C%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spain.Sail.Grand.Prix.@.Sep.5.1:30.PM.:Viaplay.NL..07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Spain Sail Grand Prix @ Sep 5 1:30 PM :Viaplay NL  07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spain%20Sail%20Grand%20Prix%20%40%20Sep%205%201%3A30%20PM%20%3AViaplay%20NL%20%2007&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
@@ -5855,18 +6121,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Figh
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-06 10:46 - UCI World Tour -  vs  (Eurosport 1 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-06 10:46 - UCI World Tour -  vs  (Eurosport 1 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-06 10:46 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-06 10:46 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-06 10:46 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-06 10:46 - UCI World Tour -  vs  (TNT Sports 1 UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-08 11:18 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-08 11:18 - UCI World Tour -  vs  (Eurosport 1 FHD)

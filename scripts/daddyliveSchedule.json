@@ -472,6 +472,10 @@
                     {
                         "channel_name": "Abu Dhabi Sports 2 UAE",
                         "channel_id": "601"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
                     }
                 ]
             },
@@ -482,6 +486,40 @@
                     {
                         "channel_name": "Abu Dhabi Sports 1 UAE",
                         "channel_id": "600"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Dinamo Samarkand \ud83c\uddfa\ud83c\uddff vs Qizilqum \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Andijan \ud83c\uddfa\ud83c\uddff vs Kokand 1912 \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf6\ud83c\udde6 Qatar QSL : Shamal \ud83c\uddf6\ud83c\udde6 vs Al Wakrah \ud83c\uddf6\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
                     }
                 ]
             },
@@ -492,6 +530,10 @@
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
                     },
                     {
                         "channel_name": "beIN Sports Malaysia",
@@ -540,12 +582,26 @@
                         "channel_id": "152"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    },
+                    {
                         "channel_name": "Cytavision Sports 7 Cyprus",
                         "channel_id": "917"
                     },
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4109"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Xorazm Urganch \ud83c\uddfa\ud83c\uddff vs Sogdiana \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -3012,7 +3068,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -3026,7 +3082,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -3044,7 +3100,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -3058,7 +3114,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -3072,7 +3128,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -3082,7 +3138,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -3092,7 +3148,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -3102,7 +3158,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -3112,7 +3168,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -3122,7 +3178,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -3132,7 +3188,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -3142,7 +3198,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -3152,7 +3208,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -3162,7 +3218,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -3172,7 +3228,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -3182,7 +3238,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -3192,7 +3248,7 @@
                 ]
             },
             {
-                "time": "07:02",
+                "time": "14:06",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
@@ -3722,6 +3778,16 @@
         ],
         "MMA \ud83e\udd4a\ud83d\udc4a": [
             {
+                "time": "11:30",
+                "event": "\ud83e\udd4a \ud83c\uddef\ud83c\uddf5 Super RIZIN.5",
+                "channels": [
+                    {
+                        "channel_name": "Event HDD Stream",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "\ud83e\udd4a EFC 137 : Faeez Jacobs \ud83c\uddff\ud83c\udde6 vs Shadrick Dju Yemba \ud83c\udde8\ud83c\udde9",
                 "channels": [
@@ -3822,6 +3888,10 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
                     },
                     {
                         "channel_name": "Sky Sports+",
@@ -4238,6 +4308,10 @@
                     {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
                     },
                     {
                         "channel_name": "beIN Sports 1 France",

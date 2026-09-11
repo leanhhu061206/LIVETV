@@ -436,6 +436,48 @@
                 ]
             }
         ],
+        "Ireland Premier Division \u26bd": [
+            {
+                "time": "18:45",
+                "event": "Ireland Premier Division : Waterford vs Dundalk",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Premier Division : Shelbourne vs Derry City",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Premier Division : Galway vs Bohemians",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Premier Division : Drogheda vs Sligo Rovers",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
+                    }
+                ]
+            }
+        ],
         "England - National League \u26bd": [
             {
                 "time": "18:45",
@@ -3210,7 +3252,7 @@
         ],
         "Tennis US OPEN Court \ud83c\udfdf\ufe0f \ud83c\udfbe": [
             {
-                "time": "18:16",
+                "time": "18:57",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -3224,7 +3266,7 @@
                 ]
             },
             {
-                "time": "18:16",
+                "time": "18:57",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -3242,7 +3284,7 @@
                 ]
             },
             {
-                "time": "18:16",
+                "time": "18:57",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {

@@ -328,6 +328,26 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J.League : Vissel Kobe \ud83c\uddef\ud83c\uddf5 vs Kashima Antlers \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J.League : Kyoto Sanga \ud83c\uddef\ud83c\uddf5 vs Kashiwa Reysol \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
                 "time": "12:00",
                 "event": "Indonesia - Super League : Dewa United vs Bhayangkara",
                 "channels": [
@@ -344,6 +364,20 @@
                     {
                         "channel_name": "CBC Sport Azerbaijan",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfe Malaysia Super League : Johor DT \ud83c\uddf2\ud83c\uddfe vs Negeri Sembilan \ud83c\uddf2\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
                     }
                 ]
             },
@@ -354,6 +388,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
                     },
                     {
                         "channel_name": "SporTV2 BR",
@@ -376,6 +414,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
                     },
                     {
                         "channel_name": "RDS CA",
@@ -404,6 +446,10 @@
                     {
                         "channel_name": "Abu Dhabi Sports 2",
                         "channel_id": "601"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
                     }
                 ]
             },
@@ -414,6 +460,10 @@
                     {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
                     }
                 ]
             },
@@ -438,12 +488,52 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Buxoro \ud83c\uddfa\ud83c\uddff vs Navbahor Namangan \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Lokomotiv Tashkent \ud83c\uddfa\ud83c\uddff vs Mashal Muborak \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
                 "time": "15:00",
                 "event": "Russian Premier League : Krylya Sovetov vs Rodina Moskva",
                 "channels": [
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf6\ud83c\udde6 Qatar QSL : Al-Gharafa \ud83c\uddf6\ud83c\udde6 vs Lusail \ud83c\uddf6\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf1\ud83c\uddfb Latvia Virsliga : Ogre United \ud83c\uddf1\ud83c\uddfb vs FK Liepaja \ud83c\uddf1\ud83c\uddfb",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -2630,7 +2720,7 @@
         ],
         "Tennis US OPEN Court \ud83c\udfdf\ufe0f \ud83c\udfbe": [
             {
-                "time": "07:49",
+                "time": "14:13",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -2644,7 +2734,7 @@
                 ]
             },
             {
-                "time": "07:49",
+                "time": "14:13",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -2662,7 +2752,7 @@
                 ]
             },
             {
-                "time": "07:49",
+                "time": "14:13",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -3048,36 +3138,94 @@
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe ATP - Singles: US Open (USA)": [
+        "\ud83c\udfbe ATP US Open / \ud83c\udfbe WTA US Open": [
             {
-                "time": "19:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde9\ud83c\uddea Alexander Zverev vs \ud83c\uddf7\ud83c\uddfa Karen Khachanov",
+                "time": "15:30",
+                "event": "\ud83c\udfbe\ud83c\udfc6 2026 US Open Radio Presented by American Express Day 13",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe 2026 US Open Tennis ESPN2",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe US Open Press Conferences Day 13",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open \u2014 Arthur Ashe: Katerina Siniakova/Taylor Townsend vs Ashlyn Krueger/Robin Montgomery",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe ATP Tour : Jaume Munar vs Raul Brancaccio",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    }
+                ]
+            },
+            {
+                "time": "18:20",
+                "event": "\ud83c\udfbe ATP Tour : Henrique Rocha vs Dusan Lajovic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe 2026 US Open Tennis ESPN",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open \u2014 Arthur Ashe: Alexander Zverev vs Karen Khachanov",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Frances Tiafoe vs \ud83c\uddfa\ud83c\uddf8 Ben Shelton",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open \u2014 Arthur Ashe: Frances Tiafoe vs Ben Shelton",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Doubles: US Open (USA)": [
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfbe WTA - Doubles: \ud83c\udde8\ud83c\uddff Katerina Siniakova / \ud83c\uddfa\ud83c\uddf8 Taylor Townsend vs \ud83c\uddfa\ud83c\uddf8 Robin Montgomery / \ud83c\uddfa\ud83c\uddf8 Ashlyn Krueger",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
                     }
                 ]
             }
@@ -3616,6 +3764,10 @@
                     {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
                     },
                     {
                         "channel_name": "Sky Sport F1 DE",
@@ -4858,6 +5010,10 @@
                         "channel_id": "31"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    },
+                    {
                         "channel_name": "FOX Sports 2 USA",
                         "channel_id": "758"
                     },
@@ -5218,6 +5374,16 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "\ud83c\udfc0 \ud83c\uddf8\ud83c\udde6 Basketball Asian Cup : Saudi Arabia \ud83c\uddf8\ud83c\udde6 vs Japan \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
                 "time": "11:20",
                 "event": "3x3 Europe Cup - Tag 1 3x3 Basketball Europe Cup",
                 "channels": [
@@ -5502,6 +5668,10 @@
                         "channel_id": "591"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    },
+                    {
                         "channel_name": "beIN Sports 2 Malaysia",
                         "channel_id": "713"
                     },
@@ -5551,6 +5721,16 @@
             }
         ],
         "Darts \ud83c\udfaf": [
+            {
+                "time": "11:30",
+                "event": "\ud83c\udfaf Darts European Tour 13 : Flanders Darts Trophy",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
+                    }
+                ]
+            },
             {
                 "time": "11:00",
                 "event": "PDC Darts Flanders Darts Trophy - Antwerp Expo Antwerp",

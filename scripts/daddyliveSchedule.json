@@ -1748,6 +1748,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4008"
                     }
                 ]
             },
@@ -1990,6 +1994,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -2096,6 +2104,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -2272,6 +2284,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -2378,6 +2394,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4014"
                     }
                 ]
             },
@@ -2452,6 +2476,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4120"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -2471,7 +2499,7 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "1071"
+                        "channel_id": "1081"
                     }
                 ]
             },
@@ -2481,7 +2509,17 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "1072"
+                        "channel_id": "1082"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\u26bd Portugal Ta\u00e7a de Portugal : Real SC vs Acad\u00e9mica Coimbra",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
                     }
                 ]
             },
@@ -2492,6 +2530,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
                     }
                 ]
             },
@@ -2502,6 +2544,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
                     }
                 ]
             },
@@ -2512,6 +2558,20 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Division : Nacional Asuncion vs 2 de Mayo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
                     }
                 ]
             },
@@ -2522,6 +2582,50 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Bolivia Division Profesional : Independiente vs SA Bulo Bulo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "23:05",
+                "event": "\u26bd Colombia Primera B : Patriotas vs U Magdalena",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Brazil Serie B : Ceara vs Novorizontino",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Brazil Serie B : Sao Bernardo vs Atletico GO",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
                     }
                 ]
             },
@@ -2532,6 +2636,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -2566,6 +2674,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
                     }
                 ]
             },
@@ -2576,6 +2688,26 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\u26bd Ecuador Liga Pro : Aucas vs Macara",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\u26bd Peru Liga 1 Apertura : Alianza Lima vs AD Tarma",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
                     }
                 ]
             },
@@ -2608,6 +2740,10 @@
                         "channel_id": "845"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "205"
+                    },
+                    {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
                     }
@@ -2620,6 +2756,10 @@
                     {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202"
                     }
                 ]
             },
@@ -2664,6 +2804,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
                     }
                 ]
             }
@@ -3010,6 +3154,10 @@
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -4256,13 +4404,17 @@
                     {
                         "channel_name": "Ziggo Sport 3 NL",
                         "channel_id": "919"
+                    },
+                    {
+                        "channel_name": "Backup Stream HD",
+                        "channel_id": "5000"
                     }
                 ]
             }
         ],
         "MMA \ud83e\udd4a\ud83d\udc4a": [
             {
-                "time": "18:20",
+                "time": "00:08",
                 "event": "\ud83e\udd3c UFC: Weigh-in",
                 "channels": [
                     {
@@ -4336,6 +4488,10 @@
                     {
                         "channel_name": "USA Network",
                         "channel_id": "343"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     },
                     {
                         "channel_name": "Sport 5 PLUS Israel",
@@ -4770,6 +4926,10 @@
                         "channel_id": "308"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    },
+                    {
                         "channel_name": "TSN3",
                         "channel_id": "113"
                     },
@@ -4806,6 +4966,10 @@
                         "channel_id": "44"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
+                    },
+                    {
                         "channel_name": "ESPN Deportes",
                         "channel_id": "375"
                     },
@@ -4824,6 +4988,10 @@
                         "channel_id": "54"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
+                    },
+                    {
                         "channel_name": "FOXNY USA",
                         "channel_id": "768"
                     }
@@ -4836,6 +5004,10 @@
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "204"
                     }
                 ]
             }
@@ -4914,6 +5086,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
+                    },
+                    {
                         "channel_name": "Marquee Sports Network USA",
                         "channel_id": "770"
                     },
@@ -4924,6 +5100,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5146"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -4936,12 +5116,20 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
+                    },
+                    {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
                     },
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5141"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -4954,12 +5142,20 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
+                    },
+                    {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
                     },
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5142"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -4970,6 +5166,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
                     },
                     {
                         "channel_name": "NBCS California USA",
@@ -4992,6 +5192,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
                     },
                     {
                         "channel_name": "NESN USA",
@@ -5020,6 +5224,10 @@
                         "channel_id": "8"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5157"
                     }
@@ -5032,6 +5240,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     },
                     {
                         "channel_name": "Chicago Sports Network",
@@ -5050,6 +5262,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -5074,6 +5290,10 @@
                         "channel_id": "11"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
+                    },
+                    {
                         "channel_name": "Space City Home Network",
                         "channel_id": "4921"
                     },
@@ -5092,6 +5312,10 @@
                         "channel_id": "12"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5158"
                     }
@@ -5104,6 +5328,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
                     },
                     {
                         "channel_name": "Event Stream",
@@ -5120,6 +5348,10 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5162"
                     }
@@ -5134,6 +5366,10 @@
                         "channel_id": "15"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5132"
                     }
@@ -5146,6 +5382,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
                     },
                     {
                         "channel_name": "TNT Sports 3 UK",
@@ -5180,6 +5420,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "203"
                     },
                     {
                         "channel_name": "Event Stream",
@@ -5246,6 +5490,14 @@
                     {
                         "channel_name": "ION USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "WNBA Stream",
+                        "channel_id": "4081"
                     }
                 ]
             },
@@ -5256,6 +5508,14 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "WNBA Stream",
+                        "channel_id": "4080"
                     }
                 ]
             },
@@ -5266,6 +5526,14 @@
                     {
                         "channel_name": "ION USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "WNBA Stream",
+                        "channel_id": "4082"
                     }
                 ]
             }
@@ -5366,6 +5634,16 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "255"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfc0 Basketball Asian Games : Thailand W vs China W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
                     }
                 ]
             }
@@ -6415,7 +6693,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "1073"
+                        "channel_id": "1083"
                     }
                 ]
             }

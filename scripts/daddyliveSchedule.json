@@ -640,6 +640,30 @@
                     {
                         "channel_name": "ERT 2 Greece",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddff\ud83c\uddf2 COSAFA Championship U20 : Zambia U20 \ud83c\uddff\ud83c\uddf2 vs Botswana U20 \ud83c\udde7\ud83c\uddfc",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfc COSAFA Championship U20 : Malawi U20 \ud83c\uddf2\ud83c\uddfc vs Comoros U20 \ud83c\uddf0\ud83c\uddf2",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
@@ -650,6 +674,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     },
                     {
                         "channel_name": "TSN3",
@@ -684,6 +712,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
@@ -720,6 +752,10 @@
                         "channel_id": "10"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "Oman TV Sport",
                         "channel_id": "11"
                     },
@@ -740,6 +776,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     },
                     {
                         "channel_name": "TV2 Sport X Denmark",
@@ -768,8 +808,52 @@
                         "channel_id": "49"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
                         "channel_name": "Sportklub 4 Croatia",
                         "channel_id": "104"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddff UEFA Europa Cup Women : Sparta Prague W \ud83c\udde8\ud83c\uddff vs Farul Constanta W \ud83c\uddf7\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf8 UEFA Europa Cup Women : Hafnarfjordur W \ud83c\uddee\ud83c\uddf8 vs Eintracht Frankfurt W \ud83c\udde9\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 UEFA Europa Cup Women : Brondby W \ud83c\udde9\ud83c\uddf0 vs Sporting Lisbon W \ud83c\uddf5\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf8 UEFA Europa Cup Women : Breidablik W \ud83c\uddee\ud83c\uddf8 vs Czarni Sosnowiec W \ud83c\uddf5\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -780,6 +864,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "NBC Universo",
@@ -802,6 +890,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "beIN Sports Malaysia",
@@ -834,6 +926,10 @@
                         "channel_id": "714"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Cablenet Sports 2 Cyprus",
                         "channel_id": "6"
                     },
@@ -858,6 +954,50 @@
                     {
                         "channel_name": "ORF Sport Plus",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea UEFA Europa Cup Women : Wolfsburg W \ud83c\udde9\ud83c\uddea vs Sturm Graz W \ud83c\udde6\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 UEFA Europa Cup Women : PSV W \ud83c\uddf3\ud83c\uddf1 vs Fortuna Hjorring W \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea UEFA Europa Cup Women : Hammarby W \ud83c\uddf8\ud83c\uddea vs Rangers W \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 UEFA Europa Cup Women : Feyenoord W \ud83c\uddf3\ud83c\uddf1 vs Valerenga W \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -2414,7 +2554,7 @@
         ],
         "Snoojker": [
             {
-                "time": "11:18",
+                "time": "15:54",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 1",
                 "channels": [
                     {
@@ -2424,7 +2564,7 @@
                 ]
             },
             {
-                "time": "11:18",
+                "time": "15:54",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 2",
                 "channels": [
                     {
@@ -2434,7 +2574,7 @@
                 ]
             },
             {
-                "time": "11:18",
+                "time": "15:54",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 3",
                 "channels": [
                     {
@@ -2444,7 +2584,7 @@
                 ]
             },
             {
-                "time": "11:18",
+                "time": "15:54",
                 "event": "\ud83c\udfb1 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Open : Table 4",
                 "channels": [
                     {
@@ -3180,6 +3320,56 @@
         ],
         "Darts \ud83c\udfaf": [
             {
+                "time": "15:54",
+                "event": "\ud83c\udfaf Darts Players Championship",
+                "channels": [
+                    {
+                        "channel_name": "Board 1",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "15:54",
+                "event": "\ud83c\udfaf Darts Players Championship",
+                "channels": [
+                    {
+                        "channel_name": "Board 2",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "15:54",
+                "event": "\ud83c\udfaf Darts Players Championship",
+                "channels": [
+                    {
+                        "channel_name": "Board 3",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "15:54",
+                "event": "\ud83c\udfaf Darts Players Championship",
+                "channels": [
+                    {
+                        "channel_name": "Board 4",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "15:54",
+                "event": "\ud83c\udfaf Darts Players Championship",
+                "channels": [
+                    {
+                        "channel_name": "Board 5",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
                 "time": "11:00",
                 "event": "\ud83c\udfaf Darts Players Championship 30",
                 "channels": [
@@ -3512,6 +3702,10 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "3066"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -3526,6 +3720,10 @@
                     {
                         "channel_name": "TV4 Sport Live 4 Sweden",
                         "channel_id": "3064"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -3540,6 +3738,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "3065"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             },
@@ -3554,6 +3756,10 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "3063"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -3568,6 +3774,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1 Sweden",
                         "channel_id": "3061"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -3582,6 +3792,10 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "3062"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },

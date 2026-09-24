@@ -1,5 +1,27 @@
 {
     "Thursday 24th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:45",
+                "event": "\ud83c\udfc1 4-Crown Nationals Eldora",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 Championship Night Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "76"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1502,6 +1524,20 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Paraguay Copa : Recoleta vs Guairena",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -1678,7 +1714,7 @@
                 ]
             },
             {
-                "time": "18:30",
+                "time": "20:39",
                 "event": "1:30 \u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer : Robert Morris \ud83c\uddfa\ud83c\uddf8 vs Purdue Fort Wayne \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -4238,6 +4274,10 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    },
+                    {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
                     }
@@ -4250,6 +4290,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "NESN USA",

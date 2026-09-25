@@ -1,5 +1,173 @@
 {
     "Friday 25th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:15",
+                "event": "2026 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2026 4-Crown Nationals at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 AMSOIL Championship Off-Road In San Bernardino, CA",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Southern Showcase Swainsboro Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2026 Lucas Oil Jackson 100 at Brownstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 IRA Sprints at Outagamie Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 IMCA Creek Classic at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5010"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Jacksonville Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5011"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models I55 Federated",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5012"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: Rock Bottom 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "MMA Mexico 9: Equipo MMA M\u00e9xico contra Equipo MFL",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 ValleyStar Credit Union 300 at Martinsville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 Fall Nationals at Silver Dollar Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "World of Outlaws Sprint Cars Bakersfield",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5013"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1024,6 +1192,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4114"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -1090,6 +1266,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4122"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -1172,6 +1356,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4121"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -1290,6 +1482,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -1392,6 +1592,14 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -1422,6 +1630,14 @@
                     {
                         "channel_name": "Sportklub 9 Croatia",
                         "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1586,12 +1802,56 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "\u26bd Paraguay Copa : Sp Luqueno vs Guarani",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
                 "time": "21:00",
                 "event": "\u26bd \ud83c\udf0e North America - CONCACAF Nations League : Grenada \ud83c\uddec\ud83c\udde9 vs Cuba \ud83c\udde8\ud83c\uddfa",
                 "channels": [
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "\u26bd Bolivia Copa : Academia del Balompie vs Aurora",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Paraguay Copa : Nacional Asuncion vs Ameliano",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Brazil Serie B : Novorizontino vs Sao Bernardo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -1764,6 +2024,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -3742,6 +4006,10 @@
                         "channel_id": "119"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "\u041c\u0410\u0422\u0427! \u0411\u041e\u0415\u0426 Russia",
                         "channel_id": "395"
                     },
@@ -4262,12 +4530,26 @@
         ],
         "Baseball (MLB) \u26be": [
             {
+                "time": "20:05",
+                "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB : New York Yankees vs Baltimore Orioles",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
                 "time": "22:40",
                 "event": "\u26be \ud83c\uddfa\ud83c\uddf8 MLB : Pittsburgh Pirates \ud83c\uddfa\ud83c\uddf8 vs Detroit Tigers \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "SportsNet Pittsburgh",
@@ -4282,6 +4564,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "NBCS Philadelphia USA",
@@ -4300,6 +4586,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "CW USA",

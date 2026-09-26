@@ -2,7 +2,7 @@ permissions:
   contents: write
 
 name: RUN SCRIPT LISTA
-
+#test
 on:
   push:
     branches: [main, master]

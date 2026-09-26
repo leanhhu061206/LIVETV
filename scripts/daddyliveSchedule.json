@@ -2,6 +2,16 @@
     "Friday 25th Sep 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
+                "time": "17:00",
+                "event": "\ud83c\udfcb\ufe0f Mr. Olympia 2026 Live in Las Vegas",
+                "channels": [
+                    {
+                        "channel_name": "OlympiaTV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
                 "time": "21:15",
                 "event": "2026 Weekly Racing at Stafford Speedway",
                 "channels": [
@@ -288,16 +298,6 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "\ud83c\udfcb\ufe0f Mr. Olympia 2026 Live in Las Vegas, Nevada | 24\u201327 September 2026",
-                "channels": [
-                    {
-                        "channel_name": "OlympiaTV",
-                        "channel_id": "5000"
                     }
                 ]
             },
@@ -1862,6 +1862,10 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -1882,6 +1886,40 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Colombia Copa : U Magdalena vs Santa Fe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Bolivia Copa : Nacional Potosi vs Always Ready",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Brazil Serie B : Vila Nova FC vs Londrina",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
                     }
                 ]
             },
@@ -4366,6 +4404,10 @@
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -4388,6 +4430,10 @@
                         "channel_id": "44"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    },
+                    {
                         "channel_name": "TSN5",
                         "channel_id": "115"
                     }
@@ -4400,6 +4446,10 @@
                     {
                         "channel_name": "FOX USA",
                         "channel_id": "54"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
                     },
                     {
                         "channel_name": "Fox Deportes",
@@ -4589,7 +4639,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "1216"
+                        "channel_id": "1232"
                     },
                     {
                         "channel_name": "CW USA",
@@ -4604,6 +4654,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     },
                     {
                         "channel_name": "MASN USA",
@@ -4628,6 +4682,10 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
+                    },
+                    {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
                     },
@@ -4648,6 +4706,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -4696,6 +4758,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
                     }
                 ]
             },
@@ -4706,6 +4772,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     },
                     {
                         "channel_name": "Chicago Sports Network",
@@ -4724,6 +4794,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     }
                 ]
             },
@@ -5572,6 +5646,10 @@
                         "channel_id": "16"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
                     }
@@ -5584,6 +5662,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     },
                     {
                         "channel_name": "MSG USA",

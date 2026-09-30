@@ -738,12 +738,42 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\udded\ud83c\uddf0 ASEAN Championship : Hong Kong \ud83c\udded\ud83c\uddf0 vs Brunei \ud83c\udde7\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Sevent SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "\u26bd \ud83c\uddf2\ud83c\udde6 U-20 Africa Cup of Nations : Morocco U20 \ud83c\uddf2\ud83c\udde6 vs Algeria U20 \ud83c\udde9\ud83c\uddff",
                 "channels": [
                     {
                         "channel_name": "TV 6 Algeria",
                         "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 UEFA Europa Cup Women : Farul Constanta W \ud83c\uddf7\ud83c\uddf4 vs Sparta Prague W \ud83c\udde8\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Sevent SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff UEFA Europa Cup Women : Aktobe W \ud83c\uddf0\ud83c\uddff vs Ajax W \ud83c\uddf3\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Sevent SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -2958,7 +2988,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "08:07",
+                "time": "11:40",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 1",
                 "channels": [
                     {
@@ -2968,7 +2998,7 @@
                 ]
             },
             {
-                "time": "08:07",
+                "time": "11:40",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 2",
                 "channels": [
                     {
@@ -2978,7 +3008,7 @@
                 ]
             },
             {
-                "time": "08:07",
+                "time": "11:40",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 3",
                 "channels": [
                     {
@@ -2988,7 +3018,7 @@
                 ]
             },
             {
-                "time": "08:07",
+                "time": "11:40",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 4",
                 "channels": [
                     {

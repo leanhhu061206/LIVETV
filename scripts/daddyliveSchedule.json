@@ -1480,6 +1480,20 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3005"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2002"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\u26bd Bolivia Copa : Oriente Petrolero vs The Strongest",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -1490,6 +1504,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     },
                     {
                         "channel_name": "FOX Deportes",
@@ -3320,12 +3338,26 @@
         ],
         "Wrestling (AEW) \ud83e\udd3c": [
             {
+                "time": "23:30",
+                "event": "WWE Wrestling : WWE Worlds Collide 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 All Elite Wrestling (AEW) : Dynamite \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
                         "channel_id": "336"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "TSN2",
@@ -3360,7 +3392,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "20:56",
+                "time": "23:35",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 1",
                 "channels": [
                     {
@@ -3370,7 +3402,7 @@
                 ]
             },
             {
-                "time": "20:56",
+                "time": "23:35",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 2",
                 "channels": [
                     {
@@ -3380,7 +3412,7 @@
                 ]
             },
             {
-                "time": "20:56",
+                "time": "23:35",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 3",
                 "channels": [
                     {
@@ -3390,7 +3422,7 @@
                 ]
             },
             {
-                "time": "20:56",
+                "time": "23:35",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 4",
                 "channels": [
                     {
@@ -3670,6 +3702,10 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
                     },
@@ -3842,6 +3878,10 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     },
                     {
                         "channel_name": "TSN5",
@@ -4650,6 +4690,10 @@
                         "channel_id": "1"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "Viaplay Sports 2 UK",
                         "channel_id": "550"
                     },
@@ -4692,6 +4736,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    },
+                    {
                         "channel_name": "Arena Sport 1 Croatia",
                         "channel_id": "432"
                     },
@@ -4714,6 +4762,10 @@
                     {
                         "channel_name": "Prime Video",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },

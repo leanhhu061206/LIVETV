@@ -1,5 +1,21 @@
 {
     "Thursday 01st Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfcd\ufe0f MotoPlayGround Race Ponca City",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5025"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 Finale LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1798,6 +1814,26 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "\u26bd CONCACAF Nations League : Anguilla vs Antigua and Barbuda",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Brazil Serie B : Athletic Club vs Sport Recife",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "\u26bd Brazil - Serie B : Novorizontino \ud83c\udde7\ud83c\uddf7 vs Goi\u00e1s \ud83c\udde7\ud83c\uddf7",
                 "channels": [
@@ -1814,6 +1850,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -1824,6 +1864,20 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Brazil Serie B : Novorizontino vs Goias",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -1838,6 +1892,10 @@
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -1888,6 +1946,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Apple TV",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Apple TV",
+                        "channel_id": "2020"
                     }
                 ]
             }
@@ -4100,7 +4166,7 @@
                 ]
             },
             {
-                "time": "20:25",
+                "time": "23:13",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 1",
                 "channels": [
                     {
@@ -4110,7 +4176,7 @@
                 ]
             },
             {
-                "time": "20:25",
+                "time": "23:13",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 2",
                 "channels": [
                     {
@@ -4120,7 +4186,7 @@
                 ]
             },
             {
-                "time": "20:25",
+                "time": "23:13",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 3",
                 "channels": [
                     {
@@ -4130,7 +4196,7 @@
                 ]
             },
             {
-                "time": "20:25",
+                "time": "23:13",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open : Table 4",
                 "channels": [
                     {
@@ -4230,6 +4296,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -4252,6 +4322,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -4340,6 +4414,26 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5024"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5127"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5158"
                     }
                 ]
             }
@@ -4366,12 +4460,50 @@
         ],
         "Baseball (MLB) \u26be": [
             {
-                "time": "18:00",
+                "time": "21:00",
+                "event": "\u26be MLB : Chicago White Sox \ud83c\uddfa\ud83c\uddf8 vs Houston Astros \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "RDS 2 CA",
+                        "channel_id": "840"
+                    },
+                    {
+                        "channel_name": "TVA Sports 2",
+                        "channel_id": "834"
+                    },
+                    {
+                        "channel_name": "beIN Sports 5 Max France",
+                        "channel_id": "495"
+                    },
+                    {
+                        "channel_name": "ESPN2 Brazil",
+                        "channel_id": "82"
+                    },
+                    {
+                        "channel_name": "ESPN3 Brazil",
+                        "channel_id": "83"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
                 "event": "\u26be MLB : Philadelphia Phillies \ud83c\uddfa\ud83c\uddf8 vs Atlanta Braves \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -4404,40 +4536,6 @@
                     {
                         "channel_name": "SportsNet+",
                         "channel_id": "3006"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "\u26be MLB : Chicago White Sox \ud83c\uddfa\ud83c\uddf8 vs Houston Astros \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "MLB League Pass",
-                        "channel_id": "4"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    },
-                    {
-                        "channel_name": "RDS 2 CA",
-                        "channel_id": "840"
-                    },
-                    {
-                        "channel_name": "TVA Sports 2",
-                        "channel_id": "834"
-                    },
-                    {
-                        "channel_name": "beIN Sports 5 Max France",
-                        "channel_id": "495"
-                    },
-                    {
-                        "channel_name": "ESPN2 Brazil",
-                        "channel_id": "82"
-                    },
-                    {
-                        "channel_name": "ESPN3 Brazil",
-                        "channel_id": "83"
                     }
                 ]
             },
@@ -5198,6 +5296,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "Viasat Vinter Sweden",
                         "channel_id": "3"
                     }
@@ -5210,6 +5312,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -5234,6 +5340,10 @@
                         "channel_id": "9"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "MSG USA",
                         "channel_id": "765"
                     },
@@ -5250,6 +5360,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "V Sport Xtra Sweden",

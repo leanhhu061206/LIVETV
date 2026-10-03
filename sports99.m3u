@@ -1,238 +1,66 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-2-hd-br.webp",[Soccer] 2026-10-02 22:30 - Brazilian Serie B - São Bernardo vs CRB (Premiere 2 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Caracol.TV.Internacional.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 00:00 - International Friendlies - Colombia vs Paraguay (Caracol TV Internacional LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Caracol%20TV%20Internacional%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TYC.Sports.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports-fhd-arg.webp",[Soccer] 2026-10-03 00:00 - International Friendlies - Colombia vs Paraguay (TYC Sports FHD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-10-03 00:35 - Brazilian Serie B - Fortaleza vs Náutico (ESPN Brasil HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.3.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 3 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%203%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%204&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 8)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%208&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.9" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 9)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%209&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 10)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Sport TV 1 HD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.FHD." group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones FHD.)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20FHD.&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%201&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%202%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%203&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%204&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.5" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 5)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%205&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.5" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 5)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%205&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%206&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%206&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%207&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%207&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 8)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%208&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.11" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 11)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2011&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.12" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 12)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2012&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2013&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.14" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 14)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2014&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2015&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.16" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones 16)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2016&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Sport TV 1 FHD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Sport TV 1 HD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.1.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Sport TV 1 PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Sport TV 1 FHD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SONY.TEN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (SONY TEN 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SONY%20TEN%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SONY.TEN.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (SONY TEN 3)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SONY%20TEN%203&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/movistar-liga-de-campeones-fhd.webp",[Soccer] 2026-10-03 14:00 - International Friendlies - India vs Brazil (Movistar Liga de Campeones FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20FHD&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MatchTV.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/matchtv-ru.webp",[Soccer] 2026-10-03 15:00 - International Friendlies - Russia vs Namibia (MatchTV RU)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 18:00 - International Friendlies - Canada vs Peru (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 18:00 - International Friendlies - Canada vs Peru (TSN 5 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 18:00 - International Friendlies - Canada vs Peru (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 18:00 - International Friendlies - Canada vs Peru (TSN 4 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 18:00 - International Friendlies - Canada vs Peru (TSN 5 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-03 18:00 - International Friendlies - Canada vs Peru (TSN 4 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.3.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 3 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%203%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%204&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 8)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%208&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.9" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 9)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%209&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 10)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.FHD." group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones FHD.)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20FHD.&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%201&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%202%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%203&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%204&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.5" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 5)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%205&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.5" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 5)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%205&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%206&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%206&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%207&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%207&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 8)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%208&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.11" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 11)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2011&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.12" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 12)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2012&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2013&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.14" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 14)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2014&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2015&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.16" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones 16)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%2016&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TELEMUNDO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (TELEMUNDO)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TELEMUNDO&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Dallas.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Dallas FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Dallas%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Chicago.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Chicago FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Chicago%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.HD.CHL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo HD CHL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20HD%20CHL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Chicago.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Chicago FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Chicago%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Connecticut" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Connecticut)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Connecticut&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Frenso.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Frenso FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Frenso%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Orlando" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Orlando)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Orlando&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.San.Francisco.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo San Francisco FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20San%20Francisco%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.HD.PR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo HD PR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20HD%20PR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.West.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo West FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Phoenix.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Phoenix FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Philadelphia.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Philadelphia FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Los Angeles FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.International.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo International LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20International%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Fresno.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Fresno FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Fresno%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Atlanta.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Atlanta FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Atlanta%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Nbc.Universo.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Nbc Universo FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Nbc%20Universo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Internacional.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Internacional HD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Internacional%20HD%20ARG&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.51.Fl..HD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo 51 Fl. HD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2051%20Fl.%20HD%20MX&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.52.California.HD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo 52 California HD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2052%20California%20HD%20MX&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[Soccer] 2026-10-03 18:00 - International Friendlies - Canada vs Peru (RDS CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-10-03 19:00 - Brazilian Serie B - Atlético Goianiense vs América Mineiro (ESPN Brasil HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-10-03 21:30 - Brazilian Serie B - Botafogo-SP vs Vila Nova (ESPN Brasil HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TYC.Sports.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports-fhd-arg.webp",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (TYC Sports FHD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Telefe.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/telefe-hd-arg.webp",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Telefe HD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telefe%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Viaplay.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2-fhd-uk.webp",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Viaplay Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premier.Sports.2.Ireland.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Premier Sports 2 Ireland FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202%20Ireland%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/movistar-liga-de-campeones-fhd.webp",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Liga de Campeones FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20FHD&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Movistar.Plus+.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Movistar Plus+ FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Plus%2B%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Match.Football.3.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-3-ru.webp",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Match Football 3 RU)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Football%203%20RU&code=ru&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.5.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp",[Soccer] 2026-10-04 00:00 - International Friendlies - Argentina vs Burkina Faso (Sport 5 HD IL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt-us.webp",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Azteca.7.FHD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/azteca-7-fhd-mx.webp",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Azteca 7 FHD MX)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca%207%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.FHD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo FHD MX)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Noticias.HD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Noticias HD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%20HD%20MX&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TU.Universo.TV.HD.CO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (TU Universo TV HD CO)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TU%20Universo%20TV%20HD%20CO&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.47.New.York.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo 47 New York FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2047%20New%20York%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Boston.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Boston FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Boston%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Dallas.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Dallas FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Dallas%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Denver.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Denver FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Denver%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.East.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo East FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20East%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Houston" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Houston)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Houston&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Las.Vegas.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Las Vegas FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Las%20Vegas%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Los Angeles FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Los%20Angeles%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Miami" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Miami)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Miami&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Miami.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Miami FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Miami%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Miami.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Miami HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Miami%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Noticias.24/7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Noticias 24/7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%2024%2F7&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Philadelphia.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Philadelphia FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Phoenix.AZ.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Phoenix AZ FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20AZ%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Puerto.Rico.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Puerto Rico FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Puerto%20Rico%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Sacramento" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Sacramento)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Sacramento&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Salt.Lake.City" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Salt Lake City)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Salt%20Lake%20City&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.San.Diego.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo San Diego FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20San%20Diego%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Tampa.FL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Tampa FL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Tampa%20FL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Washington.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo Washington FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Washington%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.West.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (Telemundo West FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (ESPN Brasil HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[Soccer] 2026-10-04 02:00 - International Friendlies - USA vs Mexico (ESPN 2 Primera FHD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVP.Sport.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Italy U21 vs Poland U21 (TVP Sport HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Italy U21 vs Poland U21 (TVP Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Match.Premier.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",[Soccer] 2026-10-05 16:00 - International Friendlies - Serbia U21 vs Russian Federation U21 (Match Premier RU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-2-fhd-us.webp",[Soccer] 2026-10-06 15:00 - UEFA European Under-21 Championship - Luxembourg U21 vs Estonia U21 (Fox Sports 2 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.3.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-3-hd-pt.webp",[Soccer] 2026-10-06 15:00 - UEFA European Under-21 Championship - Luxembourg U21 vs Estonia U21 (Sport TV 3 HD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%203%20HD%20PT&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Prima.Sport.4.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-4-fhd-ro.webp",[Soccer] 2026-10-06 15:00 - UEFA European Under-21 Championship - Luxembourg U21 vs Estonia U21 (Prima Sport 4 FHD RO)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%204%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Diema.Sport.2.HD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/diema-sport-2-hd-bg.webp",[Soccer] 2026-10-06 15:00 - UEFA European Under-21 Championship - Luxembourg U21 vs Estonia U21 (Diema Sport 2 HD BG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%202%20HD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Sports.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-2-fhd-us.webp",[Soccer] 2026-10-06 15:00 - UEFA European Under-21 Championship - Moldova U21 vs Kazakhstan U21 (Fox Sports 2 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.1.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-1-fhd-de.webp",[Soccer] 2026-10-06 15:00 - UEFA European Under-21 Championship - Moldova U21 vs Kazakhstan U21 (DAZN 1 FHD DE)
@@ -263,30 +91,36 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal.11.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/canal-11-pt.webp",[Soccer] 2026-10-06 15:00 - UEFA European Under-21 Championship - Portugal U21 vs Czech Republic U21 (Canal 11 PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 23:00 - CFL - Ottawa Redblacks vs Hamilton Tiger-Cats (TSN 5 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 23:00 - CFL - Ottawa Redblacks vs Hamilton Tiger-Cats (TSN 1 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 23:00 - CFL - Ottawa Redblacks vs Hamilton Tiger-Cats (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 01:30 - CFL - Saskatchewan Roughriders vs Calgary Stampeders (TSN 5 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 01:30 - CFL - Saskatchewan Roughriders vs Calgary Stampeders (TSN 1 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 01:30 - CFL - Saskatchewan Roughriders vs Calgary Stampeders (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (TSN 5 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (TSN 1 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (TSN 5 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (TSN 1 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 23:00 - CFL - Ottawa Redblacks vs Hamilton Tiger-Cats (TSN 5 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 01:30 - CFL - Saskatchewan Roughriders vs Calgary Stampeders (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 01:30 - CFL - Saskatchewan Roughriders vs Calgary Stampeders (TSN 5 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 01:30 - CFL - Saskatchewan Roughriders vs Calgary Stampeders (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 01:30 - CFL - Saskatchewan Roughriders vs Calgary Stampeders (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (TSN 5 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/ctv.webp",[NFL] 2026-10-03 19:00 - CFL - Toronto Argonauts vs BC Lions (CTV)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (TSN 5 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (RDS CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-03 23:00 - CFL - Montreal Alouettes vs Winnipeg Blue Bombers (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 13:30 - NFL - Washington Commanders vs Indianapolis Colts (NFL Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 13:30 - NFL - Washington Commanders vs Indianapolis Colts (ESPN Deportes US)
@@ -541,6 +375,96 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Unimas.East.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 17:00 - MLB - Cleveland Guardians vs Chicago White Sox (Unimas East FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Unimas%20East%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 17:00 - MLB - Cleveland Guardians vs Chicago White Sox (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-03 17:00 - MLB - Cleveland Guardians vs Chicago White Sox (TNT Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 17:00 - MLB - Cleveland Guardians vs Chicago White Sox (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 17:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Ontario HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 17:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet West HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 22:30 - MLB - Tampa Bay Rays vs New York Yankees (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 22:30 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet One HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.4.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4-fhd-uk.webp",[MLB] 2026-10-03 22:30 - MLB - Tampa Bay Rays vs New York Yankees (TNT Sports 4 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 22:30 - MLB - Tampa Bay Rays vs New York Yankees (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.360.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-03 22:30 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet 360 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp",[MLB] 2026-10-03 22:30 - MLB - Tampa Bay Rays vs New York Yankees (RDS 2 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-04 00:30 - MLB - Milwaukee Brewers vs San Diego Padres (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 00:30 - MLB - Milwaukee Brewers vs San Diego Padres (Fox Deportes HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.360.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 00:30 - MLB - Milwaukee Brewers vs San Diego Padres (Sportsnet 360 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (Fox Deportes HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.360.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (Sportsnet 360 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Unimas.East.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Unimas East FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Unimas%20East%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (TNT Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Ontario HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet West HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet One HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.4.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4-fhd-uk.webp",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (TNT Sports 4 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.360.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet 360 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (RDS 2 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Deportes HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.360.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Sportsnet 360 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Unimas.East.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (Unimas East FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Unimas%20East%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (TNT Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (Sportsnet Ontario HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (Sportsnet West HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (Sportsnet One HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.4.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4-fhd-uk.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (TNT Sports 4 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.360.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (Sportsnet 360 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (RDS 2 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[NCAA] 2026-10-17 18:00 - NCAA Division 1 Football - North Dakota vs South Dakota State (Sky Sport 1 NZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[NCAA] 2026-10-24 18:00 - NCAA Division 1 Football - South Dakota vs North Dakota (Sky Sport 1 NZ)
@@ -551,8 +475,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[Basketball] 2026-10-03 01:00 - WNBA - Golden State Valkyries vs Dallas Wings (ESPN 2 Primera FHD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[Basketball] 2026-10-03 01:00 - WNBA - Golden State Valkyries vs Dallas Wings (ESPN 2 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[Motorsport] 2026-10-03 01:10 - MotoGP -  vs  (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix-fhd-de.webp",[Motorsport] 2026-10-03 01:10 - MotoGP -  vs  (Sky Sport Mix FHD DE)
@@ -579,6 +501,32 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20FHD%20NL&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (TNT Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix-fhd-de.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Sky Sport Mix FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Mix%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event-fhd-de.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Sky Sport Top Event FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Canal+ Sport 360 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.4.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-4-hd-pt.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Sport TV 4 HD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%204%20HD%20PT&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-fhd-arg.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (ESPN FHD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-2-fhd-pl.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Polsat Sport Premium 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Cosmote.Sport.5.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-5-hd-gr.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Cosmote Sport 5 HD GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&code=gr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Ziggo.Sport.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-fhd-nl.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Ziggo Sport FHD NL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Max.Sport.4.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-4-fhd-bg.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Max Sport 4 FHD BG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (Sport 5 Live HD IL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
@@ -595,6 +543,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Fightpass.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 21:00 - UFC -  vs  (UFC Fightpass HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fightpass%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CBS.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-us.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (CBS US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (Polsat Sport 1 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (Sport TV 1 FHD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RMC.Sport.1.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1-hd-fr.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (RMC Sport 1 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Cytavision.Sports.7.HD.CY" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-7-hd-cy.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (Cytavision Sports 7 HD CY)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%207%20HD%20CY&code=cy&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (Max Sport 2 FHD BG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-1-fhd-pl.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (Polsat Sport Premium 1 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Cosmote.Sport.8.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 21:00 - UFC -  vs  (Cosmote Sport 8 HD GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%208%20HD%20GR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[UFC] 2026-10-03 21:00 - UFC -  vs  (Sport 5 Live HD IL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="✧❯❯.Netflix.Channels.❮❮✧" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (✧❯❯ Netflix Channels ❮❮✧)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%E2%9C%A7%E2%9D%AF%E2%9D%AF%20Netflix%20Channels%20%E2%9D%AE%E2%9D%AE%E2%9C%A7&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.HORROR.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NETFLIX HORROR 1)

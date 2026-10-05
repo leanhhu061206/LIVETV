@@ -1,8 +1,100 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="TVP.Sport.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Italy U21 vs Poland U21 (TVP Sport HD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Italy U21 vs Poland U21 (TVP Sport FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="17:00.Monterrey.Open:.Day.2.8/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (17:00 Monterrey Open: Day 2 8/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=17%3A00%20Monterrey%20Open%3A%20Day%202%208%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="5:00.PM.EDT.Monterrey.Open:.Day.3.8/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (5:00 PM EDT Monterrey Open: Day 3 8/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=5%3A00%20PM%20EDT%20Monterrey%20Open%3A%20Day%203%208%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="5:00.PM.EDT.Monterrey.Open:.Day.4.8/26.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (5:00 PM EDT Monterrey Open: Day 4 8/26 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=5%3A00%20PM%20EDT%20Monterrey%20Open%3A%20Day%204%208%2F26%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="5:00.PM.EDT.Monterrey.Open:.Day.5.8/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (5:00 PM EDT Monterrey Open: Day 5 8/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=5%3A00%20PM%20EDT%20Monterrey%20Open%3A%20Day%205%208%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="6:00.PM.EDT.Calgary.Rangers.SC.vs..AS.Laval.8/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (6:00 PM EDT Calgary Rangers SC vs. AS Laval 8/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=6%3A00%20PM%20EDT%20Calgary%20Rangers%20SC%20vs.%20AS%20Laval%208%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="6:00.PM.EDT.Burnaby.FC.vs..Edmonton.BTB.SC.8/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (6:00 PM EDT Burnaby FC vs. Edmonton BTB SC 8/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=6%3A00%20PM%20EDT%20Burnaby%20FC%20vs.%20Edmonton%20BTB%20SC%208%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:00.PM.EDT.Steelers.@.Bills.8/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (7:00 PM EDT Steelers @ Bills 8/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A00%20PM%20EDT%20Steelers%20%40%20Bills%208%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:00.PM.EDT.Patriots.@.Browns.8/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (8:00 PM EDT Patriots @ Browns 8/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A00%20PM%20EDT%20Patriots%20%40%20Browns%208%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:00.PM.EDT.49ers.@.Raiders.8/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (8:00 PM EDT 49ers @ Raiders 8/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A00%20PM%20EDT%2049ers%20%40%20Raiders%208%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EDT.Rams.@.Chargers.8/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:00 PM EDT Rams @ Chargers 8/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EDT%20Rams%20%40%20Chargers%208%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EDT.Memphis.@.UNLV.8/29.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:00 PM EDT Memphis @ UNLV 8/29 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EDT%20Memphis%20%40%20UNLV%208%2F29%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="12:00.AM.EDT.Final.|.Cashmere.Technical.FC.vs..Fencibles.United.AFC.9/5.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (12:00 AM EDT Final | Cashmere Technical FC vs. Fencibles United AFC 9/5 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20Final%20%7C%20Cashmere%20Technical%20FC%20vs.%20Fencibles%20United%20AFC%209%2F5%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EDT.Central.Michigan.@.New.Mexico.9/5.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:00 PM EDT Central Michigan @ New Mexico 9/5 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EDT%20Central%20Michigan%20%40%20New%20Mexico%209%2F5%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EDT.North.Dakota.@.Air.Force.9/12.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:00 PM EDT North Dakota @ Air Force 9/12 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EDT%20North%20Dakota%20%40%20Air%20Force%209%2F12%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Louisiana.@.USC.9/12.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Louisiana @ USC 9/12 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Louisiana%20%40%20USC%209%2F12%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="3:00.PM.EDT.Guadalajara.Open:.Day.3.9/15.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (3:00 PM EDT Guadalajara Open: Day 3 9/15 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=3%3A00%20PM%20EDT%20Guadalajara%20Open%3A%20Day%203%209%2F15%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="3:00.PM.EDT.Guadalajara.Open:.Day.4.9/16.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (3:00 PM EDT Guadalajara Open: Day 4 9/16 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=3%3A00%20PM%20EDT%20Guadalajara%20Open%3A%20Day%204%209%2F16%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:30.PM.EDT.Portland.State.@.Oregon.9/18.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:30 PM EDT Portland State @ Oregon 9/18 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A30%20PM%20EDT%20Portland%20State%20%40%20Oregon%209%2F18%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.French.Riviera.T100.9/19.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (2:00 AM EDT French Riviera T100 9/19 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20French%20Riviera%20T100%209%2F19%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Fresno.State.@.San.Jose.State.9/19.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Fresno State @ San Jose State 9/19 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Fresno%20State%20%40%20San%20Jose%20State%209%2F19%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Purdue.@.UCLA.9/19.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Purdue @ UCLA 9/19 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Purdue%20%40%20UCLA%209%2F19%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:30.AM.EDT.Sydney.-.Race.2.9/20.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (1:30 AM EDT Sydney - Race 2 9/20 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A30%20AM%20EDT%20Sydney%20-%20Race%202%209%2F20%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Singapore.Open:.Day.2.9/21.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Singapore Open: Day 2 9/21 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Singapore%20Open%3A%20Day%202%209%2F21%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EDT.Singapore.Open:.Day.3.9/23.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (1:00 AM EDT Singapore Open: Day 3 9/23 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Singapore%20Open%3A%20Day%203%209%2F23%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Korea.Open:.Day.4.9/23.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Korea Open: Day 4 9/23 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Korea%20Open%3A%20Day%204%209%2F23%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EDT.Singapore.Open:.Day.4.9/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (1:00 AM EDT Singapore Open: Day 4 9/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Singapore%20Open%3A%20Day%204%209%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="6:00.PM.EDT.PPL.Playa.Del.Carmen.-.Day.1.9/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (6:00 PM EDT PPL Playa Del Carmen - Day 1 9/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=6%3A00%20PM%20EDT%20PPL%20Playa%20Del%20Carmen%20-%20Day%201%209%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Korea.Open:.Day.5.9/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Korea Open: Day 5 9/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Korea%20Open%3A%20Day%205%209%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EDT.Singapore.Open:.Day.5.9/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (1:00 AM EDT Singapore Open: Day 5 9/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Singapore%20Open%3A%20Day%205%209%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="12:30.PM.EDT.U15.Baseball.World.Cup.2026.-.Day.1.-.Kukulkan.9/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (12:30 PM EDT U15 Baseball World Cup 2026 - Day 1 - Kukulkan 9/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20PM%20EDT%20U15%20Baseball%20World%20Cup%202026%20-%20Day%201%20-%20Kukulkan%209%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="6:00.PM.EDT.PPL.Playa.Del.Carmen.-.Day.2.-.Session.2.9/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (6:00 PM EDT PPL Playa Del Carmen - Day 2 - Session 2 9/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=6%3A00%20PM%20EDT%20PPL%20Playa%20Del%20Carmen%20-%20Day%202%20-%20Session%202%209%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EDT.Korea.Open:.Day.6.9/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:00 PM EDT Korea Open: Day 6 9/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EDT%20Korea%20Open%3A%20Day%206%209%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EDT.Seoul.Open:.Day.6.-.Stream.B.9/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:00 PM EDT Seoul Open: Day 6 - Stream B 9/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EDT%20Seoul%20Open%3A%20Day%206%20-%20Stream%20B%209%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="6:00.PM.EDT.PPL.Playa.Del.Carmen.-.Day.3.-.Session.2.9/26.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (6:00 PM EDT PPL Playa Del Carmen - Day 3 - Session 2 9/26 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=6%3A00%20PM%20EDT%20PPL%20Playa%20Del%20Carmen%20-%20Day%203%20-%20Session%202%209%2F26%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:30.PM.EDT.Air.Force.@.Nevada.9/26.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:30 PM EDT Air Force @ Nevada 9/26 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A30%20PM%20EDT%20Air%20Force%20%40%20Nevada%209%2F26%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Minnesota.@.Washington.9/26.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Minnesota @ Washington 9/26 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Minnesota%20%40%20Washington%209%2F26%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:30.AM.EDT.U15.Baseball.World.Cup.2026.-.Day.5.-.Beto.Avila.9/29.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:30 AM EDT U15 Baseball World Cup 2026 - Day 5 - Beto Avila 9/29 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20AM%20EDT%20U15%20Baseball%20World%20Cup%202026%20-%20Day%205%20-%20Beto%20Avila%209%2F29%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="12:30.PM.EDT.U15.Baseball.World.Cup.2026.-.Day.5.-.Kukulkan.9/29.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (12:30 PM EDT U15 Baseball World Cup 2026 - Day 5 - Kukulkan 9/29 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20PM%20EDT%20U15%20Baseball%20World%20Cup%202026%20-%20Day%205%20-%20Kukulkan%209%2F29%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="12:30.PM.EDT.U15.Baseball.World.Cup.2026.-.Day.6.-.Kukulkan.10/1.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (12:30 PM EDT U15 Baseball World Cup 2026 - Day 6 - Kukulkan 10/1 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20PM%20EDT%20U15%20Baseball%20World%20Cup%202026%20-%20Day%206%20-%20Kukulkan%2010%2F1%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:15.PM.EDT.Grand.Prix.of.Shanghai.-.Pole.Position.10/1.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:15 PM EDT Grand Prix of Shanghai - Pole Position 10/1 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A15%20PM%20EDT%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F1%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Beijing.Open:.Day.3.10/1.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Beijing Open: Day 3 10/1 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Beijing%20Open%3A%20Day%203%2010%2F1%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:15.PM.EDT.Grand.Prix.of.Shanghai.-.Moto.2.10/2.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (10:15 PM EDT Grand Prix of Shanghai - Moto 2 10/2 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A15%20PM%20EDT%20Grand%20Prix%20of%20Shanghai%20-%20Moto%202%2010%2F2%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Beijing.Open:.Day.4.10/2.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (11:00 PM EDT Beijing Open: Day 4 10/2 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Beijing%20Open%3A%20Day%204%2010%2F2%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:45.AM.EDT.Grand.Prix.of.Shanghai.-.Moto.3.10/3.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (1:45 AM EDT Grand Prix of Shanghai - Moto 3 10/3 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A45%20AM%20EDT%20Grand%20Prix%20of%20Shanghai%20-%20Moto%203%2010%2F3%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.Rally.Italia.Sardegna:.Stage.8.10/3.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Montenegro U21 vs Armenia U21 (2:00 AM EDT Rally Italia Sardegna: Stage 8 10/3 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20Rally%20Italia%20Sardegna%3A%20Stage%208%2010%2F3%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport-fhd-pl.webp",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Italy U21 vs Poland U21 (TVP Sport FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="V.Sport.Premium.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Sweden U21 vs North Macedonia U21 (V Sport Premium SE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Match.Premier.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",[Soccer] 2026-10-05 16:00 - International Friendlies - Serbia U21 vs Russian Federation U21 (Match Premier RU)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 14:00 - International Friendlies - India vs Uruguay (Sport TV 1 FHD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 14:00 - International Friendlies - India vs Uruguay (Sport TV 1 HD PT)
@@ -17,6 +109,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 22:30 - Brazilian Serie B - Sport Recife vs São Bernardo (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 22:30 - Brazilian Serie B - Sport Recife vs São Bernardo (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 22:30 - Brazilian Serie B - Sport Recife vs São Bernardo (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 22:30 - Brazilian Serie B - Sport Recife vs São Bernardo (Premiere 7 HD BR)
@@ -39,6 +133,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 23:30 - Brazilian Serie B - Goiás vs Athletic Club-MG (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 23:30 - Brazilian Serie B - Goiás vs Athletic Club-MG (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 23:30 - Brazilian Serie B - Goiás vs Athletic Club-MG (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 23:30 - Brazilian Serie B - Goiás vs Athletic Club-MG (Premiere 7 HD BR)
@@ -57,6 +153,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 00:35 - Brazilian Serie B - Ponte Preta vs Juventude (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 00:35 - Brazilian Serie B - Ponte Preta vs Juventude (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 00:35 - Brazilian Serie B - Ponte Preta vs Juventude (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 00:35 - Brazilian Serie B - Ponte Preta vs Juventude (Premiere 7 HD BR)
@@ -71,6 +169,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Avaí vs Londrina (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Avaí vs Londrina (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Avaí vs Londrina (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Avaí vs Londrina (Premiere 7 HD BR)
@@ -85,6 +185,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Operário Ferroviário vs Botafogo-SP (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Operário Ferroviário vs Botafogo-SP (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Operário Ferroviário vs Botafogo-SP (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 22:30 - Brazilian Serie B - Operário Ferroviário vs Botafogo-SP (Premiere 7 HD BR)
@@ -99,6 +201,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - América Mineiro vs Fortaleza (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - América Mineiro vs Fortaleza (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - América Mineiro vs Fortaleza (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - América Mineiro vs Fortaleza (Premiere 7 HD BR)
@@ -113,6 +217,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - CRB vs Atlético Goianiense (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - CRB vs Atlético Goianiense (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - CRB vs Atlético Goianiense (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - CRB vs Atlético Goianiense (Premiere 7 HD BR)
@@ -127,6 +233,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - Vila Nova vs Cuiabá (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - Vila Nova vs Cuiabá (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - Vila Nova vs Cuiabá (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-07 23:30 - Brazilian Serie B - Vila Nova vs Cuiabá (Premiere 7 HD BR)
@@ -141,6 +249,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Ceará vs Criciúma (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Ceará vs Criciúma (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Ceará vs Criciúma (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Ceará vs Criciúma (Premiere 7 HD BR)
@@ -155,6 +265,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Náutico vs Novorizontino (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Náutico vs Novorizontino (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Náutico vs Novorizontino (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-08 22:30 - Brazilian Serie B - Náutico vs Novorizontino (Premiere 7 HD BR)
@@ -169,6 +281,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:00 - Brazilian Serie B - Juventude vs São Bernardo (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:00 - Brazilian Serie B - Juventude vs São Bernardo (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:00 - Brazilian Serie B - Juventude vs São Bernardo (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:00 - Brazilian Serie B - Juventude vs São Bernardo (Premiere 7 HD BR)
@@ -183,6 +297,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:10 - Brazilian Serie B - Atlético Goianiense vs Sport Recife (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:10 - Brazilian Serie B - Atlético Goianiense vs Sport Recife (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:10 - Brazilian Serie B - Atlético Goianiense vs Sport Recife (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 19:10 - Brazilian Serie B - Atlético Goianiense vs Sport Recife (Premiere 7 HD BR)
@@ -197,6 +313,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 20:30 - Brazilian Serie B - Náutico vs Vila Nova (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 20:30 - Brazilian Serie B - Náutico vs Vila Nova (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 20:30 - Brazilian Serie B - Náutico vs Vila Nova (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 20:30 - Brazilian Serie B - Náutico vs Vila Nova (Premiere 7 HD BR)
@@ -211,6 +329,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Cuiabá vs Avaí (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Cuiabá vs Avaí (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Cuiabá vs Avaí (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Cuiabá vs Avaí (Premiere 7 HD BR)
@@ -225,6 +345,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Operário Ferroviário vs Goiás (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Operário Ferroviário vs Goiás (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Operário Ferroviário vs Goiás (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-11 21:30 - Brazilian Serie B - Operário Ferroviário vs Goiás (Premiere 7 HD BR)
@@ -239,6 +361,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:00 - Brazilian Serie B - Novorizontino vs Ponte Preta (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:00 - Brazilian Serie B - Novorizontino vs Ponte Preta (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:00 - Brazilian Serie B - Novorizontino vs Ponte Preta (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:00 - Brazilian Serie B - Novorizontino vs Ponte Preta (Premiere 7 HD BR)
@@ -253,6 +377,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:30 - Brazilian Serie B - Criciúma vs América Mineiro (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:30 - Brazilian Serie B - Criciúma vs América Mineiro (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:30 - Brazilian Serie B - Criciúma vs América Mineiro (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 22:30 - Brazilian Serie B - Criciúma vs América Mineiro (Premiere 7 HD BR)
@@ -267,6 +393,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 23:30 - Brazilian Serie B - Fortaleza vs CRB (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 23:30 - Brazilian Serie B - Fortaleza vs CRB (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 23:30 - Brazilian Serie B - Fortaleza vs CRB (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-12 23:30 - Brazilian Serie B - Fortaleza vs CRB (Premiere 7 HD BR)
@@ -281,6 +409,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 00:00 - Brazilian Serie B - Botafogo-SP vs Ceará (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 00:00 - Brazilian Serie B - Botafogo-SP vs Ceará (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 00:00 - Brazilian Serie B - Botafogo-SP vs Ceará (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 00:00 - Brazilian Serie B - Botafogo-SP vs Ceará (Premiere 7 HD BR)
@@ -295,6 +425,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 22:30 - Brazilian Serie B - Athletic Club-MG vs Londrina (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 22:30 - Brazilian Serie B - Athletic Club-MG vs Londrina (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 22:30 - Brazilian Serie B - Athletic Club-MG vs Londrina (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-13 22:30 - Brazilian Serie B - Athletic Club-MG vs Londrina (Premiere 7 HD BR)
@@ -309,6 +441,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 22:30 - Brazilian Serie B - Ponte Preta vs Atlético Goianiense (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 22:30 - Brazilian Serie B - Ponte Preta vs Atlético Goianiense (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 22:30 - Brazilian Serie B - Ponte Preta vs Atlético Goianiense (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 22:30 - Brazilian Serie B - Ponte Preta vs Atlético Goianiense (Premiere 7 HD BR)
@@ -323,6 +457,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 23:30 - Brazilian Serie B - Sport Recife vs Fortaleza (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 23:30 - Brazilian Serie B - Sport Recife vs Fortaleza (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 23:30 - Brazilian Serie B - Sport Recife vs Fortaleza (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-16 23:30 - Brazilian Serie B - Sport Recife vs Fortaleza (Premiere 7 HD BR)
@@ -337,6 +473,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 19:30 - Brazilian Serie B - Ceará vs Juventude (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 19:30 - Brazilian Serie B - Ceará vs Juventude (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 19:30 - Brazilian Serie B - Ceará vs Juventude (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 19:30 - Brazilian Serie B - Ceará vs Juventude (Premiere 7 HD BR)
@@ -351,6 +489,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 21:30 - Brazilian Serie B - América Mineiro vs Operário Ferroviário (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 21:30 - Brazilian Serie B - América Mineiro vs Operário Ferroviário (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 21:30 - Brazilian Serie B - América Mineiro vs Operário Ferroviário (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-17 21:30 - Brazilian Serie B - América Mineiro vs Operário Ferroviário (Premiere 7 HD BR)
@@ -365,6 +505,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - Avaí vs Athletic Club-MG (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - Avaí vs Athletic Club-MG (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - Avaí vs Athletic Club-MG (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - Avaí vs Athletic Club-MG (Premiere 7 HD BR)
@@ -379,6 +521,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - CRB vs Botafogo-SP (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - CRB vs Botafogo-SP (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - CRB vs Botafogo-SP (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - CRB vs Botafogo-SP (Premiere 7 HD BR)
@@ -393,6 +537,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - São Bernardo vs Criciúma (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - São Bernardo vs Criciúma (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - São Bernardo vs Criciúma (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 19:00 - Brazilian Serie B - São Bernardo vs Criciúma (Premiere 7 HD BR)
@@ -407,6 +553,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 21:00 - Brazilian Serie B - Vila Nova vs Novorizontino (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 21:00 - Brazilian Serie B - Vila Nova vs Novorizontino (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 21:00 - Brazilian Serie B - Vila Nova vs Novorizontino (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-18 21:00 - Brazilian Serie B - Vila Nova vs Novorizontino (Premiere 7 HD BR)
@@ -421,6 +569,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-19 22:30 - Brazilian Serie B - Goiás vs Náutico (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-19 22:30 - Brazilian Serie B - Goiás vs Náutico (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-19 22:30 - Brazilian Serie B - Goiás vs Náutico (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-19 22:30 - Brazilian Serie B - Goiás vs Náutico (Premiere 7 HD BR)
@@ -435,6 +585,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-20 22:30 - Brazilian Serie B - Londrina vs Cuiabá (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-20 22:30 - Brazilian Serie B - Londrina vs Cuiabá (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-20 22:30 - Brazilian Serie B - Londrina vs Cuiabá (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-20 22:30 - Brazilian Serie B - Londrina vs Cuiabá (Premiere 7 HD BR)
@@ -449,6 +601,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - América Mineiro vs Cuiabá (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - América Mineiro vs Cuiabá (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - América Mineiro vs Cuiabá (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - América Mineiro vs Cuiabá (Premiere 7 HD BR)
@@ -463,6 +617,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Atlético Goianiense vs Novorizontino (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Atlético Goianiense vs Novorizontino (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Atlético Goianiense vs Novorizontino (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Atlético Goianiense vs Novorizontino (Premiere 7 HD BR)
@@ -477,6 +633,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Avaí vs Botafogo-SP (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Avaí vs Botafogo-SP (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Avaí vs Botafogo-SP (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Avaí vs Botafogo-SP (Premiere 7 HD BR)
@@ -491,6 +649,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ceará vs Goiás (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ceará vs Goiás (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ceará vs Goiás (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ceará vs Goiás (Premiere 7 HD BR)
@@ -505,6 +665,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - CRB vs Londrina (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - CRB vs Londrina (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - CRB vs Londrina (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - CRB vs Londrina (Premiere 7 HD BR)
@@ -519,6 +681,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Juventude vs Náutico (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Juventude vs Náutico (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Juventude vs Náutico (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Juventude vs Náutico (Premiere 7 HD BR)
@@ -533,6 +697,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Operário Ferroviário vs Athletic Club-MG (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Operário Ferroviário vs Athletic Club-MG (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Operário Ferroviário vs Athletic Club-MG (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Operário Ferroviário vs Athletic Club-MG (Premiere 7 HD BR)
@@ -547,6 +713,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ponte Preta vs Fortaleza (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ponte Preta vs Fortaleza (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ponte Preta vs Fortaleza (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Ponte Preta vs Fortaleza (Premiere 7 HD BR)
@@ -561,6 +729,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - São Bernardo vs Vila Nova (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - São Bernardo vs Vila Nova (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - São Bernardo vs Vila Nova (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - São Bernardo vs Vila Nova (Premiere 7 HD BR)
@@ -575,6 +745,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Sport Recife vs Criciúma (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Sport Recife vs Criciúma (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Sport Recife vs Criciúma (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:00 - Brazilian Serie B - Sport Recife vs Criciúma (Premiere 7 HD BR)
@@ -589,6 +761,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Athletic Club-MG vs Ceará (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Athletic Club-MG vs Ceará (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Athletic Club-MG vs Ceará (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Athletic Club-MG vs Ceará (Premiere 7 HD BR)
@@ -603,6 +777,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Botafogo-SP vs Sport Recife (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Botafogo-SP vs Sport Recife (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Botafogo-SP vs Sport Recife (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Botafogo-SP vs Sport Recife (Premiere 7 HD BR)
@@ -617,6 +793,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Criciúma vs Ponte Preta (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Criciúma vs Ponte Preta (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Criciúma vs Ponte Preta (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Criciúma vs Ponte Preta (Premiere 7 HD BR)
@@ -631,6 +809,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Cuiabá vs São Bernardo (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Cuiabá vs São Bernardo (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Cuiabá vs São Bernardo (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Cuiabá vs São Bernardo (Premiere 7 HD BR)
@@ -645,6 +825,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Fortaleza vs Atlético Goianiense (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Fortaleza vs Atlético Goianiense (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Fortaleza vs Atlético Goianiense (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Fortaleza vs Atlético Goianiense (Premiere 7 HD BR)
@@ -659,6 +841,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Goiás vs CRB (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Goiás vs CRB (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Goiás vs CRB (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Goiás vs CRB (Premiere 7 HD BR)
@@ -673,6 +857,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Londrina vs América Mineiro (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Londrina vs América Mineiro (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Londrina vs América Mineiro (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Londrina vs América Mineiro (Premiere 7 HD BR)
@@ -687,6 +873,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Náutico vs Avaí (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Náutico vs Avaí (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Náutico vs Avaí (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Náutico vs Avaí (Premiere 7 HD BR)
@@ -701,6 +889,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Novorizontino vs Operário Ferroviário (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Novorizontino vs Operário Ferroviário (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Novorizontino vs Operário Ferroviário (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Novorizontino vs Operário Ferroviário (Premiere 7 HD BR)
@@ -715,6 +905,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Vila Nova vs Juventude (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Vila Nova vs Juventude (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Vila Nova vs Juventude (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-31 20:00 - Brazilian Serie B - Vila Nova vs Juventude (Premiere 7 HD BR)
@@ -729,6 +921,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Athletic Club-MG vs Atlético Goianiense (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Athletic Club-MG vs Atlético Goianiense (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Athletic Club-MG vs Atlético Goianiense (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Athletic Club-MG vs Atlético Goianiense (Premiere 7 HD BR)
@@ -743,6 +937,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Avaí vs São Bernardo (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Avaí vs São Bernardo (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Avaí vs São Bernardo (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Avaí vs São Bernardo (Premiere 7 HD BR)
@@ -757,6 +953,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Botafogo-SP vs Londrina (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Botafogo-SP vs Londrina (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Botafogo-SP vs Londrina (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Botafogo-SP vs Londrina (Premiere 7 HD BR)
@@ -771,6 +969,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Ceará vs América Mineiro (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Ceará vs América Mineiro (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Ceará vs América Mineiro (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Ceará vs América Mineiro (Premiere 7 HD BR)
@@ -785,6 +985,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Cuiabá vs Juventude (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Cuiabá vs Juventude (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Cuiabá vs Juventude (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Cuiabá vs Juventude (Premiere 7 HD BR)
@@ -799,6 +1001,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Goiás vs Ponte Preta (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Goiás vs Ponte Preta (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Goiás vs Ponte Preta (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Goiás vs Ponte Preta (Premiere 7 HD BR)
@@ -813,6 +1017,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Náutico vs CRB (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Náutico vs CRB (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Náutico vs CRB (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Náutico vs CRB (Premiere 7 HD BR)
@@ -827,6 +1033,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Novorizontino vs Fortaleza (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Novorizontino vs Fortaleza (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Novorizontino vs Fortaleza (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Novorizontino vs Fortaleza (Premiere 7 HD BR)
@@ -841,6 +1049,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Operário Ferroviário vs Sport Recife (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Operário Ferroviário vs Sport Recife (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Operário Ferroviário vs Sport Recife (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Operário Ferroviário vs Sport Recife (Premiere 7 HD BR)
@@ -855,6 +1065,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Vila Nova vs Criciúma (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Vila Nova vs Criciúma (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Vila Nova vs Criciúma (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 20:00 - Brazilian Serie B - Vila Nova vs Criciúma (Premiere 7 HD BR)
@@ -869,6 +1081,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - América Mineiro vs Avaí (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - América Mineiro vs Avaí (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - América Mineiro vs Avaí (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - América Mineiro vs Avaí (Premiere 7 HD BR)
@@ -883,6 +1097,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Atlético Goianiense vs Cuiabá (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Atlético Goianiense vs Cuiabá (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Atlético Goianiense vs Cuiabá (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Atlético Goianiense vs Cuiabá (Premiere 7 HD BR)
@@ -897,6 +1113,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - CRB vs Ceará (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - CRB vs Ceará (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - CRB vs Ceará (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - CRB vs Ceará (Premiere 7 HD BR)
@@ -911,6 +1129,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Criciúma vs Novorizontino (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Criciúma vs Novorizontino (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Criciúma vs Novorizontino (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Criciúma vs Novorizontino (Premiere 7 HD BR)
@@ -925,6 +1145,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Fortaleza vs Vila Nova (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Fortaleza vs Vila Nova (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Fortaleza vs Vila Nova (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Fortaleza vs Vila Nova (Premiere 7 HD BR)
@@ -939,6 +1161,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Juventude vs Botafogo-SP (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Juventude vs Botafogo-SP (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Juventude vs Botafogo-SP (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Juventude vs Botafogo-SP (Premiere 7 HD BR)
@@ -953,6 +1177,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Londrina vs Náutico (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Londrina vs Náutico (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Londrina vs Náutico (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Londrina vs Náutico (Premiere 7 HD BR)
@@ -967,6 +1193,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Ponte Preta vs Operário Ferroviário (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Ponte Preta vs Operário Ferroviário (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Ponte Preta vs Operário Ferroviário (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Ponte Preta vs Operário Ferroviário (Premiere 7 HD BR)
@@ -981,6 +1209,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - São Bernardo vs Athletic Club-MG (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - São Bernardo vs Athletic Club-MG (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - São Bernardo vs Athletic Club-MG (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - São Bernardo vs Athletic Club-MG (Premiere 7 HD BR)
@@ -995,6 +1225,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 3 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 5 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 7 HD BR)
@@ -1003,94 +1235,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.6.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 6 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[NFL] 2026-10-04 20:05 - NFL - Minnesota Vikings vs Miami Dolphins (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Channel.5.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/channel-5-fhd-uk.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (Channel 5 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Channel%205%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf-fhd-uk.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (Sky Sports Golf FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (TSN 1 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (RDS CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (TSN 3 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (beIN SPORTS 1 FR FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal.5.FHD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/canal-5-fhd-mx.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (Canal 5 FHD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%205%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (ESPN 2 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.Sports.3.Premium.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/fox-sports-3-premium-hd-arg.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (FOX Sports 3 Premium HD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%203%20Premium%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (Max Sport 2 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[NFL] 2026-10-04 20:25 - NFL - San Francisco 49ers vs Denver Broncos (Sport 5 Live HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (CA CTV Vancouver)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Vancouver&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (CA CTV Calgary)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CA.CTV.Edmonton" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (CA CTV Edmonton)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (CTV Calgary CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CTV.Vancouver.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (CTV Vancouver CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Vancouver%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (CA CTV Calgary)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.3.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-3-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.4.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-4-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%208%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.11.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-11-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2011%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.12.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-12-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2012%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.13.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-13-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2013%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.14.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-14-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2014%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.16.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-16-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2016%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.17.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-17-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2017%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.20.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-20-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2020%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.24.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-24-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2024%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.25.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-25-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2025%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.26.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-26-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2026%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.27.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-27-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2027%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.28.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-28-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2028%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.29.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-29-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2029%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.30.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-30-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2030%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.1.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-1-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-04 20:25 - NFL - Seattle Seahawks vs Los Angeles Chargers (FR: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%201%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[NFL] 2026-10-04 20:25 - NFL - Las Vegas Raiders vs Kansas City Chiefs (CBS 2 (WCBS) New York HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RTL.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/rtl-fhd-de.webp",[NFL] 2026-10-04 20:25 - NFL - Las Vegas Raiders vs Kansas City Chiefs (RTL FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-football-hd-uk.webp",[NFL] 2026-10-04 20:25 - NFL - Las Vegas Raiders vs Kansas City Chiefs (Sky Sports Football HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football%20HD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-10-04 20:25 - NFL - Las Vegas Raiders vs Kansas City Chiefs (Sky Sports NFL FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-us.webp",[NFL] 2026-10-05 00:20 - NFL - Carolina Panthers vs Detroit Lions (NBC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[NFL] 2026-10-05 00:20 - NFL - Carolina Panthers vs Detroit Lions (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-05 00:20 - NFL - Carolina Panthers vs Detroit Lions (TSN 1 FHD CA)
@@ -1117,50 +1261,42 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[NFL] 2026-10-05 00:20 - NFL - Carolina Panthers vs Detroit Lions (Sport 5 Live HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN 2 US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN Deportes US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN Deportes HD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 5 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN 2 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sports Main Event FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sports NFL FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 1 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 3 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 4 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 5 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (RDS CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sports Main Event UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sports Main Event HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sports NFL HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sports NFL FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sport Top Event HD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20HD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sport Top Event FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.Deportes.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN Deportes FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN Deportes HD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 1 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 4 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RTL.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/rtl-fhd-de.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (RTL FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event-fhd-de.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sky Sport Top Event FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (beIN SPORTS 1 FR FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN 2 Primera FHD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.1.ULTRA..HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-1-ultra-hd-nl.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN 1 ULTRA  HD NL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.3.FHD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3-fhd-br.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN 3 FHD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (Sport 5 Live HD IL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (CA CTV Winnipeg)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (CA CTV Vancouver)
@@ -1315,18 +1451,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%203%20Premium%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[NFL] 2026-12-20 21:05 - NFL - Arizona Cardinals vs New York Jets (CBS 2 (WCBS) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.3.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-3-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.4.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-4-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%208%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.10.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-10-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2010%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.11.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-11-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2011%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.12.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-12-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -1335,12 +1473,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2012%20-%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2013%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.14.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-14-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2014%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.15.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-15-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2015%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.16.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-16-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2016%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.17.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-17-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2017%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.18.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-18-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2018%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.19.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-19-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2019%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.20.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-20-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2020%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.21.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-21-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2021%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.22.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-22-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2022%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.23.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-23-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2023%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.24.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-24-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2024%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.25.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-25-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -1357,26 +1507,66 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2029%20-%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2030%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.1.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-1-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%201%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.2.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-2-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-26 01:15 - NFL - Seattle Seahawks vs Los Angeles Rams (FR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%202%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN 2 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (Sky Sports Main Event FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (Sky Sports NFL FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (RDS CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (TSN 5 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RTL.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/rtl-fhd-de.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (RTL FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event-fhd-de.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (Sky Sport Top Event FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (beIN SPORTS 1 FR FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN 2 Primera FHD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.1.ULTRA..HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-1-ultra-hd-nl.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN 1 ULTRA  HD NL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.3.FHD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3-fhd-br.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN 3 FHD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (Sport 5 Live HD IL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[NFL] 2027-01-10 00:00 - NFL - Kansas City Chiefs vs Las Vegas Raiders (CBS 2 (WCBS) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RTL.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/rtl-fhd-de.webp",[NFL] 2027-01-10 00:00 - NFL - Kansas City Chiefs vs Las Vegas Raiders (RTL FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-football-hd-uk.webp",[NFL] 2027-01-10 00:00 - NFL - Kansas City Chiefs vs Las Vegas Raiders (Sky Sports Football HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Football.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-football-fhd-uk.webp",[NFL] 2027-01-10 00:00 - NFL - Kansas City Chiefs vs Las Vegas Raiders (Sky Sports Football FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2027-01-10 00:00 - NFL - Kansas City Chiefs vs Las Vegas Raiders (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.3.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-3-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.4.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-4-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%205%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.6.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-6-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%206%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.7.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-7-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%207%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.8.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-8-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%208%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.10.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-10-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2010%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.11.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-11-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2011%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.12.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-12-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -1385,12 +1575,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2012%20-%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2013%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.14.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-14-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2014%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.15.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-15-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2015%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.16.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-16-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2016%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.17.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-17-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2017%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.18.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-18-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2018%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.19.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-19-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2019%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.20.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-20-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2020%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.21.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-21-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2021%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.22.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-22-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2022%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.23.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-23-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2023%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.24.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-24-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2024%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.25.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-25-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -1407,22 +1609,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2029%20-%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%2030%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.1.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-1-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%201%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (MLB | Milwaukee Brewers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (MLB | San Diego Padres)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (TNT Sports 2 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.360.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (Sportsnet 360 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (Fox Deportes HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.Sports.Max.5.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5-hd-fr.webp",[MLB] 2026-10-04 20:00 - MLB - Milwaukee Brewers vs San Diego Padres (beIN Sports Max 5 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20HD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FR:.DAZN.PPV.2.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-2-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Los Angeles Rams vs Seattle Seahawks (FR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%202%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 00:00 - MLB - Los Angeles Dodgers vs Atlanta Braves (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 00:00 - MLB - Los Angeles Dodgers vs Atlanta Braves (MLB | Atlanta Braves)
@@ -1441,48 +1629,32 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20HD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (RDS 2 QC)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (RDS 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Pacific.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Pacific CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Ontario CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet West CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (SPORTSNET EAST CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Ontario HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Pacific HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet West HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="J.Sports.2.JP" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (J Sports 2 JP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=J%20Sports%202%20JP&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.Sports.Max.5.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5-hd-fr.webp",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (beIN Sports Max 5 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20HD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[MLB] 2026-10-05 21:00 - MLB - Cleveland Guardians vs Chicago White Sox (ESPN 3 Primera HD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (RDS 2 QC)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (RDS 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Pacific.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet Pacific CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet Ontario CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet West CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (SPORTSNET EAST CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet Ontario HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet Pacific HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet West HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Sportsnet One HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.Sports.Max.7.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-7-hd-fr.webp",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (beIN Sports Max 7 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%207%20HD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[MLB] 2026-10-06 00:00 - MLB - Tampa Bay Rays vs New York Yankees (ESPN 3 Primera HD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -1517,10 +1689,32 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20HD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (MLB | Cleveland Guardians)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.Sports.Max.5.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5-hd-fr.webp",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (beIN Sports Max 5 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20HD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (ESPN 3 Primera HD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (Sportsnet One HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.Sports.Max.7.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-7-hd-fr.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (beIN Sports Max 7 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%207%20HD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (Univision CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (ESPN 3 Primera HD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ACC.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/acc-network-us.webp",[NCAA] 2026-10-31 04:00 - NCAA Division 1 Football - Louisville vs Stanford (ACC Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ACC%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.3.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Sport TV 3 HD PT)
@@ -1543,8 +1737,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[Basketball] 2026-10-08 01:30 - WNBA - Golden State Valkyries vs Las Vegas Aces (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-us.webp",[Basketball] 2026-10-08 01:30 - WNBA - Golden State Valkyries vs Las Vegas Aces (NBC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ABC US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ABC 7 New York)
@@ -1559,8 +1751,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[Basketball] 2026-10-10 01:30 - WNBA - Las Vegas Aces vs Golden State Valkyries (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-us.webp",[Basketball] 2026-10-10 01:30 - WNBA - Las Vegas Aces vs Golden State Valkyries (NBC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)

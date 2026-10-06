@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="TYC.Sports.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports-fhd-arg.webp",[Soccer] 2026-10-06 23:00 - International Friendlies - Argentina vs Benin (TYC Sports FHD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telefe.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/telefe-hd-arg.webp",[Soccer] 2026-10-06 23:00 - International Friendlies - Argentina vs Benin (Telefe HD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telefe%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Viaplay.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2-fhd-uk.webp",[Soccer] 2026-10-06 23:00 - International Friendlies - Argentina vs Benin (Viaplay Sports 2 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premier.Sports.2.Ireland.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 23:00 - International Friendlies - Argentina vs Benin (Premier Sports 2 Ireland FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202%20Ireland%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MatchTV.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/matchtv-ru.webp",[Soccer] 2026-10-06 23:00 - International Friendlies - Argentina vs Benin (MatchTV RU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-10-06 23:00 - International Friendlies - Argentina vs Benin (Sport TV 1 FHD PT)
@@ -241,10 +235,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 13:30 - NFL - Jacksonville Jaguars vs Houston Texans (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-06 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-06 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-06 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Fox Deportes HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports-ca.webp",[MLB] 2026-10-06 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TVA Sports CA)
@@ -257,10 +247,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%202%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.3.FHD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3-fhd-br.webp",[MLB] 2026-10-06 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (ESPN 3 FHD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Deportes HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Sportsnet One HD CA)
@@ -291,14 +277,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.10.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (TNT Sports 10 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Fox Deportes HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports-ca.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TVA Sports CA)
@@ -329,8 +309,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.10.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (TNT Sports 10 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.Sports.Max.4.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (beIN Sports Max 4 HD FR)
@@ -345,8 +323,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20CHL&code
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20PM%20EDT%20Chivas%20En%20Fox%20Deportes%20-%20Chivas%20de%20Guadalajara%20v%20FC%20Ju%C3%A1rez%207%2F28%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.Chivas.en.FOX.Deportes.-.Chivas.de.Guadalajara.v.Querétaro.FC.(9/26/2026).9/29.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (9:00 PM EDT Chivas en FOX Deportes - Chivas de Guadalajara v Querétaro FC (9/26/2026) 9/29 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20Chivas%20en%20FOX%20Deportes%20-%20Chivas%20de%20Guadalajara%20v%20Quer%C3%A9taro%20FC%20(9%2F26%2F2026)%209%2F29%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-4-fhd-pl.webp",[Basketball] 2026-10-06 18:00 - EuroCup Basketball - Trento vs Śląsk Wrocław (Polsat Sport Extra 4 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.3.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Sport TV 3 HD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%203%20HD%20PT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.3.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Sport TV 3 HD PT)
@@ -399,6 +375,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Drama&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20French&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFlix.HollyooWD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NetFlix HollyooWD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20HollyooWD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.Kids" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NetFlix Kids)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Kids&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.Science" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NETFLIX Science)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20Science&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFlix.Spanish" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NetFlix Spanish)
@@ -511,6 +489,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Horror%202%20FHD&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Kids%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Movies.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (Netflix Movies 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Movies%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Netflix.Thriller.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (Netflix Thriller 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Thriller%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MOON.MOVIE.NETFLIX.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (MOON MOVIE NETFLIX TR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MOON%20MOVIE%20NETFLIX%20TR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Guide.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (Netflix Guide FR)

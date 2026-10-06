@@ -1,0 +1,67 @@
+name: FCTV
+
+on:
+  schedule:
+    # Giorno 07:00-23:00 ogni ora (i live cambiano spesso) - ora di Roma.
+    # Minuto 7 per non collidere con ss.yml (10:23, 17:37).
+    - cron: '7 7-23 * * *'
+      timezone: "Europe/Rome"
+    # Notte rado (poco traffico live)
+    - cron: '37 1,4 * * *'
+      timezone: "Europe/Rome"
+  workflow_dispatch:
+
+# Y1: evita run sovrapposti (lo script dura minuti per i retry anti-429)
+concurrency:
+  group: fctv-m3u
+  cancel-in-progress: false
+
+jobs:
+  fctv-m3u:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --disable-pip-version-check requests
+
+      - name: Avvio fctv
+        run: python scripts/fctv.py
+
+      - name: Riepilogo playlist
+        run: |
+          echo "=== fctv.m3u ==="
+          wc -l fctv.m3u
+          echo "Voci con streamId: $(grep -c 'streamId' fctv.m3u || true)"
+          echo "Pagine evento: $(grep -c '\.html' fctv.m3u || true)"
+          head -n 6 fctv.m3u
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'Github Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add fctv.m3u
+          git status --short
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "Nessuna modifica da committare"
+            exit 0
+          fi
+          git commit -m "Update fctv - $(TZ=Europe/Rome date '+%Y-%m-%d %H:%M:%S')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase && git push && echo "Push riuscito al tentativo $i" && exit 0
+            echo "Tentativo $i fallito, riprovo tra 10 secondi..."
+            sleep 10
+          done
+          echo "Push fallito dopo 5 tentativi"
+          exit 1

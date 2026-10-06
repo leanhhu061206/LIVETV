@@ -74,7 +74,7 @@ DATA_API_BASES = [
     "https://apis-data-defra10.tcllu137fien.ru",
 ]
 
-EPG_URLS = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
+EPG_URLS = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/leanhhu061206/LIVETV/raw/refs/heads/main/epg.xml.gz"
 
 # sportType id -> slug (inverso di SPORT_SLUG_MAP in extractors/fctv33.py)
 SPORT_SLUG = {

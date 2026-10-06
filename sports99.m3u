@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="V.Sport.Premium.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-05 15:00 - UEFA European Under-21 Championship - Sweden U21 vs North Macedonia U21 (V Sport Premium SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Match.Premier.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",[Soccer] 2026-10-05 16:00 - International Friendlies - Serbia U21 vs Russian Federation U21 (Match Premier RU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport-fhd-pl.webp",[Soccer] 2026-10-05 16:15 - UEFA European Under-21 Championship - Italy U21 vs Poland U21 (TVP Sport FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 14:00 - International Friendlies - India vs Uruguay (Sport TV 1 FHD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-06 14:00 - International Friendlies - India vs Uruguay (Sport TV 1 HD PT)
@@ -107,10 +101,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Montreal.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (CTV Montreal HD QC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Montreal%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (Sky Sports Main Event UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (Sky Sports Main Event HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (Sky Sports Main Event FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (Sky Sports NFL HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 00:15 - NFL - Dallas Cowboys vs Tampa Bay Buccaneers (TSN 3 HD CA)
@@ -123,12 +121,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnliv
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 02:00 - CFL - BC Lions vs Ottawa Redblacks (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-11 13:30 - NFL - Jacksonville Jaguars vs Philadelphia Eagles (Sky Sports NFL HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-11 13:30 - NFL - Jacksonville Jaguars vs Philadelphia Eagles (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 00:20 - NFL - Atlanta Falcons vs Baltimore Ravens (Sky Sports NFL HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 00:20 - NFL - Atlanta Falcons vs Baltimore Ravens (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (Sky Sports NFL HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (Sky Sports NFL HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2027-01-03 18:00 - NFL - Atlanta Falcons vs New Orleans Saints (ESPN FHD US)
@@ -279,6 +285,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Drama&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20French&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFlix.HollyooWD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NetFlix HollyooWD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20HollyooWD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.Kids" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NetFlix Kids)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Kids&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.Science" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NETFLIX Science)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20Science&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFlix.Spanish" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NetFlix Spanish)

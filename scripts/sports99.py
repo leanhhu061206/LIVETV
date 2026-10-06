@@ -16,7 +16,7 @@ TIMEOUT = 120
 USER = "cdnlivetv"
 PLAN = "free"
 
-EPG_URLS = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
+EPG_URLS = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/leanhhu061206/LIVETV/raw/refs/heads/main/epg.xml.gz"
 
 # =============================================================================
 # SPORTS99 CLIENT

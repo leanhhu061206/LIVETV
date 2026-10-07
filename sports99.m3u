@@ -179,12 +179,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20US&code=&user=cdnli
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (RDS 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 4 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 1 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV2.OTTAWA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (CA CTV2 OTTAWA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV2%20OTTAWA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV2.Ottawa.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (CTV2 Ottawa CA)
@@ -197,6 +201,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 4 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (Sky Sports NFL HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (Sky Sports NFL FHD UK)
@@ -205,26 +211,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 13:30 - NFL - Jacksonville Jaguars vs Houston Texans (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (MLB | San Diego Padres)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (MLB | Milwaukee Brewers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Deportes HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (Sportsnet One HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (TVA Sports CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.3.FHD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3-fhd-br.webp",[MLB] 2026-10-07 01:30 - MLB - San Diego Padres vs Milwaukee Brewers (ESPN 3 FHD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (MLB | Chicago White Sox)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (MLB | Cleveland Guardians)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (TNT Sports 1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Unimas.East.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (Unimas East FHD)
@@ -235,30 +221,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnl
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%203%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-10-07 20:00 - MLB - Chicago White Sox vs Cleveland Guardians (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (MLB | Atlanta Braves)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TNT Sports 2 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Fox Deportes HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports-ca.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TVA Sports CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=ca&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Sportsnet Ontario HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (SPORTSNET EAST CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.FR.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-2-fr-fhd.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (beIN SPORTS 2 FR FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%202%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.3.FHD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3-fhd-br.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (ESPN 3 FHD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (MLB | New York Yankees)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (MLB | Tampa Bay Rays)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (TVA Sports CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.Sports.Max.7.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-7-hd-fr.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (beIN Sports Max 7 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%207%20HD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[MLB] 2026-10-07 22:00 - MLB - Atlanta Braves vs Los Angeles Dodgers (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Unimas.East.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (Unimas East FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Unimas%20East%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (RDS CA)
@@ -267,6 +241,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-10-08 00:00 - MLB - New York Yankees vs Tampa Bay Rays (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 02:00 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Deportes HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-10-08 02:00 - MLB - San Diego Padres vs Milwaukee Brewers (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-08 02:00 - MLB - San Diego Padres vs Milwaukee Brewers (TVA Sports CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[MLB] 2026-10-08 02:00 - MLB - San Diego Padres vs Milwaukee Brewers (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBA.TV.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv-fhd-us.webp",[NCAA] 2026-10-31 04:00 - NCAA Division 1 Football - Indiana vs Minnesota (NBA TV FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.Sports.Max.5.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5-hd-fr.webp",[NCAA] 2026-10-31 04:00 - NCAA Division 1 Football - Indiana vs Minnesota (beIN Sports Max 5 HD FR)
@@ -277,16 +259,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime%20FHD%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.3.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-3-hd-pt.webp",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Sport TV 3 HD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%203%20HD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Nova.Sport.Start.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sport-start-hd-gr.webp",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Nova Sport Start HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%20Start%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-4-fhd-pl.webp",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Polsat Sport Extra 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Max Sport 2 FHD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Sport 2 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[Basketball] 2026-10-07 23:30 - WNBA - Atlanta Dream vs New York Liberty (ESPN FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Nova.Sport.Start.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sport-start-hd-gr.webp",[Basketball] 2026-10-07 18:30 - EuroCup Basketball - Basquet Manresa vs Ulm (Nova Sport Start HD GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%20Start%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-07 23:30 - WNBA - Atlanta Dream vs New York Liberty (ESPN Deportes US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-07 23:30 - WNBA - Atlanta Dream vs New York Liberty (TSN 3 FHD CA)
@@ -301,14 +281,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5+.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp",[Basketball] 2026-10-07 23:30 - WNBA - Atlanta Dream vs New York Liberty (Sport 5+ HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%2B%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[Basketball] 2026-10-07 23:30 - WNBA - Atlanta Dream vs New York Liberty (ESPN FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-08 01:30 - WNBA - Golden State Valkyries vs Las Vegas Aces (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-08 01:30 - WNBA - Golden State Valkyries vs Las Vegas Aces (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5+.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp",[Basketball] 2026-10-08 01:30 - WNBA - Golden State Valkyries vs Las Vegas Aces (Sport 5+ HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%2B%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ESPN FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ESPN Deportes US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (TSN 3 FHD CA)
@@ -323,6 +303,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5+.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (Sport 5+ HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%2B%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ESPN FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-10 01:30 - WNBA - Las Vegas Aces vs Golden State Valkyries (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-10 01:30 - WNBA - Las Vegas Aces vs Golden State Valkyries (TSN 5 FHD CA)
@@ -339,10 +321,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20F
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Basketball] 2026-12-09 18:00 - EuroCup Basketball - Ulm vs Basquet Manresa (Sport 2 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-4-fhd-pl.webp",[Basketball] 2026-12-09 18:00 - EuroCup Basketball - Śląsk Wrocław vs Trento (Polsat Sport Extra 4 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.4.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-4-hd-il.webp",[Basketball] 2026-12-09 19:00 - EuroCup Basketball - Hapoel Jerusalem BC vs KK Cedevita Olimpija (Sport 4 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%204%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Nova.Sports.Prime.FHD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-prime-fhd-gr.webp",[Basketball] 2026-12-09 19:30 - EuroCup Basketball - CB San Pablo Burgos vs Aris BC (Nova Sports Prime FHD GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime%20FHD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Basketball] 2026-12-09 19:30 - EuroCup Basketball - CB San Pablo Burgos vs Aris BC (Sport 2 HD IL)

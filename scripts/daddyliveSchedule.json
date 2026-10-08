@@ -520,12 +520,92 @@
                 ]
             },
             {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf9\ud83c\udded ASEAN Championship : Port MTI FC \ud83c\uddf9\ud83c\udded vs Persib Bandung \ud83c\uddee\ud83c\udde9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfe ASEAN Championship : Johor DT \ud83c\uddf2\ud83c\uddfe vs Svay Rieng \ud83c\uddf0\ud83c\udded",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "12:15",
+                "event": "\u26bd \ud83c\uddfb\ud83c\uddf3 Vietnam V League : Viettel \ud83c\uddfb\ud83c\uddf3 vs Hong Linh Ha Tinh \ud83c\uddfb\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "13:10",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddea UAE League Cup : Shabab Al Ahli Dubai \ud83c\udde6\ud83c\uddea vs United FC \ud83c\udde6\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "13:10",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddea UAE League Cup : Al Ain \ud83c\udde6\ud83c\uddea vs Ittihad Kalba \ud83c\udde6\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "13:15",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Pamba \ud83c\uddf9\ud83c\uddff vs Geita Gold \ud83c\uddf9\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
                 "time": "13:30",
                 "event": "\u26bd Iran - Persian Gulf Pro League : Tractor Sazi \ud83c\uddee\ud83c\uddf7 vs Esteghlal \ud83c\uddee\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "IRIB Varzesh",
                         "channel_id": "1"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddec Egypt Premier League : Arab Contractors \ud83c\uddea\ud83c\uddec vs El Gouna \ud83c\uddea\ud83c\uddec",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddec Egypt Premier League : Al Ittihad \ud83c\uddea\ud83c\uddec vs Wadi Degla \ud83c\uddea\ud83c\uddec",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -584,12 +664,42 @@
                 ]
             },
             {
+                "time": "15:45",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddea UAE League Cup : Al Nasr \ud83c\udde6\ud83c\uddea vs Hatta \ud83c\udde6\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "\u26bd Montenegrin First League : FK Mornar Bar \ud83c\uddf2\ud83c\uddea vs FK Jezero \ud83c\uddf2\ud83c\uddea",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 9 Serbia",
                         "channel_id": "944"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\udde6 Morocco Botola Pro : Union Touarga \ud83c\uddf2\ud83c\udde6 vs Berkane \ud83c\uddf2\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Veikkausliiga : KuPS \ud83c\uddeb\ud83c\uddee vs AC Oulu \ud83c\uddeb\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },

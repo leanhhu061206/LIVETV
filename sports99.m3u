@@ -1,18 +1,22 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 02:00 - CFL - BC Lions vs Ottawa Redblacks (TSN 1 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 02:00 - CFL - BC Lions vs Ottawa Redblacks (TSN 5 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 23:00 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 1 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 23:00 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 3 HD CA)
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 23:00 - CFL - Hamilton Tiger-Cats vs Edmonton Elks (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 23:00 - CFL - Hamilton Tiger-Cats vs Edmonton Elks (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-09 23:00 - CFL - Hamilton Tiger-Cats vs Edmonton Elks (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 23:00 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 3 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 23:00 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 3 HD CA)
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 02:00 - CFL - BC Lions vs Ottawa Redblacks (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 02:00 - CFL - BC Lions vs Ottawa Redblacks (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 02:00 - CFL - BC Lions vs Ottawa Redblacks (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 23:00 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 23:00 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-10 23:00 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-11 13:30 - NFL - Jacksonville Jaguars vs Philadelphia Eagles (NFL Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-11 13:30 - NFL - Jacksonville Jaguars vs Philadelphia Eagles (ESPN Deportes US)
@@ -199,8 +203,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 00:20 - NFL - Atlanta Falcons vs Baltimore Ravens (CTV Toronto CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 00:20 - NFL - Atlanta Falcons vs Baltimore Ravens (TSN 5 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Vancouver.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 00:20 - NFL - Atlanta Falcons vs Baltimore Ravens (CTV Vancouver CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Vancouver%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 00:20 - NFL - Atlanta Falcons vs Baltimore Ravens (TSN 4 CA)
@@ -247,16 +249,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 00:20 - NFL - Atlanta Falcons vs Baltimore Ravens (TSN 4 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 17:00 - CFL - Montreal Alouettes vs Saskatchewan Roughriders (TSN 1 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 17:00 - CFL - Montreal Alouettes vs Saskatchewan Roughriders (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 17:00 - CFL - Montreal Alouettes vs Saskatchewan Roughriders (TSN 3 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 17:00 - CFL - Montreal Alouettes vs Saskatchewan Roughriders (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 17:00 - CFL - Montreal Alouettes vs Saskatchewan Roughriders (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 17:00 - CFL - Montreal Alouettes vs Saskatchewan Roughriders (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-12 17:00 - CFL - Montreal Alouettes vs Saskatchewan Roughriders (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (ESPN 2 US)
@@ -269,8 +267,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (RDS 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 5 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (TSN 1 FHD CA)
@@ -319,6 +315,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 23:00 - CFL - Ottawa Redblacks vs Toronto Argonauts (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 23:00 - CFL - Ottawa Redblacks vs Toronto Argonauts (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 23:00 - CFL - Ottawa Redblacks vs Toronto Argonauts (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 01:30 - CFL - Edmonton Elks vs Winnipeg Blue Bombers (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 01:30 - CFL - Edmonton Elks vs Winnipeg Blue Bombers (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 01:30 - CFL - Edmonton Elks vs Winnipeg Blue Bombers (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 19:00 - CFL - Saskatchewan Roughriders vs Montreal Alouettes (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 19:00 - CFL - Saskatchewan Roughriders vs Montreal Alouettes (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 19:00 - CFL - Saskatchewan Roughriders vs Montreal Alouettes (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 23:00 - CFL - Calgary Stampeders vs BC Lions (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 23:00 - CFL - Calgary Stampeders vs BC Lions (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 23:00 - CFL - Calgary Stampeders vs BC Lions (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 13:30 - NFL - Jacksonville Jaguars vs Houston Texans (Sky Sports NFL HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 13:30 - NFL - Jacksonville Jaguars vs Houston Texans (Sky Sports NFL FHD UK)
@@ -331,6 +351,50 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-20 00:15 - NFL - San Francisco 49ers vs Washington Commanders (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 23:00 - CFL - Toronto Argonauts vs Montreal Alouettes (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 23:00 - CFL - Toronto Argonauts vs Montreal Alouettes (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 23:00 - CFL - Toronto Argonauts vs Montreal Alouettes (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 02:00 - CFL - BC Lions vs Winnipeg Blue Bombers (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 02:00 - CFL - BC Lions vs Winnipeg Blue Bombers (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 02:00 - CFL - BC Lions vs Winnipeg Blue Bombers (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-11 00:00 - MLB - Cleveland Guardians vs Chicago White Sox (MLB | Cleveland Guardians)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-11 00:00 - MLB - Cleveland Guardians vs Chicago White Sox (MLB | Chicago White Sox)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-11 20:00 - MLB - Milwaukee Brewers vs Los Angeles Dodgers (MLB | Milwaukee Brewers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-11 20:00 - MLB - Milwaukee Brewers vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-12 20:00 - MLB - Milwaukee Brewers vs Los Angeles Dodgers (MLB | Milwaukee Brewers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-12 20:00 - MLB - Milwaukee Brewers vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-14 20:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (MLB | Los Angeles Dodgers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-14 20:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (MLB | Milwaukee Brewers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-15 20:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (MLB | Los Angeles Dodgers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-15 20:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (MLB | Milwaukee Brewers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ESPN 2 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (TSN 4 FHD CA)
@@ -339,6 +403,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.1.ULTRA..HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-1-ultra-hd-nl.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ESPN 1 ULTRA  HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Cosmote.Sport.4.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4-hd-gr.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (Cosmote Sport 4 HD GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%204%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[Basketball] 2026-10-09 23:30 - WNBA - New York Liberty vs Atlanta Dream (ESPN 3 Primera HD ARG)
@@ -355,62 +421,86 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%2B%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-10-14 17:00 - EuroCup Basketball - Śląsk Wrocław vs Napoli Basket (Polsat Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.info" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series info)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%201&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%203&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%204&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.5" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 5)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%205&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%206&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%207&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 8)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%208&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.9" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 9)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%209&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Apple TV+ Series 10)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.info" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series info)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%201&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%203&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%204&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.5" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 5)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%205&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%206&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%207&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 8)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%208&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.9" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 9)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%209&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Apple.TV+.Series.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Apple TV+ Series 10)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-22 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-22 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-22 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-22 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-22 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-29 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-29 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-29 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-29 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-29 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-05 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-05 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-05 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-05 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-05 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-12 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-12 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-12 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-12 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-12 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-19 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-19 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-19 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-19 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-19 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-03 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-03 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-03 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-03 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-03 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-10 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-10 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-10 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-10 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-10 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-11 00:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-11 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-11 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-11 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-11 00:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[Motorsport] 2026-10-10 03:10 - MotoGP -  vs  (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix-fhd-de.webp",[Motorsport] 2026-10-10 03:10 - MotoGP -  vs  (Sky Sport Mix FHD DE)
@@ -459,6 +549,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.info" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Apple TV+ Series info)
@@ -487,8 +579,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-hd-uk.webp",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-hd-uk.webp",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-hd-uk.webp",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-hd-uk.webp",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-hd-uk.webp",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-hd-uk.webp",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="✧❯❯.Netflix.Channels.❮❮✧" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (✧❯❯ Netflix Channels ❮❮✧)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%E2%9C%A7%E2%9D%AF%E2%9D%AF%20Netflix%20Channels%20%E2%9D%AE%E2%9D%AE%E2%9C%A7&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.HORROR.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (NETFLIX HORROR 1)
@@ -647,8 +753,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E03&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (The Netflix Afterparty - S01E04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E04&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E05" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (The Netflix Afterparty - S01E05)
-https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E05&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E06" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (The Netflix Afterparty - S01E06)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E06&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (The Netflix Afterparty - S01E07)
@@ -679,6 +783,90 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Classic&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Science&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.French" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-10 22:00 - WWE -  vs  (Netflix French)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20French&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 08:45 - UCI World Tour -  vs  (Eurosport 1 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 08:45 - UCI World Tour -  vs  (Eurosport 1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 08:45 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 08:45 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 08:45 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 08:45 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-14 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-14 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-14 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-14 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-14 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-14 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-15 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-15 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-15 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-15 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-15 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-15 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-16 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-16 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-16 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-16 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-17 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-17 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-17 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-17 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-17 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-17 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-18 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-18 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-18 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-18 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-18 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-18 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV2.Sport.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sport-hd-dk.webp",[Badminton] 2026-12-09 00:00 - BWF World Tour -  vs  (TV2 Sport HD DK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20HD%20DK&code=dk&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.2.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2-fhd-de.webp",[Darts] 2026-10-10 00:00 - PDC Darts -  vs  (DAZN 2 FHD DE)

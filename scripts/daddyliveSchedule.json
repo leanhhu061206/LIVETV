@@ -1,5 +1,57 @@
 {
     "Friday 16th Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:45",
+                "event": "\ud83c\udfc1 Super DIRTcar Series Brockville",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 World of Outlaws Sprint Cars Lincoln",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 High Limit Racing Texas",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83e\udd4a BrandRisk 016",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83e\udd4a Budo Sento Championship 37",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "06:00",
@@ -1973,11 +2025,35 @@
             },
             {
                 "time": "22:00",
+                "event": "\u26bd Colombia Primera B : Boca Juniors vs Atl\u00e9tico FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Uruguay Liga AUF : CA Cerro vs Cerro Largo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
                 "event": "\u26bd Argentina - Primera Divisi\u00f3n : Defensa y Justicia \ud83c\udde6\ud83c\uddf7 vs Instituto \ud83c\udde6\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -1988,6 +2064,26 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n : Cerro Porte\u00f1o vs San Lorenzo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Brazil Serie B : Ponte Preta vs Atl\u00e9tico GO",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },

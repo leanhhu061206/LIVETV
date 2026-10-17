@@ -1163,8 +1163,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-10-18 21:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.030:.Duquesne.vs.Stonehill.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Stonehill vs Duquesne (NCAAF 030: Duquesne vs Stonehill @ Oct 17 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20030%3A%20Duquesne%20vs%20Stonehill%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.018:.Ball.State.vs.Bowling.Green.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Bowling Green vs Ball State (NCAAF 018: Ball State vs Bowling Green @ Oct 17 12:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20018%3A%20Ball%20State%20vs%20Bowling%20Green%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.008:.Cincinnati.vs.West.Virginia.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - West Virginia vs Cincinnati (NCAAF 008: Cincinnati vs West Virginia @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20008%3A%20Cincinnati%20vs%20West%20Virginia%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.009:.Kansas.vs.Kansas.State.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Kansas State vs Kansas (NCAAF 009: Kansas vs Kansas State @ Oct 17 12:00 PM)
@@ -1177,24 +1177,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20011%3A%20Virginia%20vs
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20007%3A%20Ohio%20State%20vs%20Indiana%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.012:.Northwestern.vs.Michigan.State.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Michigan State vs Northwestern (NCAAF 012: Northwestern vs Michigan State @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20012%3A%20Northwestern%20vs%20Michigan%20State%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.018:.Ball.State.vs.Bowling.Green.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Bowling Green vs Ball State (NCAAF 018: Ball State vs Bowling Green @ Oct 17 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20018%3A%20Ball%20State%20vs%20Bowling%20Green%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.017:.Georgia.State.vs.James.Madison.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - James Madison vs Georgia State (NCAAF 017: Georgia State vs James Madison @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20017%3A%20Georgia%20State%20vs%20James%20Madison%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.014:.Florida.Atlantic.vs.Army.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Army vs Florida Atlantic (NCAAF 014: Florida Atlantic vs Army @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20014%3A%20Florida%20Atlantic%20vs%20Army%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.005:.Hampton.vs.Sacred.Heart.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Sacred Heart vs Hampton (NCAAF 005: Hampton vs Sacred Heart @ Oct 17 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20005%3A%20Hampton%20vs%20Sacred%20Heart%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.006:.Rhode.Island.vs.Yale.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Yale vs Rhode Island (NCAAF 006: Rhode Island vs Yale @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20006%3A%20Rhode%20Island%20vs%20Yale%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.016:.New.Haven.vs.Robert.Morris.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Robert Morris vs New Haven (NCAAF 016: New Haven vs Robert Morris @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20016%3A%20New%20Haven%20vs%20Robert%20Morris%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.030:.Duquesne.vs.Stonehill.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Stonehill vs Duquesne (NCAAF 030: Duquesne vs Stonehill @ Oct 17 1:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20030%3A%20Duquesne%20vs%20Stonehill%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.013:.Chicago.State.vs.North.Carolina.A&T.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - North Carolina A and T vs Chicago State (NCAAF 013: Chicago State vs North Carolina A&T @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20013%3A%20Chicago%20State%20vs%20North%20Carolina%20A%26T%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.019:.Rutgers.vs.Maryland.@.Oct.17.12:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:30 - NCAA Division 1 Football - Maryland vs Rutgers (NCAAF 019: Rutgers vs Maryland @ Oct 17 12:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20019%3A%20Rutgers%20vs%20Maryland%20%40%20Oct%2017%2012%3A30%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.020:.The.Citadel.vs.Texas.A&M.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 17:00 - NCAA Division 1 Football - Texas A and M vs The Citadel (NCAAF 020: The Citadel vs Texas A&M @ Oct 17 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20020%3A%20The%20Citadel%20vs%20Texas%20A%26M%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.029:.Charlotte.vs.Temple.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 17:00 - NCAA Division 1 Football - Temple vs Charlotte (NCAAF 029: Charlotte vs Temple @ Oct 17 1:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20029%3A%20Charlotte%20vs%20Temple%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.032:.UMass.vs.Buffalo.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 17:00 - NCAA Division 1 Football - Buffalo vs UMass (NCAAF 032: UMass vs Buffalo @ Oct 17 1:00 PM)
@@ -1217,10 +1213,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20028%3A%20Morehead%20St
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20027%3A%20Marist%20vs%20Drake%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.025:.McNeese.vs.Northwestern.State.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 17:00 - NCAA Division 1 Football - Northwestern State vs McNeese State (NCAAF 025: McNeese vs Northwestern State @ Oct 17 1:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20025%3A%20McNeese%20vs%20Northwestern%20State%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.034:.Western.Michigan.vs.Central.Michigan.@.Oct.17.1:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 17:30 - NCAA Division 1 Football - Central Michigan vs Western Michigan (NCAAF 034: Western Michigan vs Central Michigan @ Oct 17 1:30 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20034%3A%20Western%20Michigan%20vs%20Central%20Michigan%20%40%20Oct%2017%201%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.033:.VMI.vs.Wofford.@.Oct.17.1:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 17:30 - NCAA Division 1 Football - Wofford vs VMI (NCAAF 033: VMI vs Wofford @ Oct 17 1:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20033%3A%20VMI%20vs%20Wofford%20%40%20Oct%2017%201%3A30%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.034:.Western.Michigan.vs.Central.Michigan.@.Oct.17.1:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 17:30 - NCAA Division 1 Football - Central Michigan vs Western Michigan (NCAAF 034: Western Michigan vs Central Michigan @ Oct 17 1:30 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20034%3A%20Western%20Michigan%20vs%20Central%20Michigan%20%40%20Oct%2017%201%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.035:.Lehigh.vs.Cornell.@.Oct.17.2:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 18:00 - NCAA Division 1 Football - Cornell vs Lehigh (NCAAF 035: Lehigh vs Cornell @ Oct 17 2:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20035%3A%20Lehigh%20vs%20Cornell%20%40%20Oct%2017%202%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.038:.South.Dakota.State.vs.North.Dakota.@.Oct.17.2:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 18:00 - NCAA Division 1 Football - North Dakota vs South Dakota State (NCAAF 038: South Dakota State vs North Dakota @ Oct 17 2:00 PM)
@@ -1231,20 +1227,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20037%3A%20Presbyterian%
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20036%3A%20Austin%20Peay%20vs%20West%20Georgia%20%40%20Oct%2017%202%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.040:.Eastern.Kentucky.vs.Tennessee.Tech.@.Oct.17.2:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 18:30 - NCAA Division 1 Football - Tennessee Tech vs Eastern Kentucky (NCAAF 040: Eastern Kentucky vs Tennessee Tech @ Oct 17 2:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20040%3A%20Eastern%20Kentucky%20vs%20Tennessee%20Tech%20%40%20Oct%2017%202%3A30%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.043:.Lafayette.vs.Bucknell.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Bucknell vs Lafayette (NCAAF 043: Lafayette vs Bucknell @ Oct 17 3:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20043%3A%20Lafayette%20vs%20Bucknell%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.041:.Idaho.vs.Montana.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Montana vs Idaho (NCAAF 041: Idaho vs Montana @ Oct 17 3:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20041%3A%20Idaho%20vs%20Montana%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.047:.Grambling.State.vs.Alabama.A&M.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Alabama A and M vs Grambling State (NCAAF 047: Grambling State vs Alabama A&M @ Oct 17 3:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20047%3A%20Grambling%20State%20vs%20Alabama%20A%26M%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.049:.Alcorn.State.vs.Prairie.View.A&M.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Prairie View A and M vs Alcorn State (NCAAF 049: Alcorn State vs Prairie View A&M @ Oct 17 3:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20049%3A%20Alcorn%20State%20vs%20Prairie%20View%20A%26M%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.043:.Lafayette.vs.Bucknell.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Bucknell vs Lafayette (NCAAF 043: Lafayette vs Bucknell @ Oct 17 3:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20043%3A%20Lafayette%20vs%20Bucknell%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.042:.Idaho.State.vs.Weber.State.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Weber State vs Idaho State (NCAAF 042: Idaho State vs Weber State @ Oct 17 3:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20042%3A%20Idaho%20State%20vs%20Weber%20State%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.045:.Lindenwood.vs.Eastern.Illinois.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Eastern Illinois vs Lindenwood (NCAAF 045: Lindenwood vs Eastern Illinois @ Oct 17 3:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20045%3A%20Lindenwood%20vs%20Eastern%20Illinois%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.046:.Western.Illinois.vs.Southeast.Missouri.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Southeast Missouri State vs Western Illinois (NCAAF 046: Western Illinois vs Southeast Missouri @ Oct 17 3:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20046%3A%20Western%20Illinois%20vs%20Southeast%20Missouri%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.047:.Grambling.State.vs.Alabama.A&M.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Alabama A and M vs Grambling State (NCAAF 047: Grambling State vs Alabama A&M @ Oct 17 3:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20047%3A%20Grambling%20State%20vs%20Alabama%20A%26M%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.049:.Alcorn.State.vs.Prairie.View.A&M.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Prairie View A and M vs Alcorn State (NCAAF 049: Alcorn State vs Prairie View A&M @ Oct 17 3:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20049%3A%20Alcorn%20State%20vs%20Prairie%20View%20A%26M%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.048:.Florida.A&M.vs.Jackson.State.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - Jackson State vs Florida A and M (NCAAF 048: Florida A&M vs Jackson State @ Oct 17 3:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20048%3A%20Florida%20A%26M%20vs%20Jackson%20State%20%40%20Oct%2017%203%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.044:.Gardner-Webb.vs.UT.Martin.@.Oct.17.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 19:00 - NCAA Division 1 Football - UT Martin vs Gardner-Webb (NCAAF 044: Gardner-Webb vs UT Martin @ Oct 17 3:00 PM)
@@ -1473,6 +1469,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 19:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 19:00 - NASCAR Cup Series -  vs  (USA Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 19:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -1647,8 +1645,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -1681,6 +1677,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round%2017%20%7C%20Indonesia%20motogp%20FHD%2010%2F9%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 18:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 18:00 - NASCAR Cup Series -  vs  (USA Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 18:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.DE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (04:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN DE])
@@ -1741,8 +1739,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -1943,6 +1939,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round%2017%20%7C%20Indonesia%20motogp%20FHD%2010%2F9%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 19:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 19:00 - NASCAR Cup Series -  vs  (USA Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 19:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.DE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (04:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN DE])
@@ -2135,8 +2133,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -2179,8 +2175,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -2213,6 +2207,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round%2017%20%7C%20Indonesia%20motogp%20FHD%2010%2F9%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (USA Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.DE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (04:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN DE])
@@ -2321,8 +2317,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -2427,8 +2421,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -2631,8 +2623,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -2691,8 +2681,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -2783,8 +2771,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)
@@ -2827,8 +2813,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.5.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport 5 FHD PL)

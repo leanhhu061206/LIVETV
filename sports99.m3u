@@ -877,8 +877,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 17:00 - NFL - Philadelphia Eagles vs Carolina Panthers (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 20:05 - NFL - Los Angeles Rams vs Arizona Cardinals (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 20:05 - NFL - Los Angeles Rams vs Arizona Cardinals (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 20:25 - NFL - Kansas City Chiefs vs Los Angeles Chargers (TSN 1 FHD CA)
@@ -1137,6 +1135,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-25 13:30 - NFL - New Orleans Saints vs Pittsburgh Steelers (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-18 00:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (MLB | Cleveland Guardians)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-18 00:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-18 00:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (TNT Sports 2 FHD UK)
@@ -1149,6 +1149,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-10-18 00:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-18 21:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (MLB | Cleveland Guardians)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-18 21:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-18 21:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (TNT Sports 2 FHD UK)
@@ -1161,6 +1163,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-10-18 21:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.030:.Duquesne.vs.Stonehill.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Stonehill vs Duquesne (NCAAF 030: Duquesne vs Stonehill @ Oct 17 1:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20030%3A%20Duquesne%20vs%20Stonehill%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.008:.Cincinnati.vs.West.Virginia.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - West Virginia vs Cincinnati (NCAAF 008: Cincinnati vs West Virginia @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20008%3A%20Cincinnati%20vs%20West%20Virginia%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.009:.Kansas.vs.Kansas.State.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Kansas State vs Kansas (NCAAF 009: Kansas vs Kansas State @ Oct 17 12:00 PM)
@@ -1185,8 +1189,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20005%3A%20Hampton%20vs%
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20006%3A%20Rhode%20Island%20vs%20Yale%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.016:.New.Haven.vs.Robert.Morris.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Robert Morris vs New Haven (NCAAF 016: New Haven vs Robert Morris @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20016%3A%20New%20Haven%20vs%20Robert%20Morris%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.030:.Duquesne.vs.Stonehill.@.Oct.17.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - Stonehill vs Duquesne (NCAAF 030: Duquesne vs Stonehill @ Oct 17 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20030%3A%20Duquesne%20vs%20Stonehill%20%40%20Oct%2017%201%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.013:.Chicago.State.vs.North.Carolina.A&T.@.Oct.17.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:00 - NCAA Division 1 Football - North Carolina A and T vs Chicago State (NCAAF 013: Chicago State vs North Carolina A&T @ Oct 17 12:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%20013%3A%20Chicago%20State%20vs%20North%20Carolina%20A%26T%20%40%20Oct%2017%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.019:.Rutgers.vs.Maryland.@.Oct.17.12:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-17 16:30 - NCAA Division 1 Football - Maryland vs Rutgers (NCAAF 019: Rutgers vs Maryland @ Oct 17 12:30 PM)
@@ -1471,8 +1473,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 19:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 19:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 19:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
@@ -1681,8 +1681,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round%2017%20%7C%20Indonesia%20motogp%20FHD%2010%2F9%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 18:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 18:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 18:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.DE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (04:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN DE])
@@ -1945,8 +1943,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round%2017%20%7C%20Indonesia%20motogp%20FHD%2010%2F9%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 19:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 19:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 19:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.DE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (04:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN DE])
@@ -2217,8 +2213,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round%2017%20%7C%20Indonesia%20motogp%20FHD%2010%2F9%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.DE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (04:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN DE])

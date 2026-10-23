@@ -2520,6 +2520,10 @@
                         "channel_id": "78"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "Match! Football 3 Russia",
                         "channel_id": "138"
                     },
@@ -2536,6 +2540,30 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Uruguay Liga AUF : Juventud vs Penarol",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Chile Liga de Primera : A Italiano vs Huachipato",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -4878,7 +4906,11 @@
                         "channel_id": "115"
                     },
                     {
-                        "channel_name": "RDS 2 CA",
+                        "channel_name": "REvent SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
+                        "channel_name": "DS 2 CA",
                         "channel_id": "840"
                     },
                     {
@@ -4938,6 +4970,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -4948,6 +4984,10 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -5416,6 +5456,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -5426,6 +5474,18 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -5436,6 +5496,18 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -5446,6 +5518,18 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -5458,12 +5542,24 @@
                         "channel_id": "8"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    },
+                    {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
                     },
                     {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },

@@ -404,6 +404,30 @@
                     {
                         "channel_name": "CBC Sport Azerbaijan",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "\u26bd AFC Challenge League : \ud83c\uddf8\ud83c\udde6 Al Arabi vs \ud83c\uddf1\ud83c\udde7 Nejmeh SC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf3 India ISL League : Inter Kashi \ud83c\uddee\ud83c\uddf3 vs East Bengal \ud83c\uddee\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
@@ -424,6 +448,26 @@
                     {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
+                    }
+                ]
+            },
+            {
+                "time": "12:15",
+                "event": "\u26bd \ud83c\uddfb\ud83c\uddf3 Vietnam V League : Viettel \ud83c\uddfb\ud83c\uddf3 vs Bac Ninh \ud83c\uddfb\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "12:15",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfe Malaysia FA Cup : DPMM \ud83c\udde7\ud83c\uddf3 vs Johor DT \ud83c\uddf2\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },

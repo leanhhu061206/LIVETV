@@ -1,5 +1,17 @@
 {
     "Tuesday 27th Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "10:00",
@@ -2216,8 +2228,12 @@
                         "channel_id": "4108"
                     },
                     {
-                        "channel_name": "Event Stream",
+                        "channel_name": "Event Stream [Home Feed]",
                         "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -2722,6 +2738,10 @@
                         "channel_id": "388"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    },
+                    {
                         "channel_name": "Arena Sport 4 Croatia",
                         "channel_id": "580"
                     }
@@ -2734,6 +2754,26 @@
                     {
                         "channel_name": "ESPN Deportes",
                         "channel_id": "375"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Paraguay Copa : Libertad Asunci\u00f3n vs Independiente FBC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Uruguay Copa Uruguay : Pe\u00f1arol vs Montevideo City Torque",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -4384,6 +4424,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4015"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5011"
                     }
                 ]
             }
@@ -4890,6 +4938,18 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -4972,6 +5032,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4066"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5036"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -4990,6 +5058,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -5154,6 +5230,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4050"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5033"
                     }
                 ]
             },
@@ -5264,6 +5344,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4051"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5037"
                     }
                 ]
             },
@@ -5286,6 +5370,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4052"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5038"
                     }
                 ]
             },

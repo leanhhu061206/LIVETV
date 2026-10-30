@@ -79,12 +79,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-01 19:00 - Brazilian Serie B - Londrina vs América Mineiro (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-01 21:30 - American Major League Soccer - Atlanta United vs Toronto FC (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-01 21:30 - American Major League Soccer - Atlanta United vs Toronto FC (TSN 2 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-01 21:30 - American Major League Soccer - Atlanta United vs Toronto FC (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-01 21:30 - American Major League Soccer - Atlanta United vs Toronto FC (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-01 21:30 - American Major League Soccer - Atlanta United vs Toronto FC (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-01 21:30 - American Major League Soccer - Atlanta United vs Toronto FC (TSN 3 HD CA)
@@ -125,12 +125,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-02 02:30 - American Major League Soccer - Portland Timbers vs Houston Dynamo (FOX Deportes US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Deportes%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-02 02:30 - American Major League Soccer - Portland Timbers vs Houston Dynamo (TSN 2 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-02 02:30 - American Major League Soccer - Portland Timbers vs Houston Dynamo (TSN 2 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Deportes.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-02 02:30 - American Major League Soccer - Portland Timbers vs Houston Dynamo (Fox Deportes FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.CHL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-02 02:30 - American Major League Soccer - Portland Timbers vs Houston Dynamo (Fox Deportes HD CHL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20CHL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-02 02:30 - American Major League Soccer - Portland Timbers vs Houston Dynamo (FOX Deportes US)
@@ -509,6 +505,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 19:30 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (Sky Sports+ UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (Sky Sports+ HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (Sky Sports+ FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Winnipeg)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Vancouver)
@@ -517,6 +519,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Vancouver&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Toronto&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Ottawa)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Montreal" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Montreal)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Halifax" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Halifax)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Halifax&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Calgary)
@@ -531,12 +535,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Montreal%20HD%20QC&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Calgary)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Ottawa)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CTV Calgary CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CTV Toronto CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Vancouver.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CTV Vancouver CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Vancouver%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (Sky Sports+ UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (Sky Sports+ HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (Sky Sports+ FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Winnipeg)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Vancouver)
@@ -569,10 +581,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Buffalo Bills vs Baltimore Ravens (CA CTV Ottawa)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Detroit Lions vs Minnesota Vikings (RDS 2 QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV2.OTTAWA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Detroit Lions vs Minnesota Vikings (CA CTV2 OTTAWA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV2%20OTTAWA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CTV2.Ottawa.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Detroit Lions vs Minnesota Vikings (CTV2 Ottawa CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CTV2%20Ottawa%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV2.Ottawa.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Detroit Lions vs Minnesota Vikings (CTV2 Ottawa CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV2%20Ottawa%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Detroit Lions vs Minnesota Vikings (RDS 2 QC)
@@ -581,12 +593,32 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnliv
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV2.OTTAWA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Detroit Lions vs Minnesota Vikings (CA CTV2 OTTAWA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV2%20OTTAWA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Pittsburgh Steelers vs Cleveland Browns (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Pittsburgh Steelers vs Cleveland Browns (Sky Sports NFL HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Pittsburgh Steelers vs Cleveland Browns (Sky Sports NFL FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Pittsburgh Steelers vs Cleveland Browns (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 18:00 - NFL - Pittsburgh Steelers vs Cleveland Browns (TSN 1 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (Sky Sports+ UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (Sky Sports+ HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (Sky Sports+ FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (LiveNOW from FOX US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (Sky Sports+ UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (Sky Sports+ HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (Sky Sports+ FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:05 - NFL - Los Angeles Rams vs Los Angeles Chargers (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CA CTV Winnipeg)
@@ -603,10 +635,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Ottawa.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CTV Ottawa HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (RDS 2 QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.TORONTO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CA CTV TORONTO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CA CTV Calgary)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CA CTV Ottawa)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CTV Calgary CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CTV Toronto CA)
@@ -643,12 +679,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (CA CTV Ottawa)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Montreal" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (CA CTV Montreal)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Halifax" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (CA CTV Halifax)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Halifax&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Montreal.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (CTV Montreal HD QC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Montreal%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (TSN 4 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (Sky Sports NFL HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (Sky Sports NFL FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Montreal" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (CA CTV Montreal)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Halifax" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (CA CTV Halifax)
@@ -661,14 +707,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Miami Dolphins vs New England Patriots (TSN 4 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (Sky Sports Main Event HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (Sky Sports Main Event FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (Sky Sports NFL HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (Sky Sports NFL FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.12.(WWBT).Richmond.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (NBC 12 (WWBT) Richmond HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%2012%20(WWBT)%20Richmond%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Winnipeg)
@@ -679,6 +719,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Vancouver&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Toronto&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Ottawa)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Montreal" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Montreal)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Kitchener)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Halifax" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Halifax)
@@ -691,14 +733,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Montreal.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CTV Montreal HD QC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Montreal%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (RDS 2 QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (TSN 4 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.TORONTO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV TORONTO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Calgary)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Ottawa)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Kitchener)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CTV Calgary CA)
@@ -771,22 +823,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (CA CTV Kitchener)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Nbc.Universo.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (Nbc Universo FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Nbc%20Universo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TU.Universo.TV.HD.CO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-02 01:20 - NFL - Washington Commanders vs Philadelphia Eagles (TU Universo TV HD CO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TU%20Universo%20TV%20HD%20CO&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (Sky Sports NFL HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (Sky Sports NFL FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (ESPN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (ESPN 2 US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (ESPN Deportes US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (ESPN Deportes HD LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (Sky Sports NFL HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (Sky Sports NFL FHD UK)
@@ -807,22 +857,26 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-03 01:15 - NFL - Seattle Seahawks vs Chicago Bears (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (Sky Sports NFL HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (Sky Sports NFL FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (RDS 2 QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (TSN 1 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (TSN 4 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV2.OTTAWA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (CA CTV2 OTTAWA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV2%20OTTAWA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CTV2.Ottawa.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (CTV2 Ottawa CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CTV2%20Ottawa%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (Sky Sports NFL HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV2.Ottawa.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (CTV2 Ottawa CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV2%20Ottawa%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (RDS 2 QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (RDS 2 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (TSN 1 FHD CA)
@@ -831,10 +885,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV2.OTTAWA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-06 01:15 - NFL - Baltimore Ravens vs Jacksonville Jaguars (CA CTV2 OTTAWA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV2%20OTTAWA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-08 14:30 - NFL - Atlanta Falcons vs Cincinnati Bengals (Sky Sports NFL HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-08 14:30 - NFL - Atlanta Falcons vs Cincinnati Bengals (Sky Sports NFL FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Football.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-08 14:30 - NFL - Atlanta Falcons vs Cincinnati Bengals (Sky Sports Football UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-08 14:30 - NFL - Atlanta Falcons vs Cincinnati Bengals (Sky Sports Football HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Football.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-08 14:30 - NFL - Atlanta Falcons vs Cincinnati Bengals (Sky Sports Football FHD UK)
@@ -851,9 +903,9 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football%20HD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-09 01:20 - NFL - Chicago Bears vs Tampa Bay Buccaneers (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-09 01:20 - NFL - Chicago Bears vs Tampa Bay Buccaneers (Sky Sports NFL HD UK)
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-10 01:15 - NFL - Minnesota Vikings vs Buffalo Bills (Sky Sports NFL HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-09 01:20 - NFL - Chicago Bears vs Tampa Bay Buccaneers (Sky Sports NFL FHD UK)
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-10 01:15 - NFL - Minnesota Vikings vs Buffalo Bills (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-05 00:00 - PGA Tour -  vs  (Golf Channel HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
@@ -915,76 +967,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-12-11 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (MotoGP OB2 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (MotoGP OB1 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (MotoGP HELI (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (TNT Sports 2 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Mix.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix-fhd-de.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Sky Sport Mix FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Mix%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event-fhd-de.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Sky Sport Top Event FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.4.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-4-hd-pt.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Sport TV 4 HD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%204%20HD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-fhd-arg.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (ESPN FHD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cosmote.Sport.5.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-5-hd-gr.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Cosmote Sport 5 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&code=gr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-2-fhd-pl.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Polsat Sport Premium 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (ESPN 4 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cytavision.Sports.6.HD.CY" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Cytavision Sports 6 HD CY)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%206%20HD%20CY&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Ziggo.Sport.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-fhd-nl.webp",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (Ziggo Sport FHD NL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (MotoGP OB2 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (MotoGP HELI (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -993,6 +999,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1001,14 +1013,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix-fhd-de.webp",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (Sky Sport Mix FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Mix%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event-fhd-de.webp",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (Sky Sport Top Event FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.4.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-4-hd-pt.webp",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (Sport TV 4 HD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%204%20HD%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-fhd-arg.webp",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (ESPN FHD ARG)
@@ -1023,6 +1035,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%206%20HD%20CY&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Ziggo.Sport.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-fhd-nl.webp",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (Ziggo Sport FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1031,6 +1047,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1039,38 +1061,32 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1079,8 +1095,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.3.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (TNT Sports 3 UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (TNT Sports 3 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.3.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (TNT Sports 3 FHD UK)
@@ -1099,34 +1115,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&pl
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 19:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1135,18 +1145,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1155,6 +1167,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1163,6 +1181,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1171,18 +1195,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1191,6 +1217,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1199,20 +1231,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
@@ -1221,16 +1253,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Tipik FHD BE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
@@ -1245,20 +1279,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Tipik FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
@@ -1267,16 +1299,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Tipik FHD BE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
@@ -1291,6 +1325,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Tipik FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1299,36 +1337,34 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 20:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1337,6 +1373,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1345,32 +1387,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
@@ -1379,16 +1417,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
@@ -1401,6 +1439,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1409,6 +1451,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1417,6 +1465,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1425,6 +1479,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1433,20 +1493,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
@@ -1455,16 +1515,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
@@ -1477,6 +1537,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1485,6 +1549,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1493,6 +1563,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1501,30 +1577,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1533,6 +1607,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1541,6 +1621,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1549,6 +1635,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1557,32 +1649,28 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
@@ -1591,16 +1679,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Tipik FHD BE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
@@ -1615,6 +1705,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Tipik FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB3 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
@@ -1623,20 +1717,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
@@ -1645,16 +1739,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Tipik FHD BE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
@@ -1669,56 +1765,42 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Tipik FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 4 FHD PL)
@@ -1727,16 +1809,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%204%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20HD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Tipik FHD BE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CANAL+.SPORT.6.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (CANAL+ SPORT 6 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport Extra 1 FHD PL)
@@ -1751,22 +1835,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Tipik FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
-https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="1:00.AM.EDT.Grand.Prix.of.Australia.10/25.[SPORTSNET+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (1:00 AM EDT Grand Prix of Australia 10/25 [SPORTSNET+])
-https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RMC.Sport.1.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1-hd-fr.webp",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (RMC Sport 1 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.6.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-6-fhd-pt.webp",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sport TV 6 FHD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%206%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sport TV 1 FHD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (M4 Sport FHD HU)
+https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.03.ⓧ|.MMA.|.UFC.BJJ.13.|.Thu.29th.Oct.12:00PM.UK/8:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (PPV 03 ⓧ| MMA | UFC BJJ 13 | Thu 29th Oct 12:00PM UK/8:00PM ET)

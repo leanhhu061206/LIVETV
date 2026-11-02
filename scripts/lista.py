@@ -2759,6 +2759,7 @@ def world_channels_generator():
 def sportsonline():
     import requests
     import re
+    import io
     from bs4 import BeautifulSoup
     import datetime
     
@@ -2809,7 +2810,60 @@ def sportsonline():
         italian_channels = get_italian_channels(lines)
     
         playlist_entries = []
-    
+        poster_cache = {}
+
+        def download_logo(url):
+            if not url:
+                return None
+            try:
+                response = requests.get(url, headers={"User-Agent": LOGO_UA}, timeout=10)
+                if response.status_code == 200 and "image" in (response.headers.get("Content-Type") or "").lower():
+                    image = Image.open(io.BytesIO(response.content))
+                    image.load()
+                    return image
+            except Exception:
+                pass
+            return None
+
+        def build_poster(name_only):
+            if name_only in poster_cache:
+                return poster_cache[name_only]
+            parts = re.split(r'\s+vs\.?\s+', name_only, flags=re.I)
+            if len(parts) != 2:
+                poster_cache[name_only] = ""
+                return ""
+            team1, team2 = parts[0].strip(), parts[1].strip()
+            if not team1 or not team2:
+                poster_cache[name_only] = ""
+                return ""
+            event_label = f"LIVE : {name_only}"
+            cached, absolute = cached_poster_url(team1, team2)
+            if cached and cached.startswith(("http://", "https://")):
+                poster_cache[name_only] = cached
+                return cached
+            logo1 = resolve_team_logo(team1, event_label, "Soccer")
+            logo2 = resolve_team_logo(team2, event_label, "Soccer")
+            img1 = download_logo(logo1)
+            img2 = download_logo(logo2)
+            if img1 is None and logo1:
+                img1 = download_logo(resolve_team_logo(team1, event_label, "Soccer"))
+            if img2 is None and logo2:
+                img2 = download_logo(resolve_team_logo(team2, event_label, "Soccer"))
+            try:
+                create_event_poster(team1, team2, img1, img2, event_label, "Soccer", "", absolute)
+            except Exception as e:
+                print(f"[!] Poster fallito per {name_only}: {e}")
+                poster_cache[name_only] = ""
+                return ""
+            user = os.getenv("NOMEGITHUB", "").strip()
+            repo = os.getenv("NOMEREPO", "").strip()
+            url = ""
+            if user and repo:
+                relative = poster_relative_path(team1, team2)
+                url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{urllib.parse.quote(relative.replace(os.sep, '/'), safe='/')}"
+            poster_cache[name_only] = url
+            return url
+
         if not italian_channels:
             print("[ATTENZIONE] Nessun canale italiano trovato nella programmazione.")
             print("[INFO] Creo un canale fallback 'NESSUN EVENTO'...")
@@ -2877,10 +2931,12 @@ def sportsonline():
                         event_name = f"{name_only} {time_str}"
                     else:
                         event_name = event_info # Fallback se il formato non è quello previsto
-    
+                        name_only = event_info
+                    
                     # Aggiungiamo direttamente l'URL .php alla lista
                     playlist_entries.append({
                         "name": event_name,
+                        "logo": build_poster(name_only),
                         "url": page_url,
                         "referrer": "https://sportsonline.sc/",
                         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -2903,7 +2959,8 @@ def sportsonline():
         with open(output_filename, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for entry in playlist_entries:
-                f.write(f'#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",{entry["name"]}\n')
+                logo_attr = f' tvg-logo="{entry["logo"]}"' if entry.get("logo") else ''
+                f.write(f'#EXTINF:-1{logo_attr} group-title="Eventi Live SPORTSONLINE",{entry["name"]}\n')
                 f.write(f'{entry["url"]}\n')
     
         print(f"\n[COMPLETATO] Playlist creata con successo! Apri il file '{output_filename}' con un player come VLC.")

@@ -2719,9 +2719,107 @@ def world_channels_generator():
                     break
         return all_channels
     
+    GROUP_COUNTRIES = {
+        "Germany": ["germany", "international"],
+        "Arabia": ["world-middle-east", "world-africa", "world-asia", "united-arab-emirates", "international"],
+        "Turkey": ["turkey", "international"],
+        "France": ["france", "international"],
+        "Albania": ["albania", "international"],
+        "United Kingdom": ["united-kingdom", "international"],
+        "Balkans": ["serbia", "croatia", "slovenia", "bulgaria", "romania", "international"],
+        "Italy": ["italy", "international"],
+        "Poland": ["poland", "international"],
+        "Russia": ["russia", "international"],
+        "Spain": ["spain", "international"],
+        "Netherlands": ["netherlands", "international"],
+        "Portugal": ["portugal", "international"],
+        "Romania": ["romania", "international"],
+        "Bulgaria": ["bulgaria", "international"],
+        "Croatia": ["croatia", "international"],
+        "France Sport": ["france", "international"],
+    }
+    TV_LOGO_STOP = {"hd", "fhd", "uhd", "4k", "sd", "hevc", "tv", "channel",
+                    "television", "network", "live", "stream", "raw"}
+
+    def logo_slug(name):
+        text = name.lower()
+        text = re.sub(r'\[\[\[|\]\]\]', ' ', text)
+        text = re.sub(r'\([^)]*\)', ' ', text)
+        text = re.sub(r'\[[^\]]*\]', ' ', text)
+        text = text.replace('&', ' and ')
+        return re.sub(r'[^a-z0-9]+', '-', text).strip('-')
+
+    def logo_variants(name):
+        text = logo_slug(name)
+        tokens = [t for t in text.split('-') if t]
+        out = [text, text.replace('-', ''), text.replace(' and ', ' ')]
+        core = [t for t in tokens if t not in TV_LOGO_STOP]
+        if core:
+            out.extend(['-'.join(core), ''.join(core)])
+        for i in range(1, len(tokens) + 1):
+            out.append('-'.join(tokens[:i]))
+            out.append('-'.join(tokens[-i:]))
+        for i in range(1, len(core) + 1):
+            out.append('-'.join(core[:i]))
+            out.append('-'.join(core[-i:]))
+        return list(dict.fromkeys(x for x in out if x))
+
+    def load_tv_logo_index():
+        try:
+            response = requests.get(
+                "https://api.github.com/repos/tv-logo/tv-logos/git/trees/main?recursive=1",
+                headers={"User-Agent": LOGO_UA}, timeout=30
+            )
+            if response.status_code != 200:
+                print(f"[!] tv-logos non disponibile: HTTP {response.status_code}")
+                return {}, {}
+            tree = response.json().get("tree", [])
+        except Exception as e:
+            print(f"[!] tv-logos non disponibile: {e}")
+            return {}, {}
+
+        by_country, by_country_nospace = {}, {}
+        for node in tree:
+            path = node.get("path", "")
+            if not path.startswith("countries/") or not path.lower().endswith((".png", ".svg")):
+                continue
+            parts = path.split("/")
+            if len(parts) < 3:
+                continue
+            country = parts[1]
+            stem = parts[-1].rsplit(".", 1)[0]
+            base = re.sub(r'-[a-z]{2,3}$', '', stem)
+            index = by_country.setdefault(country, {})
+            index_ns = by_country_nospace.setdefault(country, {})
+            for key in (base, stem):
+                index.setdefault(key, path)
+                index_ns.setdefault(re.sub(r'[^a-z0-9]', '', key), path)
+        print(f"[tv-logos] {sum(len(v) for v in by_country.values())} file indicizzati")
+        return by_country, by_country_nospace
+
+    def world_logo(name, group, by_country, by_country_nospace):
+        variants = logo_variants(name)
+        countries = GROUP_COUNTRIES.get(group, [group.lower().replace(' ', '-'), 'international'])
+        for country in countries:
+            index = by_country.get(country)
+            index_ns = by_country_nospace.get(country)
+            if not index:
+                continue
+            for variant in variants:
+                if variant in index:
+                    path = index[variant]
+                    return "https://raw.githubusercontent.com/tv-logo/tv-logos/main/" + urllib.parse.quote(path, safe="/")
+                compact = re.sub(r'[^a-z0-9]', '', variant)
+                if compact in index_ns:
+                    path = index_ns[compact]
+                    return "https://raw.githubusercontent.com/tv-logo/tv-logos/main/" + urllib.parse.quote(path, safe="/")
+        return ""
+
     def save_as_m3u(channels, filename="world.m3u"):
         # Raggruppa i canali per categoria
         channels_by_category = {}
+        by_country, by_country_nospace = load_tv_logo_index()
+        logo_cache = {}
         
         for ch in channels:
             original_name = ch.get("name", "SenzaNome")
@@ -2733,7 +2831,10 @@ def world_channels_generator():
             if url:
                 if category not in channels_by_category:
                     channels_by_category[category] = []
-                channels_by_category[category].append((name, url))
+                cache_key = (category, name)
+                if cache_key not in logo_cache:
+                    logo_cache[cache_key] = world_logo(name, category, by_country, by_country_nospace)
+                channels_by_category[category].append((name, url, logo_cache[cache_key]))
         
         with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
@@ -2743,8 +2844,9 @@ def world_channels_generator():
                 # Aggiungi un commento per la categoria
                 f.write(f"\n# {category.upper()}\n")
                 
-                for name, url in channel_list:
-                    f.write(f'#EXTINF:-1 group-title="{category}",{name}\n{url}\n')
+                for name, url, logo in channel_list:
+                    logo_attr = f' tvg-logo="{logo}"' if logo else ''
+                    f.write(f'#EXTINF:-1{logo_attr} group-title="{category}",{name}\n{url}\n')
         
         print(f"Playlist M3U salvata in: {os.path.join(output_dir, filename)}")
         print(f"Canali organizzati in {len(channels_by_category)} categorie:")

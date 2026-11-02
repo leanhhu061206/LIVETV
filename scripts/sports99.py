@@ -168,6 +168,19 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
     sports_channels = client.get_sports()
     if sports_channels:
         print(f"[+] Trovati {len(sports_channels)} eventi sportivi totali")
+        if poster_generator is not None:
+            unique_events = {}
+            for c in sports_channels:
+                home = str(c.get("home_team", "")).strip()
+                away = str(c.get("away_team", "")).strip()
+                if not home or not away:
+                    continue
+                title = f"{c.get('tournament', '')} : {home} vs {away}"
+                unique_events[title] = {"t": title, "c": c.get("sport_category", "Sport")}
+            try:
+                poster_generator.prefetch_logos(list(unique_events.values()))
+            except Exception as e:
+                print(f"[!] Prefetch poster fallito: {e}")
         
         code_stats = {}
         for c in sports_channels:

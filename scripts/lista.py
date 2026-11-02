@@ -34,7 +34,7 @@ def _env_int(name, default, minimum):
         return default
 
 POSTER_SIZE = (_env_int("POSTER_WIDTH", 640, 320), _env_int("POSTER_HEIGHT", 360, 180))
-POSTER_VERSION = "2"
+POSTER_VERSION = "3"
 _EMOJI_RE = re.compile(r'[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F\U000E0000-\U000E007F]')
 
 def _poster_clean(value):
@@ -346,6 +346,10 @@ _ESPN_COLLEGE = {
     'women': 'https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams?limit=500',
     'men': 'https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams?limit=500',
 }
+_ESPN_COLLEGE_SOCCER = {
+    'women': 'https://site.api.espn.com/apis/site/v2/sports/soccer/usa.ncaa.w.1/teams?limit=500',
+    'men': 'https://site.api.espn.com/apis/site/v2/sports/soccer/usa.ncaa.m.1/teams?limit=500',
+}
 _ESPN_LEAGUES = {
     'spain la liga': 'esp.1', 'spain segunda division': 'esp.2',
     'england premier league': 'eng.1', 'england championship': 'eng.2',
@@ -361,6 +365,12 @@ _ESPN_LEAGUES = {
     'uefa champions league': 'uefa.champions', 'uefa europa league': 'uefa.europa',
     'turkey super lig': 'tur.1', 'portugal primeira liga': 'por.1',
     'belgium pro league': 'bel.1',
+    'brazil brasileirao': 'bra.1', 'colombia primera a': 'col.1',
+    'chile primera division': 'chi.1', 'ecuador liga pro': 'ecu.1',
+    'bolivia division profesional': 'bol.1',
+    'paraguay primera division': 'par.1', 'uruguay primera division': 'uru.1',
+    'mexico liga mx': 'mex.1', 'usa mls': 'usa.1',
+    'spanish liga f women': 'esp.w.1',
 }
 _SCORES365_SEARCH = 'https://webws.365scores.com/web/search/?appTypeId=5&langId=1&query='
 _SCORES365_IMG = 'https://imagecache.365scores.com/image/upload/f_png,c_limit,q_auto:eco,dpr_1/Competitors/'
@@ -388,7 +398,24 @@ _PRIORITY_ALIASES = {
     'salernitana': 'US Salernitana 1919', 'juventus': 'Juventus FC',
     'al sadd': 'Al Sadd SC', 'al wasl': 'Al-Wasl F.C.',
     'al quwa al jawiya': 'Al-Quwa Al-Jawiya',
+    'rionegro aguilas': 'Águilas Doradas',
+    'costa adeje tenerife': 'UD Tenerife',
+    'costa adeje tenerife w': 'UD Tenerife',
+    'athletic bilbao w': 'Athletic Club (women)',
+    'southern cal': 'USC Trojans',
 }
+_TEAM_ALIAS = {
+    'rionegro aguilas': 'Aguilas Doradas',
+    'southern cal': 'USC Trojans',
+    'costa adeje tenerife': 'Tenerife',
+    'costa adeje tenerife w': 'Tenerife',
+    'athletic bilbao': 'Athletic Club',
+    'athletic bilbao w': 'Athletic Club',
+}
+
+
+def _alias_name(name):
+    return _TEAM_ALIAS.get(_norm_name(name), name)
 _TEAM_EXTRA_OK = {
     'club', 'deportivo', 'deportes', 'fc', 'fk', 'cf', 'sc', 'ac', 'as', 'us', 'cd', 'ca',
     'bc', 'kk', 'hc', 'vc', 'u', 'bt', 'cs', 'kf', 'sk', 'bk', 'if', 'ff', 'ssv', 'vfl',
@@ -535,6 +562,7 @@ def _store_logo(name, sport, url):
 
 
 def _espn_team_logo(teams, name):
+    name = _alias_name(name)
     q = [w for w in _norm_name(name).split() if len(w) >= 2]
     if not q:
         return ''
@@ -548,6 +576,7 @@ def _espn_team_logo(teams, name):
 
 
 def _espn_search_team(name):
+    name = _alias_name(name)
     q = [w for w in _norm_name(name).split() if len(w) >= 2]
     if not q:
         return ''
@@ -602,11 +631,11 @@ def _espn_league_teams(slug):
     return teams
 
 
-def _espn_college_teams(key):
-    cached = _ESPN_CACHE.get(key)
+def _espn_teams_from_url(url, cache_key):
+    cached = _ESPN_CACHE.get(cache_key)
     if cached and time.time() - cached['ts'] < LOGO_TTL:
         return cached['teams']
-    data = _fetch_json(_ESPN_COLLEGE[key], 8)
+    data = _fetch_json(url, 8)
     teams = []
     if data:
         leagues = ((data.get('sports') or [{}])[0].get('leagues') or [{}])
@@ -616,8 +645,16 @@ def _espn_college_teams(key):
             if team.get('displayName') and logo:
                 teams.append({'n': team['displayName'], 'a': team.get('abbreviation', ''), 'logo': logo})
     if teams:
-        _ESPN_CACHE[key] = {'ts': time.time(), 'teams': teams}
+        _ESPN_CACHE[cache_key] = {'ts': time.time(), 'teams': teams}
     return teams
+
+
+def _espn_college_teams(key):
+    return _espn_teams_from_url(_ESPN_COLLEGE[key], key)
+
+
+def _espn_college_soccer_teams(key):
+    return _espn_teams_from_url(_ESPN_COLLEGE_SOCCER[key], 'soccer-' + key)
 
 
 def _lev(a, b):
@@ -665,6 +702,7 @@ def _women_marker(value):
 
 
 def _scores365_logo(name, sport):
+    name = _alias_name(name)
     sid = _SCORES365_SPORT_IDS.get(sport)
     if not sid:
         return ''
@@ -746,7 +784,9 @@ def _wiki_search_one(name, sport):
 
 
 def _wiki_search_name(name, sport):
-    for query_name in [name] + _reserve_aliases(name):
+    wiki_alias = _PRIORITY_ALIASES.get(_norm_name(name))
+    names = [name] + ([wiki_alias] if wiki_alias else []) + _reserve_aliases(name)
+    for query_name in names:
         found = _wiki_search_one(query_name, sport)
         if found:
             return found
@@ -811,6 +851,7 @@ def _tsdb_team(query, name, sport):
 
 
 def _tsdb_team_variants(name, sport):
+    name = _alias_name(name)
     exact = _tsdb_team(name, name, sport)
     if exact:
         return exact
@@ -861,6 +902,9 @@ def resolve_team_logo(team_name, event_name='', category=''):
     logo = ''
     if sport == 'soccer':
         logo = _espn_search_team(name)
+    if not logo and sport == 'soccer' and 'college soccer' in ((category or '') + ' ' + (event_name or '')).lower():
+        key = 'women' if 'women' in ((category or '') + ' ' + (event_name or '')).lower() else 'men'
+        logo = _espn_team_logo(_espn_college_soccer_teams(key), name)
     if not logo and sport in _SCORES365_SPORT_IDS:
         logo = _scores365_logo(name, sport)
     if not logo:
@@ -926,6 +970,29 @@ def _fill_espn_college(events):
     for key in {('women' if 'women' in (ev.get('c', '') + ' ' + ev.get('t', '')).lower() else 'men')
                 for ev in college}:
         teams = _espn_college_teams(key)
+        if not teams:
+            continue
+        for ev in college:
+            ev_key = 'women' if 'women' in (ev.get('c', '') + ' ' + ev.get('t', '')).lower() else 'men'
+            if ev_key != key:
+                continue
+            sport = _sport_of(ev.get('c', ''), ev.get('t', ''))
+            for side in _event_sides(ev.get('t', '')):
+                if _cached_logo(side, sport):
+                    continue
+                logo = _espn_team_logo(teams, side)
+                if logo:
+                    _store_logo(side, sport, logo)
+
+
+def _fill_espn_college_soccer(events):
+    college = [ev for ev in events if 'college soccer' in
+               ((ev.get('c') or '') + ' ' + (ev.get('t') or '')).lower()]
+    if not college:
+        return
+    for key in {('women' if 'women' in (ev.get('c', '') + ' ' + ev.get('t', '')).lower() else 'men')
+                for ev in college}:
+        teams = _espn_college_soccer_teams(key)
         if not teams:
             continue
         for ev in college:
@@ -1010,7 +1077,8 @@ def prefetch_logos(events):
     if not fresh:
         return
     _safe_print(f"[logos] prefetch {len(fresh)} eventi...")
-    for fill in (_fill_scores365, _fill_espn_leagues, _fill_espn_college, _fill_wiki):
+    for fill in (_fill_scores365, _fill_espn_leagues, _fill_espn_college,
+                 _fill_espn_college_soccer, _fill_wiki):
         try:
             fill(fresh)
         except Exception as e:

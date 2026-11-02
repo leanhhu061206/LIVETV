@@ -668,6 +668,10 @@
                     {
                         "channel_name": "UPL.TV",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -680,8 +684,22 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "Sportklub 5 Croatia",
                         "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Tanzania Ligi Kuu Bara : Simba vs Namungo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -696,6 +714,10 @@
                     {
                         "channel_name": "Nova Sports Prime Greece",
                         "channel_id": "3023"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -706,6 +728,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     }
                 ]
             },
@@ -716,6 +742,10 @@
                     {
                         "channel_name": "Astro Football",
                         "channel_id": "124"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "beIN Sports MENA 2",
@@ -729,11 +759,35 @@
             },
             {
                 "time": "16:00",
+                "event": "\u26bd Finland Veikkausliiga : VPS vs HJK",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Finland Veikkausliiga : Inter Turku vs Gnistan",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "\u26bd AFC Champions League Elite : Al Wasl \ud83c\udde6\ud83c\uddea vs Al Quwa Al Jawiya \ud83c\uddee\ud83c\uddf6",
                 "channels": [
                     {
                         "channel_name": "Astro Grandstand",
                         "channel_id": "123"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "Nova Sport Bulgaria",
@@ -752,6 +806,10 @@
                     {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "Sportklub 9 Croatia",
@@ -782,6 +840,10 @@
                         "channel_id": "75"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
                     },
@@ -806,6 +868,10 @@
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
                         "channel_id": "259"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     },
                     {
                         "channel_name": "beIN SPORTS Xtra",
@@ -844,6 +910,20 @@
                     {
                         "channel_name": "Arena Sport 2 Serbia",
                         "channel_id": "430"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Poland Division 1 : Polonia Bytom vs Odra Opole",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -858,6 +938,36 @@
                     {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Women Allsvenskan : Malmo FF W vs Norrkoping W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Women Allsvenskan : Hacken W vs Kristianstad W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd German DFB Pokal : Wolfsburg W vs Hoffenheim W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -880,6 +990,10 @@
                         "channel_id": "62"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    },
+                    {
                         "channel_name": "beIN Sports 1 Turkey",
                         "channel_id": "3092"
                     }
@@ -894,8 +1008,22 @@
                         "channel_id": "889"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "beIN Sports 2 Turkey",
                         "channel_id": "63"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Serbia Super Liga : Radnicki Nis vs Zeleznicar Pancevo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -910,6 +1038,10 @@
                     {
                         "channel_name": "Sportklub 10 Croatia",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Diema Sport Bulgaria",
+                        "channel_id": "3048"
                     }
                 ]
             },
@@ -922,12 +1054,30 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 5",
                         "channel_id": "95"
                     },
                     {
                         "channel_name": "beIN Sports MENA English 1",
                         "channel_id": "61"
+                    },
+                    {
+                        "channel_name": "LALIGA TV Hypermotion",
+                        "channel_id": "3026"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Bulgaria efbet League : Arda vs Septemvri Sofia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     }
                 ]
             },
@@ -942,6 +1092,10 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "Nova Sports 2 Greece",
+                        "channel_id": "3024"
                     }
                 ]
             },
@@ -957,11 +1111,35 @@
             },
             {
                 "time": "17:30",
+                "event": "\u26bd South Africa Betway Premiership : Cape Town City vs Magesi",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Greece Super League : Kalamata vs Iraklis 1908",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
                 "event": "\u26bd Italy - Serie A : Sassuolo \ud83c\uddee\ud83c\uddf9 vs Fiorentina \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     },
                     {
                         "channel_name": "Sky Sport 251 IT",
@@ -1076,6 +1254,10 @@
                     {
                         "channel_name": "Sportklub 6 Croatia",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "TV2 Sport X Denmark",
+                        "channel_id": "3069"
                     }
                 ]
             },
@@ -1106,6 +1288,10 @@
                     {
                         "channel_name": "TV4 Fotball",
                         "channel_id": "747"
+                    },
+                    {
+                        "channel_name": "TV4 Fotball",
+                        "channel_id": "3064"
                     }
                 ]
             },
@@ -1116,6 +1302,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1",
                         "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "TV4 Sport Live 1",
+                        "channel_id": "3061"
                     }
                 ]
             },
@@ -1318,6 +1508,10 @@
                     {
                         "channel_name": "Arena Sport 3 Croatia",
                         "channel_id": "434"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport 3 Poland",
+                        "channel_id": "3060"
                     }
                 ]
             },
@@ -1460,6 +1654,18 @@
                     {
                         "channel_name": "MAX Sport 3 Bulgaria",
                         "channel_id": "474"
+                    },
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "DAZN2 DE",
+                        "channel_id": "3018"
+                    },
+                    {
+                        "channel_name": "DAZN ZONA 1 IT",
+                        "channel_id": "3047"
                     }
                 ]
             },
@@ -1498,6 +1704,10 @@
                     {
                         "channel_name": "5Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Ligue1+ France",
+                        "channel_id": "3051"
                     }
                 ]
             },
@@ -1686,6 +1896,18 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Sky Sports Premier League UK",
+                        "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "Sky Sports Premier League DE",
+                        "channel_id": "3016"
+                    },
+                    {
+                        "channel_name": "Canal+ Foot France",
+                        "channel_id": "3050"
                     }
                 ]
             },
@@ -1772,6 +1994,14 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "3086"
                     }
                 ]
             },
@@ -1802,6 +2032,10 @@
                     {
                         "channel_name": "MAX Sport 2 Bulgaria",
                         "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "LALIGA TV Hypermotion",
+                        "channel_id": "3026"
                     }
                 ]
             },
@@ -1874,6 +2108,10 @@
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "3021"
                     }
                 ]
             },

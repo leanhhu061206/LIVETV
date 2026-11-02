@@ -1219,7 +1219,7 @@ def eventi_dlhd_m3u8_generator_world():
                 logo2_url = search_team_logo(team2, event_name, category)
                 
                 # Se abbiamo trovato entrambi i loghi, creiamo un'immagine combinata
-                if logo1_url and logo2_url:
+                if team1 and team2:
                     # Scarica i loghi e l'immagine VS
                     try:
                         from os.path import exists, getmtime
@@ -1293,11 +1293,6 @@ def eventi_dlhd_m3u8_generator_world():
                             except Exception as e_pil: # Errore specifico da PIL durante Image.open
                                 print(f"[!] Errore PIL aprendo logo2 ({logo2_url}): {e_pil}")
                                 logo2_url = None
-                        # Procedi con la combinazione solo se entrambi i loghi sono stati caricati con successo
-                        if not (img1 and img2):
-                            print(f"[!] Impossibile caricare entrambi i loghi come immagini valide per la combinazione. Logo1 caricato: {bool(img1)}, Logo2 caricato: {bool(img2)}.")
-                            raise ValueError("Uno o entrambi i loghi non sono stati caricati correttamente.") # Questo forzerÃ  l'except sottostante
-                        
                         create_event_poster(team1, team2, img1, img2, event_name, category, time_str, absolute_output_filename)
                         
                         print(f"[✓] Immagine combinata creata: {absolute_output_filename}")
@@ -1561,7 +1556,7 @@ def eventi_dlhd_m3u8_generator():
                 logo2_url = search_team_logo(team2, event_name, category)
                 
                 # Se abbiamo trovato entrambi i loghi, creiamo un'immagine combinata
-                if logo1_url and logo2_url:
+                if team1 and team2:
                     # Scarica i loghi e l'immagine VS
                     try:
                         from os.path import exists, getmtime
@@ -1635,11 +1630,6 @@ def eventi_dlhd_m3u8_generator():
                             except Exception as e_pil: # Errore specifico da PIL durante Image.open
                                 print(f"[!] Errore PIL aprendo logo2 ({logo2_url}): {e_pil}")
                                 logo2_url = None
-                        # Procedi con la combinazione solo se entrambi i loghi sono stati caricati con successo
-                        if not (img1 and img2):
-                            print(f"[!] Impossibile caricare entrambi i loghi come immagini valide per la combinazione. Logo1 caricato: {bool(img1)}, Logo2 caricato: {bool(img2)}.")
-                            raise ValueError("Uno o entrambi i loghi non sono stati caricati correttamente.") # Questo forzerÃ  l'except sottostante
-                        
                         create_event_poster(team1, team2, img1, img2, event_name, category, time_str, absolute_output_filename)
                         
                         print(f"[✓] Immagine combinata creata: {absolute_output_filename}")

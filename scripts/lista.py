@@ -1204,8 +1204,8 @@ def eventi_dlhd_m3u8_generator_world():
             
             # Se abbiamo identificato due squadre, cerchiamo i loghi separatamente
             if teams and len(teams) == 2:
-                team1 = teams[0].strip()
-                team2 = teams[1].strip()
+                team1 = _poster_clean(teams[0].strip())
+                team2 = _poster_clean(teams[1].strip())
 
                 cached_url, _ = cached_poster_url(team1, team2)
                 if cached_url:
@@ -1438,7 +1438,7 @@ def eventi_dlhd_m3u8_generator_world():
                     # Cerca un logo per questo evento
                     # Rimuovi l'orario dal titolo dell'evento prima di cercare il logo
                     clean_event_title = re.sub(r'\s*\(\d{1,2}:\d{2}\)\s*$', '', event_title)
-                    print(f"[🔍] Ricerca logo per: {clean_event_title}") 
+                    print(f"[🔍] Ricerca logo per: {_poster_clean(clean_event_title)}") 
                     logo_url = search_logo_for_event(clean_event_title, category=category)
                     logo_attribute = f' tvg-logo="{logo_url}"' if logo_url else ''
      
@@ -1541,8 +1541,8 @@ def eventi_dlhd_m3u8_generator():
             
             # Se abbiamo identificato due squadre, cerchiamo i loghi separatamente
             if teams and len(teams) == 2:
-                team1 = teams[0].strip()
-                team2 = teams[1].strip()
+                team1 = _poster_clean(teams[0].strip())
+                team2 = _poster_clean(teams[1].strip())
 
                 cached_url, _ = cached_poster_url(team1, team2)
                 if cached_url:
@@ -1774,7 +1774,7 @@ def eventi_dlhd_m3u8_generator():
                     # Cerca un logo per questo evento
                     # Rimuovi l'orario dal titolo dell'evento prima di cercare il logo
                     clean_event_title = re.sub(r'\s*\(\d{1,2}:\d{2}\)\s*$', '', event_title)
-                    print(f"[🔍] Ricerca logo per: {clean_event_title}") 
+                    print(f"[🔍] Ricerca logo per: {_poster_clean(clean_event_title)}") 
                     logo_url = search_logo_for_event(clean_event_title, category=category)
                     logo_attribute = f' tvg-logo="{logo_url}"' if logo_url else ''
      

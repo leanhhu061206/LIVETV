@@ -37,8 +37,6 @@ jobs:
 
       - name: Run Script
         run: python scripts/lista.py
-        env:
-          LINK_DADDYBYPASS: ${{ secrets.LINK_DADDYBYPASS }}
 
       - name: Commit and push if changed
         run: |

@@ -1,18 +1,1006 @@
 import requests
 import os
 import re
+import time
+import unicodedata
+import urllib.parse
 import concurrent.futures
 import json
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
+import sys
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 load_dotenv()
 
 # Definisce il percorso della cartella dello script e della cartella principale
 script_dir = os.path.dirname(os.path.abspath(__file__))
 output_dir = os.path.dirname(script_dir)
+
+# ---------- EasySports-style poster generator ----------
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
+
+def _env_int(name, default, minimum):
+    try:
+        return max(minimum, int(os.getenv(name, str(default))))
+    except Exception:
+        return default
+
+POSTER_SIZE = (_env_int("POSTER_WIDTH", 640, 320), _env_int("POSTER_HEIGHT", 360, 180))
+_EMOJI_RE = re.compile(r'[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F\U000E0000-\U000E007F]')
+
+def _poster_clean(value):
+    return re.sub(r'\s+', ' ', _EMOJI_RE.sub(' ', str(value or ''))).strip()
+
+
+def _poster_slug(value):
+    text = _poster_clean(value)
+    text = unicodedata.normalize('NFKD', text)
+    text = ''.join(c for c in text if not unicodedata.combining(c))
+    text = re.sub(r'[^A-Za-z0-9]+', '_', text)
+    return re.sub(r'_+', '_', text).strip('_') or 'team'
+
+
+def poster_relative_path(team1, team2):
+    return os.path.join("logos", f"{_poster_slug(team1)}_vs_{_poster_slug(team2)}.png")
+
+
+_MIGRATED_LOGO_NAMES = False
+
+
+def migrate_logo_filenames():
+    global _MIGRATED_LOGO_NAMES
+    if _MIGRATED_LOGO_NAMES:
+        return
+    logos_dir = os.path.join(output_dir, "logos")
+    if not os.path.isdir(logos_dir):
+        _MIGRATED_LOGO_NAMES = True
+        return
+    targets = {}
+    for name in os.listdir(logos_dir):
+        if not name.lower().endswith(".png") or "_vs_" not in name:
+            continue
+        team1, team2 = name[:-4].split("_vs_", 1)
+        target = os.path.basename(poster_relative_path(team1, team2))
+        if target != name:
+            targets.setdefault(target, []).append(name)
+    for target, sources in targets.items():
+        target_path = os.path.join(logos_dir, target)
+        candidates = list(sources)
+        if os.path.exists(target_path) and target not in candidates:
+            candidates.append(target)
+        candidates.sort(key=lambda n: os.path.getmtime(os.path.join(logos_dir, n)), reverse=True)
+        keep = candidates[0]
+        keep_path = os.path.join(logos_dir, keep)
+        if os.path.abspath(keep_path) != os.path.abspath(target_path):
+            os.replace(keep_path, target_path)
+        for extra in candidates[1:]:
+            extra_path = os.path.join(logos_dir, extra)
+            if os.path.abspath(extra_path) != os.path.abspath(target_path):
+                try:
+                    os.remove(extra_path)
+                except Exception:
+                    pass
+    _MIGRATED_LOGO_NAMES = True
+
+def _poster_font(size, bold=True, italic=False):
+    if bold and italic:
+        names = ['DejaVuSans-BoldOblique.ttf', 'arialbi.ttf']
+    elif bold:
+        names = ['DejaVuSans-Bold.ttf', 'arialbd.ttf']
+    elif italic:
+        names = ['DejaVuSans-Oblique.ttf', 'ariali.ttf']
+    else:
+        names = ['DejaVuSans.ttf', 'arial.ttf']
+    for folder in ('/usr/share/fonts/truetype/dejavu/', 'C:/Windows/Fonts/', ''):
+        for name in names:
+            try:
+                return ImageFont.truetype(folder + name, size)
+            except Exception:
+                pass
+    try:
+        return ImageFont.load_default(size=size)
+    except Exception:
+        return ImageFont.load_default()
+
+def _poster_fit(img, box):
+    if img is None:
+        return None
+    img = img.convert('RGBA')
+    img.thumbnail((box, box), getattr(Image, 'Resampling', Image).LANCZOS)
+    return img
+
+def _poster_wrap(text, max_chars, max_lines=2):
+    words = text.split()
+    lines, cur = [], ''
+    for word in words:
+        if not cur:
+            cur = word
+        elif len(cur) + 1 + len(word) <= max_chars:
+            cur += ' ' + word
+        else:
+            lines.append(cur)
+            cur = word
+            if len(lines) >= max_lines:
+                break
+    if cur and len(lines) < max_lines:
+        lines.append(cur)
+    if len(lines) == max_lines and words and len(' '.join(lines)) < len(' '.join(words)):
+        lines[-1] = lines[-1].rstrip() + '\u2026'
+    return lines[:max_lines]
+
+def _poster_accent(event_name, category):
+    text = (str(event_name or '') + ' ' + str(category or '')).lower()
+    if re.search(r'basket|nba|euroleague', text): return (224, 138, 60)
+    if re.search(r'tennis|atp|wta', text): return (200, 212, 74)
+    if re.search(r'hockey|nhl', text): return (90, 182, 232)
+    if re.search(r'american football|nfl|ncaaf', text): return (196, 107, 74)
+    if re.search(r'baseball|mlb', text): return (212, 106, 106)
+    if re.search(r'mma|box|wrestl|fight', text): return (217, 83, 79)
+    if re.search(r'motogp|formula|f1|nascar|racing|motorsport', text): return (224, 178, 60)
+    if re.search(r'golf', text): return (116, 184, 122)
+    if re.search(r'cricket', text): return (111, 168, 214)
+    if re.search(r'darts', text): return (211, 107, 168)
+    if re.search(r'rugby', text): return (142, 124, 195)
+    if re.search(r'volley', text): return (224, 194, 74)
+    return (63, 166, 106)
+
+def _poster_league(event_name, category):
+    text = _poster_clean(event_name)
+    if ':' in text:
+        text = text.split(':', 1)[0]
+    if '|' in text:
+        text = text.split('|')[-1]
+    text = text.strip(' -')
+    return (text or _poster_clean(category) or 'LIVE EVENT').upper()[:46]
+
+def _poster_initials(name):
+    words = [w for w in _poster_clean(name).split() if w]
+    return ''.join(w[0] for w in words[:2]).upper() or '?'
+
+def create_event_poster(team1, team2, img1, img2, event_name='', category='', time_str='', output_path=''):
+    W, H = POSTER_SIZE
+    S = W / 640.0
+    accent = _poster_accent(event_name, category)
+    gold = (212, 175, 55)
+
+    bg = Image.new('RGB', (W, H), (10, 10, 15))
+    draw = ImageDraw.Draw(bg)
+    top, bottom = (10, 10, 15), (25, 25, 38)
+    for y in range(H):
+        t = y / max(1, H - 1)
+        draw.line((0, y, W, y), fill=(
+            int(top[0] + (bottom[0] - top[0]) * t),
+            int(top[1] + (bottom[1] - top[1]) * t),
+            int(top[2] + (bottom[2] - top[2]) * t),
+        ))
+
+    bg = bg.convert('RGBA')
+    draw = ImageDraw.Draw(bg)
+
+    overlay = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    od = ImageDraw.Draw(overlay)
+    od.polygon([(0, H), (W, int(H * 0.66)), (W, H)], fill=(*accent, 22))
+    od.polygon([(0, H), (W, int(H * 0.79)), (W, H)], fill=(*gold, 16))
+    bg = Image.alpha_composite(bg, overlay)
+    draw = ImageDraw.Draw(bg)
+
+    league = _poster_league(event_name, category)
+    header_font = _poster_font(max(10, int(13 * S)), bold=True)
+    draw.text((int(32 * S), int(18 * S)), league, font=header_font, fill=accent, anchor='la')
+
+    box = int(170 * S)
+    centers = [int(W * 0.25), int(W * 0.75)]
+    logo_y = int(H * 0.43)
+    shadow = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    sd = ImageDraw.Draw(shadow)
+    for cx in centers:
+        sd.ellipse((cx - box * 0.45, int(H * 0.68), cx + box * 0.45, int(H * 0.73)), fill=(0, 0, 0, 100))
+    shadow = shadow.filter(ImageFilter.GaussianBlur(max(3, int(6 * S))))
+    bg = Image.alpha_composite(bg, shadow)
+    draw = ImageDraw.Draw(bg)
+
+    for img, name, cx in ((img1, team1, centers[0]), (img2, team2, centers[1])):
+        logo = _poster_fit(img, box)
+        if logo:
+            x = cx - logo.width // 2
+            y = logo_y - logo.height // 2
+            bg.alpha_composite(logo, (x, y))
+        else:
+            initials = _poster_initials(name)
+            font = _poster_font(max(20, int(54 * S)), bold=True)
+            draw.text((cx, logo_y), initials, font=font, fill=accent, anchor='mm')
+
+    cx, cy = W // 2, logo_y
+    r = int(44 * S)
+    draw.polygon([(cx - int(68 * S), cy - int(30 * S)), (cx - int(22 * S), cy + int(40 * S)),
+                  (cx - int(34 * S), cy + int(44 * S)), (cx - int(80 * S), cy - int(26 * S))], fill=gold)
+    draw.polygon([(cx + int(68 * S), cy + int(30 * S)), (cx + int(22 * S), cy - int(40 * S)),
+                  (cx + int(34 * S), cy - int(44 * S)), (cx + int(80 * S), cy + int(26 * S))], fill=accent)
+    pts = [(cx, cy - r), (cx + int(r * 0.85), cy - r // 2), (cx + int(r * 0.85), cy + r // 2),
+           (cx, cy + r), (cx - int(r * 0.85), cy + r // 2), (cx - int(r * 0.85), cy - r // 2)]
+    draw.polygon(pts, fill=(20, 20, 28))
+    draw.line(pts + [pts[0]], fill=gold, width=max(2, int(2 * S)))
+    vs_font = _poster_font(max(16, int(28 * S)), bold=True, italic=True)
+    draw.text((cx, cy + int(1 * S)), 'VS', font=vs_font, fill=gold, anchor='mm')
+
+    name_font = _poster_font(max(11, int(16 * S)), bold=True)
+    for name, cx in ((team1, centers[0]), (team2, centers[1])):
+        lines = _poster_wrap(_poster_clean(name), 18, 2)
+        start_y = int(H * 0.78) if len(lines) == 1 else int(H * 0.75)
+        for i, line in enumerate(lines):
+            draw.text((cx, start_y + i * int(18 * S)), line, font=name_font, fill=(241, 245, 249), anchor='ma')
+
+    rule_y = int(H * 0.90)
+    draw.line((int(64 * S), rule_y, W - int(64 * S), rule_y), fill=(*gold, 90), width=1)
+
+    if output_path:
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        bg.convert('RGB').save(output_path, 'PNG', optimize=True)
+    return bg
+
+def poster_is_current(path):
+    try:
+        with Image.open(path) as im:
+            return im.size == POSTER_SIZE
+    except Exception:
+        return False
+
+
+def cached_poster_url(team1, team2):
+    relative = poster_relative_path(team1, team2)
+    absolute = os.path.join(output_dir, relative)
+    try:
+        if not os.path.exists(absolute):
+            return None, absolute
+        if time.time() - os.path.getmtime(absolute) > 3 * 60 * 60:
+            return None, absolute
+        if not poster_is_current(absolute):
+            return None, absolute
+        user = os.getenv("NOMEGITHUB", "").strip()
+        repo = os.getenv("NOMEREPO", "").strip()
+        if user and repo:
+            url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{urllib.parse.quote(relative.replace(os.sep, '/'), safe='/')}"
+            return url, absolute
+        return absolute, absolute
+    except Exception:
+        return None, absolute
+# ---------- end poster generator ----------
+
+# ---------- EasySports-style multi-source logo resolver ----------
+
+LOGO_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+LOGO_TTL = 24 * 3600
+LOGO_MISS_TTL = 10 * 60
+_LOGO_CACHE = {}
+_LOGO_TS = {}
+_PREFETCHED = set()
+_WIKI_BACKOFF = 0.0
+_TSDB_BACKOFF = 0.0
+
+_SPORT_RULES = [
+    ('fight', re.compile(r'(\bmma\b|wrestl|\bcombat\b|\bboxing\b|\bufc\b|\baew\b|\bwwe\b|🥊|🤼|🥋)', re.I)),
+    ('motor-sports', re.compile(r'(motogp|moto gp|formula|\bf1\b|nascar|superbike|indycar|motorsport|🏍|🏎)', re.I)),
+    ('american-football', re.compile(r'(ncaaf|american football|🏈)', re.I)),
+    ('ice-hockey', re.compile(r'(ice hockey|hockey|\bnhl\b|\bkhl\b|\bahl\b|\bechl\b|\bohl\b|\bwhl\b|🏒)', re.I)),
+    ('basketball', re.compile(r'(basketball|\bnba\b|eurocup|euroleague|\baba\b|\bvtb\b|opap|🏀)', re.I)),
+    ('baseball', re.compile(r'(baseball|\bmlb\b|⚾)', re.I)),
+    ('tennis', re.compile(r'(tennis|\batp\b|\bwta\b|🎾)', re.I)),
+    ('golf', re.compile(r'(golf|⛳)', re.I)),
+    ('cricket', re.compile(r'(cricket|\bipl\b|🏏)', re.I)),
+    ('darts', re.compile(r'(darts|🎯)', re.I)),
+    ('rugby', re.compile(r'(rugby|🏉)', re.I)),
+    ('volleyball', re.compile(r'(volleyball|🏐)', re.I)),
+    ('other', re.compile(r'(water polo|handball|floorball|rowing|weightlifting|snooker|🏊|🤾)', re.I)),
+    ('soccer', re.compile(r'(soccer|football|premiership|\bleague\b|\bmls\b|futsal|⚽)', re.I)),
+]
+
+_WIKI_SPORT_RE = {
+    'soccer': re.compile(r'football|soccer|\bfc\b|sports club|reserve team', re.I),
+    'basketball': re.compile(r'basketball', re.I),
+    'tennis': re.compile(r'tennis', re.I),
+    'ice-hockey': re.compile(r'ice hockey|hockey', re.I),
+    'american-football': re.compile(r'american football|gridiron', re.I),
+    'baseball': re.compile(r'baseball', re.I),
+    'fight': re.compile(r'mixed martial|boxer|boxing|wrestl|fighter|martial', re.I),
+    'motor-sports': re.compile(r'racing|motorsport|formula|driver|motorcycle', re.I),
+    'golf': re.compile(r'golf', re.I),
+    'cricket': re.compile(r'cricket', re.I),
+    'darts': re.compile(r'darts', re.I),
+    'rugby': re.compile(r'rugby', re.I),
+    'volleyball': re.compile(r'volleyball', re.I),
+    'other': re.compile(r'sport|athlet|rower|rowing|weightlift|olympic|champion', re.I),
+}
+
+_TSDB_SPORT = {
+    'soccer': re.compile(r'soccer', re.I), 'basketball': re.compile(r'basketball', re.I),
+    'ice-hockey': re.compile(r'ice hockey|hockey', re.I),
+    'american-football': re.compile(r'american football|nfl', re.I),
+    'baseball': re.compile(r'baseball', re.I), 'rugby': re.compile(r'rugby', re.I),
+    'volleyball': re.compile(r'volleyball', re.I), 'cricket': re.compile(r'cricket', re.I),
+}
+_TSDB_PLAYER_SPORT = {
+    'tennis': re.compile(r'tennis', re.I), 'golf': re.compile(r'golf', re.I),
+    'darts': re.compile(r'darts', re.I),
+    'fight': re.compile(r'boxing|mma|mixed martial|wrestl', re.I),
+    'motor-sports': re.compile(r'racing|motorsport|formula|driver|motorcycle', re.I),
+}
+
+_WIKI_API = ('https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|description'
+             '&piprop=thumbnail|name&pithumbsize=1280&pilicense=any&redirects=1&maxlag=5')
+_WIKI_SEARCH_API = ('https://en.wikipedia.org/w/api.php?action=query&format=json&generator=search'
+                    '&prop=pageimages|description&piprop=thumbnail|name&pithumbsize=1280'
+                    '&pilicense=any&maxlag=5&gsrsearch=')
+_ESPN_SEARCH = 'https://site.web.api.espn.com/apis/search/v2?region=us&lang=en&limit=10&query='
+_ESPN_COLLEGE = {
+    'women': 'https://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams?limit=500',
+    'men': 'https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams?limit=500',
+}
+_ESPN_LEAGUES = {
+    'spain la liga': 'esp.1', 'spain segunda division': 'esp.2',
+    'england premier league': 'eng.1', 'england championship': 'eng.2',
+    'italy serie a': 'ita.1', 'italy serie b': 'ita.2',
+    'germany bundesliga': 'ger.1', 'germany 2 bundesliga': 'ger.2',
+    'france ligue 1': 'fra.1', 'netherlands eredivisie': 'ned.1',
+    'netherlands eerste divisie': 'ned.2', 'russian premier league': 'rus.1',
+    'romania liga i': 'rou.1', 'greece super league': 'gre.1',
+    'peru primera division': 'per.1', 'israel ligat ha al': 'isr.1',
+    'sweden allsvenskan': 'swe.1', 'denmark super liga': 'den.1',
+    'norway eliteserien': 'nor.1', 'argentina primera division': 'arg.1',
+    'afc champions league elite': 'afc.champions',
+    'uefa champions league': 'uefa.champions', 'uefa europa league': 'uefa.europa',
+    'turkey super lig': 'tur.1', 'portugal primeira liga': 'por.1',
+    'belgium pro league': 'bel.1',
+}
+_SCORES365_SEARCH = 'https://webws.365scores.com/web/search/?appTypeId=5&langId=1&query='
+_SCORES365_IMG = 'https://imagecache.365scores.com/image/upload/f_png,c_limit,q_auto:eco,dpr_1/Competitors/'
+_SCORES365_COMPETITIONS = {'saudi arabia division 1': 5502, 'sweden superettan': 123}
+_SCORES365_STOP = {'al', 'el', 'the', 'fc', 'cf', 'sc', 'club', 'team', 'de', 'cd', 'ca', 'ac', 'as', 'us', 'ss', 'ssc', 'fk', 'bc', 'kk'}
+_ESPN_CACHE = {}
+_ESPN_LEAGUE_CACHE = {}
+_SCORES365_COMP_CACHE = {}
+_TSDB_KEY = os.getenv('TSDB_KEY', '123')
+_TSDB_API = f'https://www.thesportsdb.com/api/v1/json/{_TSDB_KEY}/searchteams.php?t='
+
+_RESERVE_ALIAS = {'juventus': 'Juventus Next Gen', 'milan': 'Milan Futuro', 'inter': 'Inter U23'}
+_PRIORITY_ALIASES = {
+    'atalanta': 'Atalanta BC', 'parma': 'Parma Calcio 1913', 'bologna': 'Bologna FC 1909',
+    'genoa': 'Genoa CFC', 'verona': 'Hellas Verona FC', 'lecce': 'US Lecce',
+    'napoli': 'SSC Napoli', 'roma': 'AS Roma', 'lazio': 'SS Lazio', 'milan': 'AC Milan',
+    'inter': 'Inter Milan', 'fiorentina': 'ACF Fiorentina', 'torino': 'Torino FC',
+    'udinese': 'Udinese Calcio', 'cagliari': 'Cagliari Calcio', 'como': 'Como 1907',
+    'monza': 'AC Monza', 'empoli': 'Empoli FC', 'sassuolo': 'US Sassuolo Calcio',
+    'salernitana': 'US Salernitana 1919', 'juventus': 'Juventus FC',
+    'al sadd': 'Al Sadd SC', 'al wasl': 'Al-Wasl F.C.',
+    'al quwa al jawiya': 'Al-Quwa Al-Jawiya',
+}
+_TEAM_EXTRA_OK = {
+    'club', 'deportivo', 'deportes', 'fc', 'fk', 'cf', 'sc', 'ac', 'as', 'us', 'cd', 'ca',
+    'bc', 'kk', 'hc', 'vc', 'u', 'bt', 'cs', 'kf', 'sk', 'bk', 'if', 'ff', 'ssv', 'vfl',
+    'vfb', 'rb', 'afc', 'tsg', 'sp', 'sv', 'fcm', 'cfm',
+}
+
+
+def _safe_print(message):
+    try:
+        print(message)
+    except Exception:
+        try:
+            print(str(message).encode('ascii', 'replace').decode('ascii'))
+        except Exception:
+            pass
+
+
+def _sport_of(category, title):
+    text = f"{category or ''} {title or ''}"
+    for sport, rx in _SPORT_RULES:
+        if rx.search(text):
+            return sport
+    return 'other'
+
+
+def _norm_name(value):
+    s = unicodedata.normalize('NFD', str(value or ''))
+    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+    return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
+
+
+def _clean_name(value):
+    s = _EMOJI_RE.sub(' ', str(value or ''))
+    s = re.sub(r'\([^)]*\)', ' ', s)
+    return re.sub(r'\s+', ' ', s).strip()
+
+
+def _league_prefix(title, category):
+    text = _clean_name(title)
+    if ':' in text:
+        text = text.split(':', 1)[0]
+    return text.strip(' -') or _clean_name(category)
+
+
+def _event_sides(title):
+    s = _clean_name(str(title or ''))
+    s = re.sub(r'\s*\(\d{1,2}:\d{2}\)\s*$', '', s)
+    if ':' in s:
+        s = s.split(':')[-1].strip()
+    parts = re.split(r'\s+(?:vs\.?|v)\s+', s, flags=re.I)
+    out = []
+    for part in parts:
+        part = _clean_name(part.split('/')[0])
+        if len(part) >= 3:
+            out.append(part)
+    return out if len(out) == 2 else []
+
+
+def _reserve_aliases(name):
+    m = re.match(r'^(.*?)\s+(II|2|B|U23|U-23|U21|U-21|Next Gen)$', str(name or ''), re.I)
+    if not m:
+        return []
+    base = m.group(1).strip()
+    out = []
+    known = _RESERVE_ALIAS.get(_norm_name(base))
+    if known:
+        out.append(known)
+    out.extend([base + ' Next Gen', base + ' U23', base + ' B'])
+    return [x for x in dict.fromkeys(out) if _norm_name(x) != _norm_name(name)]
+
+
+def _wiki_variants(name, sport):
+    out = [name]
+    has_club = re.search(r'(^|\s)(fc|f\.c\.|fk|cf|sc|ac|as|us|cd|ca|bc|kk|hc|vc|sk|bk)(\s|$)', name, re.I)
+    for alias in _reserve_aliases(name):
+        if alias not in out:
+            out.append(alias)
+    if not has_club:
+        if sport == 'soccer':
+            extras = [name + ' BC', 'FC ' + name, name + ' FC', name + ' Calcio', 'FK ' + name]
+        elif sport == 'basketball':
+            extras = ['BC ' + name, 'KK ' + name]
+        elif sport == 'ice-hockey':
+            extras = ['HC ' + name, name + ' HC']
+        elif sport == 'volleyball':
+            extras = ['VC ' + name]
+        else:
+            extras = []
+        for extra in extras:
+            extra = _clean_name(extra)
+            if extra and extra not in out:
+                out.append(extra)
+    return out[:6]
+
+
+def _title_matches(name, title, sport):
+    q = [w for w in _norm_name(name).split() if len(w) >= 2]
+    t = [w for w in _norm_name(re.sub(r'\([^)]*\)', ' ', str(title or ''))).split() if len(w) >= 2]
+    if not q or not all(w in t for w in q):
+        return False
+    if sport not in _TSDB_SPORT:
+        return True
+    qs = set(q)
+    return all(w in qs or w in _TEAM_EXTRA_OK for w in t)
+
+
+def _wiki_accept(desc, sport):
+    d = str(desc or '').lower()
+    if not d:
+        return False
+    if re.search(r'disambiguation|city|town|village|municipality|river|company|album|film|song|genus|species', d):
+        return False
+    return bool((_WIKI_SPORT_RE.get(sport) or _WIKI_SPORT_RE['other']).search(d))
+
+
+def _fetch_json(url, timeout=6):
+    try:
+        r = requests.get(url, headers={
+            'User-Agent': LOGO_UA,
+            'Accept': 'application/json,text/html;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+        }, timeout=timeout)
+        if r.status_code == 200:
+            return r.json()
+    except Exception:
+        pass
+    return None
+
+
+def _cached_logo(name, sport):
+    key = (_norm_name(name), sport)
+    if key not in _LOGO_CACHE:
+        return None
+    ttl = LOGO_TTL if _LOGO_CACHE[key] else LOGO_MISS_TTL
+    if time.time() - _LOGO_TS.get(key, 0) > ttl:
+        return None
+    return _LOGO_CACHE[key]
+
+
+def _store_logo(name, sport, url):
+    key = (_norm_name(name), sport)
+    _LOGO_CACHE[key] = url or ''
+    _LOGO_TS[key] = time.time()
+
+
+def _espn_team_logo(teams, name):
+    q = [w for w in _norm_name(name).split() if len(w) >= 2]
+    if not q:
+        return ''
+    for team in teams:
+        tokens = set(_norm_name(team.get('n', '')).split())
+        if all(w in tokens for w in q):
+            return team.get('logo', '')
+        if team.get('a') and _norm_name(team['a']) == _norm_name(name):
+            return team.get('logo', '')
+    return ''
+
+
+def _espn_search_team(name):
+    q = [w for w in _norm_name(name).split() if len(w) >= 2]
+    if not q:
+        return ''
+    data = _fetch_json(_ESPN_SEARCH + urllib.parse.quote(name), 6)
+    if not data:
+        return ''
+    tries = 0
+    for result in data.get('results') or []:
+        if result.get('type') != 'team':
+            continue
+        for item in result.get('contents') or []:
+            if item.get('type') != 'team' or 'soccer' not in (item.get('sport') or '').lower():
+                continue
+            tokens = set(_norm_name(item.get('displayName', '')).split())
+            if not all(w in tokens for w in q):
+                continue
+            m = re.search(r'~t:(\d+)', item.get('uid') or '')
+            slug = item.get('defaultLeagueSlug')
+            if not m or not slug:
+                continue
+            tries += 1
+            if tries > 2:
+                return ''
+            detail = _fetch_json(
+                'https://site.api.espn.com/apis/site/v2/sports/soccer/' +
+                urllib.parse.quote(slug) + '/teams/' + m.group(1), 6
+            )
+            if detail:
+                logos = (detail.get('team') or {}).get('logos') or []
+                if logos and logos[0].get('href'):
+                    return logos[0]['href']
+    return ''
+
+
+def _espn_league_teams(slug):
+    cached = _ESPN_LEAGUE_CACHE.get(slug)
+    if cached and time.time() - cached['ts'] < LOGO_TTL:
+        return cached['teams']
+    data = _fetch_json(
+        'https://site.api.espn.com/apis/site/v2/sports/soccer/' + slug + '/teams?limit=500', 8
+    )
+    teams = []
+    if data:
+        leagues = ((data.get('sports') or [{}])[0].get('leagues') or [{}])
+        for row in (leagues[0].get('teams') or []):
+            team = row.get('team') or {}
+            logo = ((team.get('logos') or [{}])[0].get('href') or '')
+            if team.get('displayName') and logo:
+                teams.append({'n': team['displayName'], 'a': team.get('abbreviation', ''), 'logo': logo})
+    if teams:
+        _ESPN_LEAGUE_CACHE[slug] = {'ts': time.time(), 'teams': teams}
+    return teams
+
+
+def _espn_college_teams(key):
+    cached = _ESPN_CACHE.get(key)
+    if cached and time.time() - cached['ts'] < LOGO_TTL:
+        return cached['teams']
+    data = _fetch_json(_ESPN_COLLEGE[key], 8)
+    teams = []
+    if data:
+        leagues = ((data.get('sports') or [{}])[0].get('leagues') or [{}])
+        for row in (leagues[0].get('teams') or []):
+            team = row.get('team') or {}
+            logo = ((team.get('logos') or [{}])[0].get('href') or '')
+            if team.get('displayName') and logo:
+                teams.append({'n': team['displayName'], 'a': team.get('abbreviation', ''), 'logo': logo})
+    if teams:
+        _ESPN_CACHE[key] = {'ts': time.time(), 'teams': teams}
+    return teams
+
+
+def _lev(a, b):
+    if a == b:
+        return 0
+    m, n = len(a), len(b)
+    d = [[0] * (n + 1) for _ in range(m + 1)]
+    for i in range(m + 1):
+        d[i][0] = i
+    for j in range(n + 1):
+        d[0][j] = j
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            d[i][j] = min(d[i - 1][j] + 1, d[i][j - 1] + 1,
+                          d[i - 1][j - 1] + (a[i - 1] != b[j - 1]))
+    return d[m][n]
+
+
+def _scores365_match(qname, cname):
+    q = [w for w in _norm_name(qname).split() if len(w) >= 2 and w not in _SCORES365_STOP]
+    t = [w for w in _norm_name(cname).split() if len(w) >= 2 and w not in _SCORES365_STOP]
+    if not q or not t:
+        return False
+    ts = set(t)
+    return all(any(w == x or (len(w) >= 4 and len(x) >= 4 and _lev(w, x) <= 1) for x in t) for w in q)
+
+
+def _scores365_logo(name, sport):
+    sid = 3 if sport == 'tennis' else 1
+    q = [w for w in _norm_name(name).split() if len(w) >= 2]
+    if not q:
+        return ''
+    data = _fetch_json(_SCORES365_SEARCH + urllib.parse.quote(_norm_name(name)), 6)
+    if not data:
+        return ''
+    candidates = []
+    for competitor in data.get('competitors') or []:
+        if not competitor or competitor.get('sportId') != sid or not competitor.get('name'):
+            continue
+        tokens = set(w for w in _norm_name(competitor['name']).split() if len(w) >= 2)
+        if not all(w in tokens for w in q):
+            continue
+        candidates.append((len(tokens) - len(q), len(str(competitor['name'])), competitor.get('id')))
+    candidates.sort()
+    for _, _, cid in candidates[:3]:
+        if cid:
+            return _SCORES365_IMG + str(cid)
+    return ''
+
+
+def _scores365_competition_teams(cid):
+    cached = _SCORES365_COMP_CACHE.get(cid)
+    if cached and time.time() - cached['ts'] < LOGO_TTL:
+        return cached['teams']
+    data = _fetch_json(
+        'https://webws.365scores.com/web/standings/?appTypeId=5&langId=1&competitions=' +
+        str(cid) + '&live=false&withSeasons=true', 8
+    )
+    teams = []
+    if data:
+        for standing in data.get('standings') or []:
+            rows = standing.get('rows') or []
+            if not rows and standing.get('competitor'):
+                rows = [standing]
+            for row in rows:
+                competitor = row.get('competitor') or {}
+                if competitor.get('id') and competitor.get('name'):
+                    teams.append({'n': competitor['name'], 'logo': _SCORES365_IMG + str(competitor['id'])})
+    if teams:
+        _SCORES365_COMP_CACHE[cid] = {'ts': time.time(), 'teams': teams}
+    return teams
+
+
+def _wiki_search_one(name, sport):
+    global _WIKI_BACKOFF
+    if time.time() < _WIKI_BACKOFF:
+        return ''
+    query = urllib.parse.quote('intitle:"' + str(name).replace('"', '') + '"')
+    data = _fetch_json(_WIKI_SEARCH_API + query + '&gsrlimit=8', 6)
+    if not data:
+        return ''
+    if data.get('error'):
+        if re.search(r'maxlag|ratelimited|too many', json.dumps(data['error']), re.I):
+            _WIKI_BACKOFF = time.time() + 120
+        return ''
+    pages = sorted((data.get('query', {}).get('pages') or {}).values(),
+                   key=lambda p: p.get('index', 0))
+    for page in pages:
+        thumb = page.get('thumbnail') or {}
+        src = thumb.get('source')
+        if not src:
+            continue
+        if not _wiki_accept(page.get('description', ''), sport):
+            continue
+        if not _title_matches(name, page.get('title', ''), sport):
+            continue
+        return src
+    return ''
+
+
+def _wiki_search_name(name, sport):
+    for query_name in [name] + _reserve_aliases(name):
+        found = _wiki_search_one(query_name, sport)
+        if found:
+            return found
+    return ''
+
+
+def _wiki_pages(titles):
+    global _WIKI_BACKOFF
+    pages, done = {}, set()
+    if not titles or time.time() < _WIKI_BACKOFF:
+        return pages, done
+    for i in range(0, len(titles), 50):
+        batch = titles[i:i + 50]
+        url = _WIKI_API + '&titles=' + urllib.parse.quote('|'.join(batch))
+        data = _fetch_json(url, 6)
+        if not data:
+            continue
+        if data.get('error'):
+            if re.search(r'maxlag|ratelimited|too many', json.dumps(data['error']), re.I):
+                _WIKI_BACKOFF = time.time() + 120
+            continue
+        by_title = {}
+        for page in (data.get('query', {}).get('pages') or {}).values():
+            by_title[page.get('title', '')] = page
+        alias = {}
+        for row in data.get('query', {}).get('normalized') or []:
+            alias[row.get('from')] = row.get('to')
+        for row in data.get('query', {}).get('redirects') or []:
+            alias[row.get('from')] = row.get('to')
+        for title in batch:
+            done.add(title)
+            current = title
+            for _ in range(3):
+                nxt = alias.get(current)
+                if not nxt or nxt == current:
+                    break
+                current = nxt
+            page = by_title.get(current)
+            if page and (page.get('thumbnail') or {}).get('source'):
+                pages[title] = page
+    return pages, done
+
+
+def _tsdb_team(query, name, sport):
+    global _TSDB_BACKOFF
+    if time.time() < _TSDB_BACKOFF or sport not in _TSDB_SPORT:
+        return ''
+    data = _fetch_json(_TSDB_API + urllib.parse.quote(query), 5)
+    if not data:
+        return ''
+    q = [w for w in _norm_name(name).split() if len(w) >= 2]
+    for team in data.get('teams') or []:
+        if not team or not team.get('strTeam'):
+            continue
+        if not _TSDB_SPORT[sport].search(team.get('strSport', '')):
+            continue
+        tokens = set(_norm_name(team['strTeam']).split())
+        if q and not all(w in tokens for w in q):
+            continue
+        return team.get('strBadge') or team.get('strBanner') or team.get('strFanart1') or ''
+    return ''
+
+
+def _tsdb_team_variants(name, sport):
+    exact = _tsdb_team(name, name, sport)
+    if exact:
+        return exact
+    prefixes = {'soccer': ['FK ', 'FC '], 'basketball': ['KK ', 'BC '],
+                'ice-hockey': ['HC '], 'volleyball': ['VC ']}.get(sport, [])
+    for prefix in prefixes:
+        found = _tsdb_team(prefix + name, name, sport)
+        if found:
+            return found
+    return ''
+
+
+def _tsdb_player(name, sport):
+    global _TSDB_BACKOFF
+    if time.time() < _TSDB_BACKOFF or sport not in _TSDB_PLAYER_SPORT:
+        return ''
+    data = _fetch_json(
+        'https://www.thesportsdb.com/api/v1/json/' + _TSDB_KEY +
+        '/searchplayers.php?p=' + urllib.parse.quote(name), 5
+    )
+    if not data:
+        return ''
+    q = [w for w in _norm_name(name).split() if len(w) >= 2]
+    for player in data.get('player') or []:
+        if not player or not player.get('strPlayer'):
+            continue
+        if not _TSDB_PLAYER_SPORT[sport].search(player.get('strSport', '')):
+            continue
+        tokens = set(_norm_name(player['strPlayer']).split())
+        if q and not all(w in tokens for w in q):
+            continue
+        img = player.get('strCutout') or player.get('strThumb') or ''
+        if img:
+            return img
+        return _wiki_search_name(player['strPlayer'], sport)
+    return ''
+
+
+def resolve_team_logo(team_name, event_name='', category=''):
+    name = _clean_name(team_name)
+    if len(name) < 2:
+        return ''
+    sport = _sport_of(category, event_name)
+    cached = _cached_logo(name, sport)
+    if cached is not None:
+        return cached
+
+    logo = ''
+    if sport == 'soccer':
+        logo = _espn_search_team(name)
+    if not logo and sport in ('soccer', 'tennis'):
+        logo = _scores365_logo(name, sport)
+    if not logo:
+        logo = _wiki_search_name(name, sport)
+    if not logo:
+        if sport in _TSDB_SPORT:
+            logo = _tsdb_team_variants(name, sport)
+        else:
+            logo = _tsdb_player(name, sport)
+
+    _store_logo(name, sport, logo)
+    if logo:
+        _safe_print(f"[logos] {name} ({sport}) -> {logo[:100]}")
+    return logo
+
+
+def _fill_scores365(events):
+    groups = {}
+    for ev in events:
+        cid = _SCORES365_COMPETITIONS.get(_norm_name(_league_prefix(ev.get('t', ''), ev.get('c', ''))))
+        if cid:
+            groups.setdefault(cid, []).append(ev)
+    for cid, evs in groups.items():
+        teams = _scores365_competition_teams(cid)
+        if not teams:
+            continue
+        for ev in evs:
+            sport = _sport_of(ev.get('c', ''), ev.get('t', ''))
+            for side in _event_sides(ev.get('t', '')):
+                if _cached_logo(side, sport):
+                    continue
+                candidates = [t for t in teams if _scores365_match(side, t['n'])]
+                if candidates:
+                    candidates.sort(key=lambda t: len(_norm_name(t['n']).split()))
+                    _store_logo(side, sport, candidates[0]['logo'])
+
+
+def _fill_espn_leagues(events):
+    groups = {}
+    for ev in events:
+        slug = _ESPN_LEAGUES.get(_norm_name(_league_prefix(ev.get('t', ''), ev.get('c', ''))))
+        if slug:
+            groups.setdefault(slug, []).append(ev)
+    for slug, evs in groups.items():
+        teams = _espn_league_teams(slug)
+        if not teams:
+            continue
+        for ev in evs:
+            sport = _sport_of(ev.get('c', ''), ev.get('t', ''))
+            for side in _event_sides(ev.get('t', '')):
+                if _cached_logo(side, sport):
+                    continue
+                logo = _espn_team_logo(teams, side)
+                if logo:
+                    _store_logo(side, sport, logo)
+
+
+def _fill_espn_college(events):
+    college = [ev for ev in events if 'college basketball' in
+               ((ev.get('c') or '') + ' ' + (ev.get('t') or '')).lower()]
+    if not college:
+        return
+    for key in {('women' if 'women' in (ev.get('c', '') + ' ' + ev.get('t', '')).lower() else 'men')
+                for ev in college}:
+        teams = _espn_college_teams(key)
+        if not teams:
+            continue
+        for ev in college:
+            ev_key = 'women' if 'women' in (ev.get('c', '') + ' ' + ev.get('t', '')).lower() else 'men'
+            if ev_key != key:
+                continue
+            sport = _sport_of(ev.get('c', ''), ev.get('t', ''))
+            for side in _event_sides(ev.get('t', '')):
+                if _cached_logo(side, sport):
+                    continue
+                logo = _espn_team_logo(teams, side)
+                if logo:
+                    _store_logo(side, sport, logo)
+
+
+def _fill_wiki(events):
+    names = {}
+    for ev in events:
+        sport = _sport_of(ev.get('c', ''), ev.get('t', ''))
+        for side in _event_sides(ev.get('t', '')):
+            if not _cached_logo(side, sport):
+                names.setdefault(side, sport)
+    if not names:
+        return
+
+    titles, title_name = [], {}
+    for name in names:
+        alias = _PRIORITY_ALIASES.get(_norm_name(name))
+        if alias and alias not in title_name:
+            title_name[alias] = name
+            titles.append(alias)
+    for name in names:
+        for alias in _reserve_aliases(name):
+            if len(titles) >= 400:
+                break
+            if alias not in title_name:
+                title_name[alias] = name
+                titles.append(alias)
+    for name in names:
+        if names[name] != 'soccer':
+            continue
+        for alias in [name + ' BC', name + ' Calcio']:
+            if len(titles) >= 400:
+                break
+            if alias not in title_name:
+                title_name[alias] = name
+                titles.append(alias)
+    for name in names:
+        if len(titles) >= 400:
+            break
+        if name not in title_name:
+            title_name[name] = name
+            titles.append(name)
+    for name in names:
+        for alias in _wiki_variants(name, names[name]):
+            if len(titles) >= 400:
+                break
+            if alias not in title_name:
+                title_name[alias] = name
+                titles.append(alias)
+
+    pages, done = _wiki_pages(titles)
+    for title, name in title_name.items():
+        if title not in done:
+            continue
+        sport = names[name]
+        if _cached_logo(name, sport):
+            continue
+        page = pages.get(title)
+        if page and _wiki_accept(page.get('description', ''), sport):
+            _store_logo(name, sport, page['thumbnail']['source'])
+
+
+def prefetch_logos(events):
+    fresh = []
+    for ev in events:
+        title = _clean_name(ev.get('t', ''))
+        if not title or title in _PREFETCHED:
+            continue
+        _PREFETCHED.add(title)
+        fresh.append(ev)
+    if not fresh:
+        return
+    _safe_print(f"[logos] prefetch {len(fresh)} eventi...")
+    for fill in (_fill_scores365, _fill_espn_leagues, _fill_espn_college, _fill_wiki):
+        try:
+            fill(fresh)
+        except Exception as e:
+            _safe_print(f"[!] Prefetch {fill.__name__}: {e}")
+    _safe_print(f"[logos] cache dopo prefetch: {sum(1 for v in _LOGO_CACHE.values() if v)} loghi")
+
+
+def prefetch_logos_for_channels(categorized_channels):
+    try:
+        migrate_logo_filenames()
+    except Exception as e:
+        _safe_print(f"[!] Migrazione nomi loghi fallita: {e}")
+    events, seen = [], set()
+    for category, channels in categorized_channels.items():
+        for ch in channels:
+            title = re.sub(r'\s*\(\d{1,2}:\d{2}\)\s*$', '', ch.get('event_title', ''))
+            if title and title not in seen:
+                seen.add(title)
+                events.append({'t': title, 'c': category})
+    try:
+        prefetch_logos(events)
+    except Exception as e:
+        _safe_print(f"[!] Prefetch loghi fallito: {e}")
+
+# ---------- end multi-source logo resolver ----------
 
 def headers_to_extvlcopt(headers):
     """Converte un dizionario di header in una lista di stringhe #EXTVLCOPT per VLC."""
@@ -190,7 +1178,7 @@ def eventi_dlhd_m3u8_generator_world():
         cleaned = re.sub(r'[^a-zA-Z0-9À-ÿ]', '', tvg_id)
         return cleaned.lower()
      
-    def search_logo_for_event(event_name): 
+    def search_logo_for_event(event_name, category="", time_str=""): 
         """ 
         Cerca un logo per l'evento specificato utilizzando un motore di ricerca 
         Restituisce l'URL dell'immagine trovata o None se non trovata 
@@ -218,12 +1206,17 @@ def eventi_dlhd_m3u8_generator_world():
             if teams and len(teams) == 2:
                 team1 = teams[0].strip()
                 team2 = teams[1].strip()
+
+                cached_url, _ = cached_poster_url(team1, team2)
+                if cached_url:
+                    print(f"[✓] Poster esistente: {cached_url}")
+                    return cached_url
                 
                 print(f"[🔍] Ricerca logo per Team 1: {team1}")
-                logo1_url = search_team_logo(team1)
+                logo1_url = search_team_logo(team1, event_name, category)
                 
                 print(f"[🔍] Ricerca logo per Team 2: {team2}")
-                logo2_url = search_team_logo(team2)
+                logo2_url = search_team_logo(team2, event_name, category)
                 
                 # Se abbiamo trovato entrambi i loghi, creiamo un'immagine combinata
                 if logo1_url and logo2_url:
@@ -236,11 +1229,11 @@ def eventi_dlhd_m3u8_generator_world():
                         os.makedirs(logos_dir, exist_ok=True)
                         
                         # Verifica se l'immagine combinata esiste giÃÂ  e non ÃÂ¨ obsoleta
-                        relative_logo_path = os.path.join("logos", f"{team1}_vs_{team2}.png")
+                        relative_logo_path = poster_relative_path(team1, team2)
                         absolute_output_filename = os.path.join(output_dir, relative_logo_path)
                         if exists(absolute_output_filename):
                             file_age = current_time - os.path.getmtime(absolute_output_filename)
-                            if file_age <= three_hours_in_seconds:
+                            if file_age <= three_hours_in_seconds and poster_is_current(absolute_output_filename):
                                 print(f"[✓] Utilizzo immagine combinata esistente: {absolute_output_filename}")
                                 
                                 # Carica le variabili d'ambiente per GitHub
@@ -249,7 +1242,7 @@ def eventi_dlhd_m3u8_generator_world():
                                 
                                 # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                                 if NOMEGITHUB and NOMEREPO:
-                                    github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/raw/branch/main/logos/{relative_logo_path}"
+                                    github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{urllib.parse.quote(relative_logo_path.replace(os.sep, '/'), safe='/')}"
                                     print(f"[✓] URL GitHub generato per logo esistente: {github_raw_url}")
                                     return github_raw_url
                                 else:
@@ -300,65 +1293,12 @@ def eventi_dlhd_m3u8_generator_world():
                             except Exception as e_pil: # Errore specifico da PIL durante Image.open
                                 print(f"[!] Errore PIL aprendo logo2 ({logo2_url}): {e_pil}")
                                 logo2_url = None
-                        
-                        # Carica l'immagine VS (assicurati che esista nella directory corrente)
-                        vs_path = os.path.join(script_dir, "vs.png")
-                        if exists(vs_path):
-                            img_vs = Image.open(vs_path)
-                            # Converti l'immagine VS in modalitÃÂ  RGBA se non lo ÃÂ¨ giÃÂ 
-                            if img_vs.mode != 'RGBA':
-                                img_vs = img_vs.convert('RGBA')
-                        else:
-                            # Crea un'immagine di testo "VS" se il file non esiste
-                            img_vs = Image.new('RGBA', (100, 100), (255, 255, 255, 0))
-                            from PIL import ImageDraw, ImageFont
-                            draw = ImageDraw.Draw(img_vs)
-                            try:
-                                font = ImageFont.truetype("arial.ttf", 40)
-                            except:
-                                font = ImageFont.load_default()
-                            draw.text((30, 30), "VS", fill=(255, 0, 0), font=font)
-                        
                         # Procedi con la combinazione solo se entrambi i loghi sono stati caricati con successo
                         if not (img1 and img2):
                             print(f"[!] Impossibile caricare entrambi i loghi come immagini valide per la combinazione. Logo1 caricato: {bool(img1)}, Logo2 caricato: {bool(img2)}.")
                             raise ValueError("Uno o entrambi i loghi non sono stati caricati correttamente.") # Questo forzerÃ  l'except sottostante
                         
-                        # Ridimensiona le immagini a dimensioni uniformi
-                        size = (150, 150)
-                        img1 = img1.resize(size)
-                        img2 = img2.resize(size)
-                        img_vs = img_vs.resize((100, 100))
-                        
-                        # Assicurati che tutte le immagini siano in modalitÃÂ  RGBA per supportare la trasparenza
-                        if img1.mode != 'RGBA':
-                            img1 = img1.convert('RGBA')
-                        if img2.mode != 'RGBA':
-                            img2 = img2.convert('RGBA')
-                        
-                        # Crea una nuova immagine con spazio per entrambi i loghi e il VS
-                        combined_width = 300
-                        combined = Image.new('RGBA', (combined_width, 150), (255, 255, 255, 0))
-                        
-                        # Posiziona le immagini con il VS sovrapposto al centro
-                        # Posiziona il primo logo a sinistra
-                        combined.paste(img1, (0, 0), img1)
-                        # Posiziona il secondo logo a destra
-                        combined.paste(img2, (combined_width - 150, 0), img2)
-                        
-                        # Posiziona il VS al centro, sovrapposto ai due loghi
-                        vs_x = (combined_width - 100) // 2
-                        
-                        # Crea una copia dell'immagine combinata prima di sovrapporre il VS
-                        # Questo passaggio ÃÂ¨ importante per preservare i dettagli dei loghi sottostanti
-                        combined_with_vs = combined.copy()
-                        combined_with_vs.paste(img_vs, (vs_x, 25), img_vs)
-                        
-                        # Usa l'immagine con VS sovrapposto
-                        combined = combined_with_vs
-                        
-                        # Salva l'immagine combinata
-                        combined.save(absolute_output_filename)
+                        create_event_poster(team1, team2, img1, img2, event_name, category, time_str, absolute_output_filename)
                         
                         print(f"[✓] Immagine combinata creata: {absolute_output_filename}")
                         
@@ -368,7 +1308,7 @@ def eventi_dlhd_m3u8_generator_world():
                         
                         # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                         if NOMEGITHUB and NOMEREPO:
-                            github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/raw/branch/main/logos/{relative_logo_path}"
+                            github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{urllib.parse.quote(relative_logo_path.replace(os.sep, '/'), safe='/')}"
                             print(f"[✓] URL GitHub generato: {github_raw_url}")
                             return github_raw_url
                         else:
@@ -382,114 +1322,6 @@ def eventi_dlhd_m3u8_generator_world():
                 
                 # Se non abbiamo trovato entrambi i loghi, restituisci quello che abbiamo
                 return logo1_url or logo2_url
-            if ':' in event_name:
-                # Usa la parte prima dei ":" per la ricerca
-                prefix_name = event_name.split(':', 1)[0].strip()
-                print(f"[🔍] Tentativo ricerca logo con prefisso: {prefix_name}")
-                
-                # Prepara la query di ricerca con il prefisso
-                search_query = urllib.parse.quote(f"{prefix_name} logo")
-                
-                # Utilizziamo l'API di Bing Image Search con parametri migliorati
-                search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square&form=IRFLTR"
-                
-                headers = { 
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-                    "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-                    "Cache-Control": "max-age=0",
-                    "Connection": "keep-alive"
-                } 
-                
-                response = requests.get(search_url, headers=headers, timeout=10)
-                
-                if response.status_code == 200: 
-                    # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
-                    patterns = [
-                        r'murl&quot;:&quot;(https?://[^&]+)&quot;',
-                        r'"murl":"(https?://[^"]+)"',
-                        r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"',
-                        r'<img[^>]+src="(https?://[^"]+\.(?:png|jpg|jpeg|svg))[^>]+class="mimg"',
-                        r'<a[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
-                    ]
-                    
-                    for pattern in patterns:
-                        matches = re.findall(pattern, response.text)
-                        if matches and len(matches) > 0:
-                            # Prendi il primo risultato che sembra un logo (preferibilmente PNG o SVG)
-                            for match in matches:
-                                if '.png' in match.lower() or '.svg' in match.lower():
-                                    print(f"[✓] Logo trovato con prefisso: {match}")
-                                    return match
-                            # Se non troviamo PNG o SVG, prendi il primo risultato
-                            print(f"[✓] Logo trovato con prefisso: {matches[0]}")
-                            return matches[0]
-            
-            # Se non riusciamo a identificare le squadre e il prefisso non ha dato risultati, procedi con la ricerca normale
-            print(f"[🔍] Ricerca standard per: {clean_event_name}")
-            
-            
-            # Se non riusciamo a identificare le squadre, procedi con la ricerca normale
-            # Prepara la query di ricerca piÃÂ¹ specifica
-            search_query = urllib.parse.quote(f"{clean_event_name} logo")
-            
-            # Utilizziamo l'API di Bing Image Search con parametri migliorati
-            search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square&form=IRFLTR"
-            
-            headers = { 
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-                "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-                "Cache-Control": "max-age=0",
-                "Connection": "keep-alive"
-            } 
-            
-            response = requests.get(search_url, headers=headers, timeout=10)
-            
-            if response.status_code == 200: 
-                # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
-                patterns = [
-                    r'murl&quot;:&quot;(https?://[^&]+)&quot;',
-                    r'"murl":"(https?://[^"]+)"',
-                    r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"',
-                    r'<img[^>]+src="(https?://[^"]+\.(?:png|jpg|jpeg|svg))[^>]+class="mimg"',
-                    r'<a[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
-                ]
-                
-                for pattern in patterns:
-                    matches = re.findall(pattern, response.text)
-                    if matches and len(matches) > 0:
-                        # Prendi il primo risultato che sembra un logo (preferibilmente PNG o SVG)
-                        for match in matches:
-                            if '.png' in match.lower() or '.svg' in match.lower():
-                                return match
-                        # Se non troviamo PNG o SVG, prendi il primo risultato
-                        return matches[0]
-                
-                # Metodo alternativo: cerca JSON incorporato nella pagina
-                json_match = re.search(r'var\s+IG\s*=\s*(\{.+?\});\s*', response.text)
-                if json_match:
-                    try:
-                        # Estrai e analizza il JSON
-                        json_str = json_match.group(1)
-                        # Pulisci il JSON se necessario
-                        json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+):', r'\1"\2":', json_str)
-                        data = json.loads(json_str)
-                        
-                        # Cerca URL di immagini nel JSON
-                        if 'images' in data and len(data['images']) > 0:
-                            for img in data['images']:
-                                if 'murl' in img:
-                                    return img['murl']
-                    except Exception as e:
-                        print(f"[!] Errore nell'analisi JSON: {e}")
-                
-                print(f"[!] Nessun logo trovato per '{clean_event_name}' con i pattern standard")
-                
-                # Ultimo tentativo: cerca qualsiasi URL di immagine nella pagina
-                any_img = re.search(r'(https?://[^"\']+\.(?:png|jpg|jpeg|svg|webp))', response.text)
-                if any_img:
-                    return any_img.group(1)
                     
         except Exception as e: 
             print(f"[!] Errore nella ricerca del logo per '{event_name}': {e}") 
@@ -497,78 +1329,13 @@ def eventi_dlhd_m3u8_generator_world():
         # Se non troviamo nulla, restituiamo None 
         return None
 
-    def search_team_logo(team_name):
-        """
-        Funzione dedicata alla ricerca del logo di una singola squadra
-        """
+    def search_team_logo(team_name, event_name="", category=""):
         try:
-            # Prepara la query di ricerca specifica per la squadra
-            search_query = urllib.parse.quote(f"{team_name} logo")
-            
-            # Utilizziamo l'API di Bing Image Search con parametri migliorati
-            search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square&form=IRFLTR"
-            
-            headers = { 
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-                "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-                "Cache-Control": "max-age=0",
-                "Connection": "keep-alive"
-            } 
-            
-            response = requests.get(search_url, headers=headers, timeout=10)
-            
-            if response.status_code == 200: 
-                # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
-                patterns = [
-                    r'murl&quot;:&quot;(https?://[^&]+)&quot;',
-                    r'"murl":"(https?://[^"]+)"',
-                    r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"',
-                    r'<img[^>]+src="(https?://[^"]+\.(?:png|jpg|jpeg|svg))[^>]+class="mimg"',
-                    r'<a[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
-                ]
-                
-                for pattern in patterns:
-                    matches = re.findall(pattern, response.text)
-                    if matches and len(matches) > 0:
-                        # Prendi il primo risultato che sembra un logo (preferibilmente PNG o SVG)
-                        for match in matches:
-                            if '.png' in match.lower() or '.svg' in match.lower():
-                                return match
-                        # Se non troviamo PNG o SVG, prendi il primo risultato
-                        return matches[0]
-                
-                # Metodo alternativo: cerca JSON incorporato nella pagina
-                json_match = re.search(r'var\s+IG\s*=\s*(\{.+?\});\s*', response.text)
-                if json_match:
-                    try:
-                        # Estrai e analizza il JSON
-                        json_str = json_match.group(1)
-                        # Pulisci il JSON se necessario
-                        json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+):', r'\1"\2":', json_str)
-                        data = json.loads(json_str)
-                        
-                        # Cerca URL di immagini nel JSON
-                        if 'images' in data and len(data['images']) > 0:
-                            for img in data['images']:
-                                if 'murl' in img:
-                                    return img['murl']
-                    except Exception as e:
-                        print(f"[!] Errore nell'analisi JSON: {e}")
-                
-                print(f"[!] Nessun logo trovato per '{team_name}' con i pattern standard")
-                
-                # Ultimo tentativo: cerca qualsiasi URL di immagine nella pagina
-                any_img = re.search(r'(https?://[^"\']+\.(?:png|jpg|jpeg|svg|webp))', response.text)
-                if any_img:
-                    return any_img.group(1)
-                    
-        except Exception as e: 
-            print(f"[!] Errore nella ricerca del logo per '{team_name}': {e}") 
-        
-        # Se non troviamo nulla, restituiamo None 
-        return None
-     
+            return resolve_team_logo(team_name, event_name, category)
+        except Exception as e:
+            _safe_print(f"[!] Resolver loghi fallito per '{team_name}': {e}")
+            return None
+
     def get_stream_from_channel_id(channel_id): 
         # Restituisce direttamente l'URL .php
         embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}" 
@@ -648,6 +1415,7 @@ def eventi_dlhd_m3u8_generator_world():
      
     def generate_m3u_from_schedule(json_file, output_file): 
         categorized_channels = extract_channels_from_json(json_file) 
+        prefetch_logos_for_channels(categorized_channels)
 
         with open(output_file, "w", encoding="utf-8") as f: 
             f.write("#EXTM3U\n") 
@@ -676,7 +1444,7 @@ def eventi_dlhd_m3u8_generator_world():
                     # Rimuovi l'orario dal titolo dell'evento prima di cercare il logo
                     clean_event_title = re.sub(r'\s*\(\d{1,2}:\d{2}\)\s*$', '', event_title)
                     print(f"[🔍] Ricerca logo per: {clean_event_title}") 
-                    logo_url = search_logo_for_event(clean_event_title)
+                    logo_url = search_logo_for_event(clean_event_title, category=category)
                     logo_attribute = f' tvg-logo="{logo_url}"' if logo_url else ''
      
                     try: 
@@ -752,7 +1520,7 @@ def eventi_dlhd_m3u8_generator():
         cleaned = re.sub(r'[^a-zA-Z0-9À-ÿ]', '', tvg_id)
         return cleaned.lower()
      
-    def search_logo_for_event(event_name): 
+    def search_logo_for_event(event_name, category="", time_str=""): 
         """ 
         Cerca un logo per l'evento specificato utilizzando un motore di ricerca 
         Restituisce l'URL dell'immagine trovata o None se non trovata 
@@ -780,12 +1548,17 @@ def eventi_dlhd_m3u8_generator():
             if teams and len(teams) == 2:
                 team1 = teams[0].strip()
                 team2 = teams[1].strip()
+
+                cached_url, _ = cached_poster_url(team1, team2)
+                if cached_url:
+                    print(f"[✓] Poster esistente: {cached_url}")
+                    return cached_url
                 
                 print(f"[🔍] Ricerca logo per Team 1: {team1}")
-                logo1_url = search_team_logo(team1)
+                logo1_url = search_team_logo(team1, event_name, category)
                 
                 print(f"[🔍] Ricerca logo per Team 2: {team2}")
-                logo2_url = search_team_logo(team2)
+                logo2_url = search_team_logo(team2, event_name, category)
                 
                 # Se abbiamo trovato entrambi i loghi, creiamo un'immagine combinata
                 if logo1_url and logo2_url:
@@ -798,11 +1571,11 @@ def eventi_dlhd_m3u8_generator():
                         os.makedirs(logos_dir, exist_ok=True)
                         
                         # Verifica se l'immagine combinata esiste giÃÂ  e non ÃÂ¨ obsoleta
-                        relative_logo_path = os.path.join("logos", f"{team1}_vs_{team2}.png")
+                        relative_logo_path = poster_relative_path(team1, team2)
                         absolute_output_filename = os.path.join(output_dir, relative_logo_path)
                         if exists(absolute_output_filename):
                             file_age = current_time - os.path.getmtime(absolute_output_filename)
-                            if file_age <= three_hours_in_seconds:
+                            if file_age <= three_hours_in_seconds and poster_is_current(absolute_output_filename):
                                 print(f"[✓] Utilizzo immagine combinata esistente: {absolute_output_filename}")
                                 
                                 # Carica le variabili d'ambiente per GitHub
@@ -811,7 +1584,7 @@ def eventi_dlhd_m3u8_generator():
                                 
                                 # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                                 if NOMEGITHUB and NOMEREPO:
-                                    github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/raw/branch/main/logos/{relative_logo_path}"
+                                    github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{urllib.parse.quote(relative_logo_path.replace(os.sep, '/'), safe='/')}"
                                     print(f"[✓] URL GitHub generato per logo esistente: {github_raw_url}")
                                     return github_raw_url
                                 else:
@@ -862,65 +1635,12 @@ def eventi_dlhd_m3u8_generator():
                             except Exception as e_pil: # Errore specifico da PIL durante Image.open
                                 print(f"[!] Errore PIL aprendo logo2 ({logo2_url}): {e_pil}")
                                 logo2_url = None
-                        
-                        # Carica l'immagine VS (assicurati che esista nella directory corrente)
-                        vs_path = os.path.join(script_dir, "vs.png")
-                        if exists(vs_path):
-                            img_vs = Image.open(vs_path)
-                            # Converti l'immagine VS in modalitÃÂ  RGBA se non lo ÃÂ¨ giÃÂ 
-                            if img_vs.mode != 'RGBA':
-                                img_vs = img_vs.convert('RGBA')
-                        else:
-                            # Crea un'immagine di testo "VS" se il file non esiste
-                            img_vs = Image.new('RGBA', (100, 100), (255, 255, 255, 0))
-                            from PIL import ImageDraw, ImageFont
-                            draw = ImageDraw.Draw(img_vs)
-                            try:
-                                font = ImageFont.truetype("arial.ttf", 40)
-                            except:
-                                font = ImageFont.load_default()
-                            draw.text((30, 30), "VS", fill=(255, 0, 0), font=font)
-                        
                         # Procedi con la combinazione solo se entrambi i loghi sono stati caricati con successo
                         if not (img1 and img2):
                             print(f"[!] Impossibile caricare entrambi i loghi come immagini valide per la combinazione. Logo1 caricato: {bool(img1)}, Logo2 caricato: {bool(img2)}.")
                             raise ValueError("Uno o entrambi i loghi non sono stati caricati correttamente.") # Questo forzerÃ  l'except sottostante
                         
-                        # Ridimensiona le immagini a dimensioni uniformi
-                        size = (150, 150)
-                        img1 = img1.resize(size)
-                        img2 = img2.resize(size)
-                        img_vs = img_vs.resize((100, 100))
-                        
-                        # Assicurati che tutte le immagini siano in modalitÃÂ  RGBA per supportare la trasparenza
-                        if img1.mode != 'RGBA':
-                            img1 = img1.convert('RGBA')
-                        if img2.mode != 'RGBA':
-                            img2 = img2.convert('RGBA')
-                        
-                        # Crea una nuova immagine con spazio per entrambi i loghi e il VS
-                        combined_width = 300
-                        combined = Image.new('RGBA', (combined_width, 150), (255, 255, 255, 0))
-                        
-                        # Posiziona le immagini con il VS sovrapposto al centro
-                        # Posiziona il primo logo a sinistra
-                        combined.paste(img1, (0, 0), img1)
-                        # Posiziona il secondo logo a destra
-                        combined.paste(img2, (combined_width - 150, 0), img2)
-                        
-                        # Posiziona il VS al centro, sovrapposto ai due loghi
-                        vs_x = (combined_width - 100) // 2
-                        
-                        # Crea una copia dell'immagine combinata prima di sovrapporre il VS
-                        # Questo passaggio ÃÂ¨ importante per preservare i dettagli dei loghi sottostanti
-                        combined_with_vs = combined.copy()
-                        combined_with_vs.paste(img_vs, (vs_x, 25), img_vs)
-                        
-                        # Usa l'immagine con VS sovrapposto
-                        combined = combined_with_vs
-                        
-                        # Salva l'immagine combinata
-                        combined.save(absolute_output_filename)
+                        create_event_poster(team1, team2, img1, img2, event_name, category, time_str, absolute_output_filename)
                         
                         print(f"[✓] Immagine combinata creata: {absolute_output_filename}")
                         
@@ -930,7 +1650,7 @@ def eventi_dlhd_m3u8_generator():
                         
                         # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                         if NOMEGITHUB and NOMEREPO:
-                            github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/raw/branch/main/logos/{relative_logo_path}"
+                            github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{urllib.parse.quote(relative_logo_path.replace(os.sep, '/'), safe='/')}"
                             print(f"[✓] URL GitHub generato: {github_raw_url}")
                             return github_raw_url
                         else:
@@ -944,114 +1664,6 @@ def eventi_dlhd_m3u8_generator():
                 
                 # Se non abbiamo trovato entrambi i loghi, restituisci quello che abbiamo
                 return logo1_url or logo2_url
-            if ':' in event_name:
-                # Usa la parte prima dei ":" per la ricerca
-                prefix_name = event_name.split(':', 1)[0].strip()
-                print(f"[🔍] Tentativo ricerca logo con prefisso: {prefix_name}")
-                
-                # Prepara la query di ricerca con il prefisso
-                search_query = urllib.parse.quote(f"{prefix_name} logo")
-                
-                # Utilizziamo l'API di Bing Image Search con parametri migliorati
-                search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square&form=IRFLTR"
-                
-                headers = { 
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-                    "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-                    "Cache-Control": "max-age=0",
-                    "Connection": "keep-alive"
-                } 
-                
-                response = requests.get(search_url, headers=headers, timeout=10)
-                
-                if response.status_code == 200: 
-                    # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
-                    patterns = [
-                        r'murl&quot;:&quot;(https?://[^&]+)&quot;',
-                        r'"murl":"(https?://[^"]+)"',
-                        r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"',
-                        r'<img[^>]+src="(https?://[^"]+\.(?:png|jpg|jpeg|svg))[^>]+class="mimg"',
-                        r'<a[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
-                    ]
-                    
-                    for pattern in patterns:
-                        matches = re.findall(pattern, response.text)
-                        if matches and len(matches) > 0:
-                            # Prendi il primo risultato che sembra un logo (preferibilmente PNG o SVG)
-                            for match in matches:
-                                if '.png' in match.lower() or '.svg' in match.lower():
-                                    print(f"[✓] Logo trovato con prefisso: {match}")
-                                    return match
-                            # Se non troviamo PNG o SVG, prendi il primo risultato
-                            print(f"[✓] Logo trovato con prefisso: {matches[0]}")
-                            return matches[0]
-            
-            # Se non riusciamo a identificare le squadre e il prefisso non ha dato risultati, procedi con la ricerca normale
-            print(f"[🔍] Ricerca standard per: {clean_event_name}")
-            
-            
-            # Se non riusciamo a identificare le squadre, procedi con la ricerca normale
-            # Prepara la query di ricerca piÃÂ¹ specifica
-            search_query = urllib.parse.quote(f"{clean_event_name} logo")
-            
-            # Utilizziamo l'API di Bing Image Search con parametri migliorati
-            search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square&form=IRFLTR"
-            
-            headers = { 
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-                "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-                "Cache-Control": "max-age=0",
-                "Connection": "keep-alive"
-            } 
-            
-            response = requests.get(search_url, headers=headers, timeout=10)
-            
-            if response.status_code == 200: 
-                # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
-                patterns = [
-                    r'murl&quot;:&quot;(https?://[^&]+)&quot;',
-                    r'"murl":"(https?://[^"]+)"',
-                    r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"',
-                    r'<img[^>]+src="(https?://[^"]+\.(?:png|jpg|jpeg|svg))[^>]+class="mimg"',
-                    r'<a[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
-                ]
-                
-                for pattern in patterns:
-                    matches = re.findall(pattern, response.text)
-                    if matches and len(matches) > 0:
-                        # Prendi il primo risultato che sembra un logo (preferibilmente PNG o SVG)
-                        for match in matches:
-                            if '.png' in match.lower() or '.svg' in match.lower():
-                                return match
-                        # Se non troviamo PNG o SVG, prendi il primo risultato
-                        return matches[0]
-                
-                # Metodo alternativo: cerca JSON incorporato nella pagina
-                json_match = re.search(r'var\s+IG\s*=\s*(\{.+?\});\s*', response.text)
-                if json_match:
-                    try:
-                        # Estrai e analizza il JSON
-                        json_str = json_match.group(1)
-                        # Pulisci il JSON se necessario
-                        json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+):', r'\1"\2":', json_str)
-                        data = json.loads(json_str)
-                        
-                        # Cerca URL di immagini nel JSON
-                        if 'images' in data and len(data['images']) > 0:
-                            for img in data['images']:
-                                if 'murl' in img:
-                                    return img['murl']
-                    except Exception as e:
-                        print(f"[!] Errore nell'analisi JSON: {e}")
-                
-                print(f"[!] Nessun logo trovato per '{clean_event_name}' con i pattern standard")
-                
-                # Ultimo tentativo: cerca qualsiasi URL di immagine nella pagina
-                any_img = re.search(r'(https?://[^"\']+\.(?:png|jpg|jpeg|svg|webp))', response.text)
-                if any_img:
-                    return any_img.group(1)
                     
         except Exception as e: 
             print(f"[!] Errore nella ricerca del logo per '{event_name}': {e}") 
@@ -1059,78 +1671,13 @@ def eventi_dlhd_m3u8_generator():
         # Se non troviamo nulla, restituiamo None 
         return None
 
-    def search_team_logo(team_name):
-        """
-        Funzione dedicata alla ricerca del logo di una singola squadra
-        """
+    def search_team_logo(team_name, event_name="", category=""):
         try:
-            # Prepara la query di ricerca specifica per la squadra
-            search_query = urllib.parse.quote(f"{team_name} logo")
-            
-            # Utilizziamo l'API di Bing Image Search con parametri migliorati
-            search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square&form=IRFLTR"
-            
-            headers = { 
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-                "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-                "Cache-Control": "max-age=0",
-                "Connection": "keep-alive"
-            } 
-            
-            response = requests.get(search_url, headers=headers, timeout=10)
-            
-            if response.status_code == 200: 
-                # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
-                patterns = [
-                    r'murl&quot;:&quot;(https?://[^&]+)&quot;',
-                    r'"murl":"(https?://[^"]+)"',
-                    r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"',
-                    r'<img[^>]+src="(https?://[^"]+\.(?:png|jpg|jpeg|svg))[^>]+class="mimg"',
-                    r'<a[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
-                ]
-                
-                for pattern in patterns:
-                    matches = re.findall(pattern, response.text)
-                    if matches and len(matches) > 0:
-                        # Prendi il primo risultato che sembra un logo (preferibilmente PNG o SVG)
-                        for match in matches:
-                            if '.png' in match.lower() or '.svg' in match.lower():
-                                return match
-                        # Se non troviamo PNG o SVG, prendi il primo risultato
-                        return matches[0]
-                
-                # Metodo alternativo: cerca JSON incorporato nella pagina
-                json_match = re.search(r'var\s+IG\s*=\s*(\{.+?\});\s*', response.text)
-                if json_match:
-                    try:
-                        # Estrai e analizza il JSON
-                        json_str = json_match.group(1)
-                        # Pulisci il JSON se necessario
-                        json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+):', r'\1"\2":', json_str)
-                        data = json.loads(json_str)
-                        
-                        # Cerca URL di immagini nel JSON
-                        if 'images' in data and len(data['images']) > 0:
-                            for img in data['images']:
-                                if 'murl' in img:
-                                    return img['murl']
-                    except Exception as e:
-                        print(f"[!] Errore nell'analisi JSON: {e}")
-                
-                print(f"[!] Nessun logo trovato per '{team_name}' con i pattern standard")
-                
-                # Ultimo tentativo: cerca qualsiasi URL di immagine nella pagina
-                any_img = re.search(r'(https?://[^"\']+\.(?:png|jpg|jpeg|svg|webp))', response.text)
-                if any_img:
-                    return any_img.group(1)
-                    
-        except Exception as e: 
-            print(f"[!] Errore nella ricerca del logo per '{team_name}': {e}") 
-        
-        # Se non troviamo nulla, restituiamo None 
-        return None
-     
+            return resolve_team_logo(team_name, event_name, category)
+        except Exception as e:
+            _safe_print(f"[!] Resolver loghi fallito per '{team_name}': {e}")
+            return None
+
     def get_stream_from_channel_id(channel_id): 
         # Restituisce direttamente l'URL .php
         embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}" 
@@ -1209,6 +1756,7 @@ def eventi_dlhd_m3u8_generator():
      
     def generate_m3u_from_schedule(json_file, output_file): 
         categorized_channels = extract_channels_from_json(json_file) 
+        prefetch_logos_for_channels(categorized_channels)
 
         with open(output_file, "w", encoding="utf-8") as f: 
             f.write("#EXTM3U\n") 
@@ -1237,7 +1785,7 @@ def eventi_dlhd_m3u8_generator():
                     # Rimuovi l'orario dal titolo dell'evento prima di cercare il logo
                     clean_event_title = re.sub(r'\s*\(\d{1,2}:\d{2}\)\s*$', '', event_title)
                     print(f"[🔍] Ricerca logo per: {clean_event_title}") 
-                    logo_url = search_logo_for_event(clean_event_title)
+                    logo_url = search_logo_for_event(clean_event_title, category=category)
                     logo_attribute = f' tvg-logo="{logo_url}"' if logo_url else ''
      
                     try: 

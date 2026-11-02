@@ -1,12 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import os
+import sys
 import re
 import json
 import requests
 import urllib.parse as myParse
 from typing import Optional, Dict, List
 from datetime import datetime, timedelta
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+try:
+    import lista as poster_generator
+except Exception as e:
+    print(f"[!] Generatore poster non disponibile: {e}")
+    poster_generator = None
 
 # =============================================================================
 # CONFIGURAZIONE
@@ -59,6 +68,11 @@ class StreamSportsClient:
                                 "url": channel["url"],
                                 "image": channel.get("image", ""),
                                 "match_info": match_info,
+                                "home_team": home_team,
+                                "away_team": away_team,
+                                "tournament": tournament,
+                                "home_team_img": event.get("homeTeamIMG", ""),
+                                "away_team_img": event.get("awayTeamIMG", ""),
                                 "sport_category": sport_category,
                                 "status": event.get("status", "unknown"),
                                 "start": event.get("start", ""),
@@ -88,6 +102,63 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
     
     client = StreamSportsClient(user=USER, plan=PLAN)
     
+    poster_cache = {}
+
+    def download_logo_image(url: str):
+        if not url or poster_generator is None:
+            return None
+        try:
+            response = requests.get(url, headers={"User-Agent": poster_generator.LOGO_UA}, timeout=10)
+            if response.status_code == 200 and "image" in (response.headers.get("Content-Type") or "").lower():
+                from io import BytesIO
+                from PIL import Image
+                image = Image.open(BytesIO(response.content))
+                image.load()
+                return image
+        except Exception:
+            pass
+        return None
+
+    def get_poster(c: dict) -> str:
+        if poster_generator is None:
+            return ""
+        home = str(c.get("home_team", "")).strip()
+        away = str(c.get("away_team", "")).strip()
+        if not home or not away:
+            return ""
+        key = (home, away, c.get("tournament", ""))
+        if key in poster_cache:
+            return poster_cache[key]
+        event_name = f"{c.get('tournament', '')} : {home} vs {away}"
+        sport = c.get("sport_category", "Sport")
+        url = ""
+        try:
+            cached, absolute = poster_generator.cached_poster_url(home, away)
+            if cached and cached.startswith(("http://", "https://")):
+                url = cached
+            else:
+                logo1 = c.get("home_team_img") or poster_generator.resolve_team_logo(home, event_name, sport)
+                logo2 = c.get("away_team_img") or poster_generator.resolve_team_logo(away, event_name, sport)
+                img1 = download_logo_image(logo1)
+                img2 = download_logo_image(logo2)
+                if img1 is None and logo1:
+                    img1 = download_logo_image(poster_generator.resolve_team_logo(home, event_name, sport))
+                if img2 is None and logo2:
+                    img2 = download_logo_image(poster_generator.resolve_team_logo(away, event_name, sport))
+                poster_generator.create_event_poster(home, away, img1, img2, event_name, sport, "", absolute)
+                user = os.getenv("NOMEGITHUB", "").strip()
+                repo = os.getenv("NOMEREPO", "").strip()
+                if user and repo:
+                    relative = poster_generator.poster_relative_path(home, away)
+                    url = f"https://raw.githubusercontent.com/{user}/{repo}/main/{myParse.quote(relative.replace(os.sep, '/'), safe='/')}"
+        except Exception as e:
+            print(f"[!] Poster fallito per {home} vs {away}: {e}")
+            url = ""
+        if url and not url.startswith(("http://", "https://")):
+            url = ""
+        poster_cache[key] = url
+        return url
+
     m3u_content = f'#EXTM3U url-tvg="{EPG_URLS}"\n'
     
     total_channels = 0
@@ -158,7 +229,9 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
             display_name = display_name.replace(",", " ").replace('"', "'")
             
             tvg_id = channel_name.replace(" ", ".") if channel_name else ""
-            logo_attr = f'tvg-logo="{image}"' if image else 'tvg-logo=""'
+            poster_url = get_poster(c)
+            logo_url = poster_url or image
+            logo_attr = f'tvg-logo="{logo_url}"' if logo_url else 'tvg-logo=""'
             
             m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="Eventi Live Sports99" {logo_attr},{display_name}\n'
             m3u_content += f'{stream_url}\n'
@@ -189,7 +262,9 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
             display_name = display_name.replace(",", " ").replace('"', "'")
             
             tvg_id = channel_name.replace(" ", ".") if channel_name else ""
-            logo_attr = f'tvg-logo="{image}"' if image else 'tvg-logo=""'
+            poster_url = get_poster(c)
+            logo_url = poster_url or image
+            logo_attr = f'tvg-logo="{logo_url}"' if logo_url else 'tvg-logo=""'
             
             m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="Eventi Live SPORTS99 ENG" {logo_attr},{display_name}\n'
             m3u_content += f'{stream_url}\n'

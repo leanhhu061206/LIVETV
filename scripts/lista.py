@@ -25,7 +25,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 output_dir = os.path.dirname(script_dir)
 
 # ---------- EasySports-style poster generator ----------
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, PngImagePlugin
 
 def _env_int(name, default, minimum):
     try:
@@ -34,6 +34,7 @@ def _env_int(name, default, minimum):
         return default
 
 POSTER_SIZE = (_env_int("POSTER_WIDTH", 640, 320), _env_int("POSTER_HEIGHT", 360, 180))
+POSTER_VERSION = "2"
 _EMOJI_RE = re.compile(r'[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F\U000E0000-\U000E007F]')
 
 def _poster_clean(value):
@@ -243,13 +244,15 @@ def create_event_poster(team1, team2, img1, img2, event_name='', category='', ti
 
     if output_path:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        bg.convert('RGB').save(output_path, 'PNG', optimize=True)
+        info = PngImagePlugin.PngInfo()
+        info.add_text("livetv-poster", POSTER_VERSION)
+        bg.convert('RGB').save(output_path, 'PNG', optimize=True, pnginfo=info)
     return bg
 
 def poster_is_current(path):
     try:
         with Image.open(path) as im:
-            return im.size == POSTER_SIZE
+            return im.size == POSTER_SIZE and im.info.get("livetv-poster") == POSTER_VERSION
     except Exception:
         return False
 
@@ -362,6 +365,11 @@ _ESPN_LEAGUES = {
 _SCORES365_SEARCH = 'https://webws.365scores.com/web/search/?appTypeId=5&langId=1&query='
 _SCORES365_IMG = 'https://imagecache.365scores.com/image/upload/f_png,c_limit,q_auto:eco,dpr_1/Competitors/'
 _SCORES365_COMPETITIONS = {'saudi arabia division 1': 5502, 'sweden superettan': 123}
+_SCORES365_SPORT_IDS = {
+    'soccer': 1, 'basketball': 2, 'tennis': 3, 'ice-hockey': 4,
+    'handball': 5, 'american-football': 6, 'baseball': 7,
+    'volleyball': 8, 'rugby': 9,
+}
 _SCORES365_STOP = {'al', 'el', 'the', 'fc', 'cf', 'sc', 'club', 'team', 'de', 'cd', 'ca', 'ac', 'as', 'us', 'ss', 'ssc', 'fk', 'bc', 'kk'}
 _ESPN_CACHE = {}
 _ESPN_LEAGUE_CACHE = {}
@@ -637,26 +645,53 @@ def _scores365_match(qname, cname):
     return all(any(w == x or (len(w) >= 4 and len(x) >= 4 and _lev(w, x) <= 1) for x in t) for w in q)
 
 
+def _scores365_queries(name):
+    clean = _clean_name(name)
+    out = [clean]
+    m = re.match(
+        r'^(.*?)\s*(?:\((?:W|M|Women|Men|Femminile|Maschile)\)|\b(?:W|M|Women|Men|Femminile|Maschile))\s*$',
+        clean, re.I
+    )
+    if m and m.group(1).strip():
+        out.append(m.group(1).strip())
+    return list(dict.fromkeys(x for x in out if x))
+
+
+def _women_marker(value):
+    return bool(re.search(
+        r'(?:\(\s*(?:w|women|women\'s|femminile)\s*\)|\b(?:w|women|women\'s|femminile|žfk|zfk)\b)',
+        str(value or ''), re.I
+    ))
+
+
 def _scores365_logo(name, sport):
-    sid = 3 if sport == 'tennis' else 1
+    sid = _SCORES365_SPORT_IDS.get(sport)
+    if not sid:
+        return ''
     q = [w for w in _norm_name(name).split() if len(w) >= 2]
     if not q:
         return ''
-    data = _fetch_json(_SCORES365_SEARCH + urllib.parse.quote(_norm_name(name)), 6)
-    if not data:
-        return ''
-    candidates = []
-    for competitor in data.get('competitors') or []:
-        if not competitor or competitor.get('sportId') != sid or not competitor.get('name'):
+    want_women = _women_marker(name)
+    candidates, seen = [], set()
+    for query in _scores365_queries(name):
+        data = _fetch_json(_SCORES365_SEARCH + urllib.parse.quote(query), 6)
+        if not data:
             continue
-        tokens = set(w for w in _norm_name(competitor['name']).split() if len(w) >= 2)
-        if not all(w in tokens for w in q):
-            continue
-        candidates.append((len(tokens) - len(q), len(str(competitor['name'])), competitor.get('id')))
+        for competitor in data.get('competitors') or []:
+            if not competitor or competitor.get('sportId') != sid or not competitor.get('name'):
+                continue
+            cid = competitor.get('id')
+            if not cid or cid in seen:
+                continue
+            tokens = set(w for w in _norm_name(competitor['name']).split() if len(w) >= 2)
+            if not all(w in tokens for w in q):
+                continue
+            seen.add(cid)
+            gender_penalty = 0 if _women_marker(competitor['name']) == want_women else 1
+            candidates.append((gender_penalty, len(tokens) - len(q), len(str(competitor['name'])), cid))
     candidates.sort()
-    for _, _, cid in candidates[:3]:
-        if cid:
-            return _SCORES365_IMG + str(cid)
+    for _, _, _, cid in candidates[:3]:
+        return _SCORES365_IMG + str(cid)
     return ''
 
 
@@ -826,7 +861,7 @@ def resolve_team_logo(team_name, event_name='', category=''):
     logo = ''
     if sport == 'soccer':
         logo = _espn_search_team(name)
-    if not logo and sport in ('soccer', 'tennis'):
+    if not logo and sport in _SCORES365_SPORT_IDS:
         logo = _scores365_logo(name, sport)
     if not logo:
         logo = _wiki_search_name(name, sport)

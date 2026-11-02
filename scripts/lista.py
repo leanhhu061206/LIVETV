@@ -2801,7 +2801,9 @@ def sportsonline():
             print(f"[ERRORE FATALE] Impossibile scaricare il file di programmazione: {e}")
             return
     
-        lines = response.text.splitlines()
+        # Il server dichiara ISO-8859-1 ma il file è UTF-8: forziamo la decodifica
+        # corretta per non ritrovarsi "Ãguilas" al posto di "Águilas".
+        lines = response.content.decode("utf-8", errors="replace").splitlines()
     
         print("\n2. Cerco i canali in lingua italiana...")
         italian_channels = get_italian_channels(lines)
@@ -2870,7 +2872,9 @@ def sportsonline():
                             time_str = new_time.strftime('%H:%M')
                         except ValueError:
                             time_str = time_str_original.strip() # Usa l'orario originale se il formato non è valido
-                        event_name = f"{name_only.strip()} {time_str}"
+                        name_only = re.sub(r'\s+[xX]\s+', ' vs ', name_only)
+                        name_only = re.sub(r'\s+', ' ', name_only).strip()
+                        event_name = f"{name_only} {time_str}"
                     else:
                         event_name = event_info # Fallback se il formato non è quello previsto
     

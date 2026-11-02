@@ -1854,7 +1854,10 @@ def schedule_extractor():
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
     
-    LINK_DADDYBYPASS = os.getenv("LINK_DADDYBYPASS", "").strip() or "https://dlive.sx"
+    SCHEDULE_URLS = [
+        "https://dlive-sx.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en",
+        "https://dlive.sx",
+    ]
     
     def html_to_json(html_content):
         """Converte il contenuto HTML della programmazione in formato JSON."""
@@ -1959,46 +1962,44 @@ def schedule_extractor():
         import json
         import os
         
-        url = f"{LINK_DADDYBYPASS}/"
         script_dir = os.path.dirname(os.path.abspath(__file__))
         json_output = os.path.join(script_dir, "daddyliveSchedule.json")
         
-        print(f"Accesso a {url}...")
+        for url in SCHEDULE_URLS:
+            print(f"Accesso a {url}...")
+            try:
+                with sync_playwright() as p:
+                    browser = p.chromium.launch(headless=True)
+                    page = browser.new_page()
+                    page.goto(url, wait_until='domcontentloaded', timeout=60000)
+                    page.wait_for_selector('#schedule', timeout=30000)
+                    html_content = page.content()
+                    browser.close()
+                
+                print("✓ Pagina caricata!")
+                
+                # Parse HTML
+                soup = BeautifulSoup(html_content, 'html.parser')
+                schedule_div = soup.find('div', id='schedule')
+                
+                if not schedule_div:
+                    print("❌ #schedule non trovato!")
+                    continue
+                
+                print("✓ Schedule estratto!")
+                json_data = html_to_json(str(schedule_div))
+                
+                with open(json_output, "w", encoding="utf-8") as f:
+                    json.dump(json_data, f, indent=4)
+                
+                print(f"✓ Salvato in {json_output}")
+                modify_json_file(json_output)
+                return True
+                
+            except Exception as e:
+                print(f"❌ ERRORE con {url}: {str(e)}")
         
-        try:
-            with sync_playwright() as p:
-                browser = p.chromium.launch(headless=True)
-                page = browser.new_page()
-                page.goto(url, wait_until='networkidle')
-                page.wait_for_selector('#schedule', timeout=30000)
-                html_content = page.content()
-                browser.close()
-            
-            print("✓ Pagina caricata!")
-            
-            # Parse HTML
-            soup = BeautifulSoup(html_content, 'html.parser')
-            schedule_div = soup.find('div', id='schedule')
-            
-            if not schedule_div:
-                print("❌ #schedule non trovato!")
-                with open("debug.html", "w", encoding="utf-8") as f:
-                    f.write(html_content)
-                return False
-            
-            print("✓ Schedule estratto!")
-            json_data = html_to_json(str(schedule_div))
-            
-            with open(json_output, "w", encoding="utf-8") as f:
-                json.dump(json_data, f, indent=4)
-            
-            print(f"✓ Salvato in {json_output}")
-            modify_json_file(json_output)
-            return True
-            
-        except Exception as e:
-            print(f"❌ ERRORE: {str(e)}")
-            return False
+        return False
     
     if __name__ == "__main__":
         success = extract_schedule_container()

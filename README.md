@@ -12,7 +12,6 @@ Benvenuti nel repository LIVETV. Qui troverete diverse liste M3U per canali TV e
 - `eventi_dlhd.m3u`
 - `sports99.m3u`
 - `sportsonline.m3u`
-- `streamed.m3u`
 - `vavoo.m3u`
 - `world.m3u`
 

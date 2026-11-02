@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: pip install requests 
+        run: pip install requests pillow python-dotenv
       
       - name: Avvio sports99
         run: python scripts/sports99.py
@@ -34,7 +34,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-          git add sports99.m3u streamed.m3u
+          git add sports99.m3u streamed.m3u logos
 
           if ! git diff --staged --quiet; then
             git commit -m "Update sports99 & streamed - $(date '+%Y-%m-%d %H:%M:%S')"

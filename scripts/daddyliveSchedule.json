@@ -1,5 +1,17 @@
 {
     "Tuesday 03rd Nov 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "10:00",
@@ -2486,6 +2498,20 @@
                     {
                         "channel_name": "Premiere 2 BR",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Paraguay Copa : Nacional Asuncion vs San Lorenzo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -2496,6 +2522,10 @@
                     {
                         "channel_name": "Premiere BR",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "Match! Football 3 Russia",
@@ -2520,6 +2550,20 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\u26bd Colombia Primera B : Cartagena vs Quindio",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             }
@@ -4180,6 +4224,10 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
@@ -4352,6 +4400,10 @@
                         "channel_id": "111"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "TSN5",
                         "channel_id": "115"
                     }
@@ -4364,6 +4416,10 @@
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             }
@@ -4840,8 +4896,20 @@
                         "channel_id": "1"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "Nova SPORT 1 CZ",
                         "channel_id": "1021"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4057"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2001"
                     }
                 ]
             },
@@ -4852,6 +4920,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "TSN2",
@@ -4868,6 +4940,14 @@
                     {
                         "channel_name": "beIN Sports MAX 4 France",
                         "channel_id": "494"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4051"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -4880,8 +4960,20 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "NBCS Philadelphia",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4054"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2003"
                     }
                 ]
             },
@@ -4894,12 +4986,24 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
                     },
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4055"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2004"
                     }
                 ]
             },
@@ -4912,8 +5016,20 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    },
+                    {
                         "channel_name": "V Sport Vinter",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4052"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2005"
                     }
                 ]
             },
@@ -4926,12 +5042,24 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
                         "channel_name": "TSN4",
                         "channel_id": "114"
                     },
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "572"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4050"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -4944,8 +5072,20 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4056"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2007"
                     }
                 ]
             },
@@ -4956,6 +5096,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -4980,6 +5124,10 @@
                     {
                         "channel_name": "V Sport Xtra",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2008"
                     }
                 ]
             },
@@ -4990,6 +5138,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "Sportsnet Ontario",
@@ -5010,6 +5162,14 @@
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4058"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2009"
                     }
                 ]
             },
@@ -5020,6 +5180,18 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4059"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2010"
                     }
                 ]
             },
@@ -5030,6 +5202,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     },
                     {
                         "channel_name": "Viaplay Sports 1 UK",
@@ -5046,6 +5222,14 @@
                     {
                         "channel_name": "MAX Sport 2 Bulgaria",
                         "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4060"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2011"
                     }
                 ]
             }

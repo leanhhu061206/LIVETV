@@ -34,7 +34,7 @@ def _env_int(name, default, minimum):
         return default
 
 POSTER_SIZE = (_env_int("POSTER_WIDTH", 640, 320), _env_int("POSTER_HEIGHT", 360, 180))
-POSTER_VERSION = "3"
+POSTER_VERSION = "4"
 _EMOJI_RE = re.compile(r'[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F\U000E0000-\U000E007F]')
 
 def _poster_clean(value):
@@ -403,6 +403,18 @@ _PRIORITY_ALIASES = {
     'costa adeje tenerife w': 'UD Tenerife',
     'athletic bilbao w': 'Athletic Club (women)',
     'southern cal': 'USC Trojans',
+    'japan u17': 'Japan national under-17 football team',
+    'korea dpr u17': 'North Korea national under-17 football team',
+    'brazil u17': 'Brazil national under-17 football team',
+    'nigeria u17': 'Nigeria national under-17 football team',
+    'atletico mineiro u20': 'Atlético Mineiro',
+    'santa cruz u20': 'Santa Cruz Futebol Clube',
+    'penafiel u23': 'F.C. Penafiel',
+    'banska bystrica': 'MFK Dukla Banská Bystrica',
+    'bohemians praha 1905': 'Bohemians 1905',
+    'al kuwait': 'Al Kuwait SC',
+    'rsc anderlecht ii': 'RSC Anderlecht',
+    'anderlecht ii': 'RSC Anderlecht',
 }
 _TEAM_ALIAS = {
     'rionegro aguilas': 'Aguilas Doradas',
@@ -411,6 +423,18 @@ _TEAM_ALIAS = {
     'costa adeje tenerife w': 'Tenerife',
     'athletic bilbao': 'Athletic Club',
     'athletic bilbao w': 'Athletic Club',
+    'japan u17': 'Japan',
+    'korea dpr u17': 'North Korea',
+    'brazil u17': 'Brazil',
+    'nigeria u17': 'Nigeria',
+    'atletico mineiro u20': 'Atletico Mineiro',
+    'santa cruz u20': 'Santa Cruz',
+    'penafiel u23': 'Penafiel',
+    'banska bystrica': 'Dukla Banska Bystrica',
+    'bohemians praha 1905': 'Bohemians 1905',
+    'al kuwait': 'Al Kuwait',
+    'rsc anderlecht ii': 'RSC Anderlecht',
+    'anderlecht ii': 'RSC Anderlecht',
 }
 
 

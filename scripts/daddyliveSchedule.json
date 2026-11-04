@@ -862,6 +862,10 @@
                         "channel_id": "466"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 8",
                         "channel_id": "98"
                     }
@@ -874,6 +878,10 @@
                     {
                         "channel_name": "Nova Sport Bulgaria",
                         "channel_id": "468"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "beIN Sports MENA 3",
@@ -890,8 +898,32 @@
                         "channel_id": "95"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Sportklub 6 Croatia",
                         "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Gulf Club Champions League : Al Ettifaq vs Ajman",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Slovakia Cup : Banska Bystrica vs Trencin",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -902,6 +934,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             },
@@ -1092,6 +1128,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -1254,6 +1294,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -2964,10 +3008,6 @@
                         "channel_id": "40"
                     },
                     {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "1300"
-                    },
-                    {
                         "channel_name": "Sky Sports+",
                         "channel_id": "36"
                     },
@@ -3290,14 +3330,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1072"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1661"
                     }
                 ]
             },
@@ -3308,14 +3340,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1071"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1660"
                     }
                 ]
             },
@@ -3326,14 +3350,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1077"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1509"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1670"
                     }
                 ]
             },
@@ -3344,14 +3360,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1075"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1669"
                     }
                 ]
             },
@@ -3362,18 +3370,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1080"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1520"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1672"
                     }
                 ]
             },
@@ -3384,14 +3380,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1078"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1675"
                     }
                 ]
             },
@@ -3402,36 +3390,16 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1081"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1509"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1676"
                     }
                 ]
             },
             {
                 "time": "14:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf7\ud83c\uddf8 Novak Djokovic vs \ud83c\udde6\ud83c\uddfa Vacherot V./Rinky Hijikata",
+                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf7\ud83c\uddf8 Novak Djokovic vs \ud83c\udde6\ud83c\uddfa Rinky Hijikata",
                 "channels": [
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1083"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1520"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1679"
                     }
                 ]
             },
@@ -3442,14 +3410,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1085"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1683"
                     }
                 ]
             },
@@ -3460,14 +3420,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1084"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1509"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1682"
                     }
                 ]
             },
@@ -3478,14 +3430,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1088"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1687"
                     }
                 ]
             },
@@ -3496,14 +3440,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1087"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1509"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1686"
                     }
                 ]
             },
@@ -3514,18 +3450,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1089"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1520"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1691"
                     }
                 ]
             },
@@ -3536,18 +3460,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1090"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1520"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1692"
                     }
                 ]
             }
@@ -3560,14 +3472,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1102"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1666"
                     }
                 ]
             },
@@ -3578,14 +3482,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1105"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1673"
                     }
                 ]
             }
@@ -3598,14 +3494,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1091"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1652"
                     }
                 ]
             },
@@ -3616,14 +3504,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1092"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1505"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1651"
                     }
                 ]
             },
@@ -3634,14 +3514,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1094"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1505"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1654"
                     }
                 ]
             },
@@ -3652,14 +3524,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1093"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1653"
                     }
                 ]
             },
@@ -3670,14 +3534,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1100"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1655"
                     }
                 ]
             }
@@ -3690,10 +3546,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1073"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1663"
                     }
                 ]
             },
@@ -3704,10 +3556,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1074"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1662"
                     }
                 ]
             },
@@ -3718,10 +3566,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1076"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1671"
                     }
                 ]
             },
@@ -3732,10 +3576,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1079"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1677"
                     }
                 ]
             },
@@ -3746,10 +3586,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1082"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1684"
                     }
                 ]
             },
@@ -3760,15 +3596,21 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1086"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1688"
                     }
                 ]
             }
         ],
         "Tennis \ud83c\udfbe WTA - Doubles: Chennai (India)": [
+            {
+                "time": "04:30",
+                "event": "\ud83c\udfbe WTA - Doubles: \ud83c\uddef\ud83c\uddf5 Mai Hontama / \ud83c\uddef\ud83c\uddf5 Moyuka Uchijima vs \ud83c\uddf5\ud83c\uddf1 Weronika Falkowska / \ud83c\uddfa\ud83c\uddf8 A. Smith",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
             {
                 "time": "09:30",
                 "event": "\ud83c\udfbe WTA - Doubles: \ud83c\uddef\ud83c\uddf5 Makoto Kobori / \ud83c\uddf9\ud83c\udded Peangtarn Plipuech vs \ud83c\uddec\ud83c\udde7 Freya Christie / \ud83c\uddf5\ud83c\uddf9 E. Silva",
@@ -3776,10 +3618,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1099"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1659"
                     }
                 ]
             },
@@ -3790,10 +3628,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1103"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1668"
                     }
                 ]
             },
@@ -3804,10 +3638,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1101"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1667"
                     }
                 ]
             },
@@ -3818,10 +3648,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1106"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1674"
                     }
                 ]
             },
@@ -3832,10 +3658,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1107"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1680"
                     }
                 ]
             },
@@ -3846,10 +3668,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1108"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1681"
                     }
                 ]
             }
@@ -3862,10 +3680,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1095"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1656"
                     }
                 ]
             },
@@ -3876,10 +3690,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1096"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1664"
                     }
                 ]
             },
@@ -3890,15 +3700,41 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1104"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1665"
                     }
                 ]
             }
         ],
         "Tennis \ud83c\udfbe Challenger Men - Singles: Bratislava 2 (Slovakia)": [
+            {
+                "time": "09:00",
+                "event": "\ud83c\udfbe Challenger Men - Singles: \ud83c\uddf3\ud83c\uddf4 Nicolai Budkov Kjaer vs \ud83c\udde7\ud83c\uddea Kimmer Coppejans",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "\ud83c\udfbe Challenger Men - Singles: \ud83c\udde8\ud83c\uddff Dalibor Svrcina vs \ud83c\uddeb\ud83c\uddf7 Giovanni Mpetshi Perricard",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\ud83c\udfbe Challenger Men - Singles: \ud83c\uddfa\ud83c\udde6 Vitaliy Sachko vs \ud83c\uddeb\ud83c\uddee Otto Virtanen",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
             {
                 "time": "13:00",
                 "event": "\ud83c\udfbe Challenger Men - Singles: \ud83c\uddfa\ud83c\uddf8 Martin Damm vs \ud83c\udde9\ud83c\uddea Tobias Gentzsch",
@@ -3906,10 +3742,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1109"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1678"
                     }
                 ]
             },
@@ -3920,10 +3752,16 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1110"
-                    },
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe Challenger Men - Singles: \ud83c\uddeb\ud83c\uddf7 Sean Cuenin vs \ud83c\udded\ud83c\uddfa Zsombor Piros",
+                "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1685"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
@@ -3934,10 +3772,6 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1111"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1689"
                     }
                 ]
             },
@@ -3948,10 +3782,16 @@
                     {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1112"
-                    },
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfbe Challenger Men - Singles: \ud83c\udde8\ud83c\udded J\u00e9r\u00f4me Kym vs \ud83c\uddeb\ud83c\uddf7 Luka Pavlovic",
+                "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1690"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -4238,6 +4078,10 @@
                         "channel_id": "128"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "Arena Sport 1 Serbia",
                         "channel_id": "429"
                     },
@@ -4260,12 +4104,26 @@
                         "channel_id": "1021"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "Cosmote Sport 4 Greece",
                         "channel_id": "625"
                     },
                     {
                         "channel_name": "Sportklub 9 Croatia",
                         "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfc0 Gulf Club Champions League : Erbil vs Kazma SC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },

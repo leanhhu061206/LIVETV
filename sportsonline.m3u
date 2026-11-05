@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",NESSUN EVENTO
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Machida_Zelvia_vs_Shanghai_Shenhua.png" group-title="Eventi Live SPORTSONLINE",Machida Zelvia vs Shanghai Shenhua 11:00
+https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Svay_Rieng_vs_Tampines_Rovers.png" group-title="Eventi Live SPORTSONLINE",Svay Rieng vs Tampines Rovers 13:15
+https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Milan_vs_Ferencvaros.png" group-title="Eventi Live SPORTSONLINE",Milan vs Ferencváros 18:45
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Atalanta_vs_Kairat.png" group-title="Eventi Live SPORTSONLINE",Atalanta vs Kairat 18:45
+https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/AZ_vs_Juventus.png" group-title="Eventi Live SPORTSONLINE",AZ vs Juventus 21:00
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Panathinaikos_vs_CSKA_Sofia.png" group-title="Eventi Live SPORTSONLINE",Panathinaikos vs CSKA Sofia 21:00
+https://sportsoonline.click/channels/hd/hd8.php

@@ -5616,6 +5616,16 @@
         ],
         "Men's College Soccer \u26bd": [
             {
+                "time": "17:00",
+                "event": "\u26bd Men's College Soccer : Clemson \ud83c\uddfa\ud83c\uddf8 vs North Carolina \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "\u26bd Men's College Soccer : Robert Morris \ud83c\uddfa\ud83c\uddf8 vs Cleveland State \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -5642,6 +5652,16 @@
                     {
                         "channel_name": "\ud83d\udce2 Channel Not Listed \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
                         "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Men's College Soccer : Wake Forest \ud83c\uddfa\ud83c\uddf8 vs NC State \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
                     }
                 ]
             },
@@ -5692,6 +5712,16 @@
                     {
                         "channel_name": "\ud83d\udce2 Channel Not Listed \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
                         "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Men's College Soccer : Stanford \ud83c\uddfa\ud83c\uddf8 vs Syracuse \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
                     }
                 ]
             },
@@ -5808,6 +5838,16 @@
                 ]
             },
             {
+                "time": "17:30",
+                "event": "\u26bd Women's College Soccer : Oklahoma \ud83c\uddfa\ud83c\uddf8 vs University of Georgia \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "SEC Network USA",
+                        "channel_id": "385"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "\u26bd Women's College Soccer : Boston University \ud83c\uddfa\ud83c\uddf8 vs Bucknell \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -5898,6 +5938,16 @@
                 ]
             },
             {
+                "time": "20:00",
+                "event": "\u26bd Women's College Soccer : Auburn \ud83c\uddfa\ud83c\uddf8 vs LSU \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "SEC Network USA",
+                        "channel_id": "385"
+                    }
+                ]
+            },
+            {
                 "time": "21:30",
                 "event": "\u26bd Women's College Soccer : Liberty \ud83c\uddfa\ud83c\uddf8 vs Sam Houston \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -5938,6 +5988,26 @@
                 ]
             },
             {
+                "time": "22:30",
+                "event": "\u26bd Women's College Soccer : Mississippi State \ud83c\uddfa\ud83c\uddf8 vs Texas \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "SEC Network USA",
+                        "channel_id": "385"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Women's College Soccer : Wake Forest \ud83c\uddfa\ud83c\uddf8 vs Duke \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "\u26bd Women's College Soccer : Florida International \ud83c\uddfa\ud83c\uddf8 vs New Mexico State \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -5964,6 +6034,26 @@
                     {
                         "channel_name": "\ud83d\udce2 Channel Not Listed \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
                         "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\u26bd Women's College Soccer : Arkansas \ud83c\uddfa\ud83c\uddf8 vs Florida \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "SEC Network USA",
+                        "channel_id": "385"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\u26bd Women's College Soccer : Florida State \ud83c\uddfa\ud83c\uddf8 vs Virginia \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
                     }
                 ]
             }
@@ -8642,6 +8732,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
                     },
@@ -8766,7 +8860,26 @@
                 ]
             }
         ],
-        "NBA G League Basketball \ud83c\udfc0": [],
+        "NBA G League Basketball \ud83c\udfc0": [
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfc0 NBA G League Basketball : Westchester Knicks \ud83c\uddfa\ud83c\uddf8 vs Maine Celtics \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "NBC Sports Boston",
+                        "channel_id": "754"
+                    },
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
+                    }
+                ]
+            }
+        ],
         "College Basketball \ud83c\udfc0": [
             {
                 "time": "18:00",
@@ -10123,6 +10236,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     },
                     {
                         "channel_name": "TSN3",

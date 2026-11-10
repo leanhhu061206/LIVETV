@@ -1278,7 +1278,7 @@ def eventi_dlhd_m3u8_generator_world():
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
 
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlive.sx"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://thedaddy.li"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json")
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u")
     HEADERS = { 
@@ -1614,7 +1614,7 @@ def eventi_dlhd_m3u8_generator():
 
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlive.sx"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://thedaddy.li"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json") # Cache in scripts
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u") # Output in main dir
      
@@ -1948,7 +1948,7 @@ def schedule_extractor():
     
     SCHEDULE_URLS = [
         "https://dlive-sx.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en",
-        "https://dlive.sx",
+        "https://thedaddy.li",
     ]
     
     def html_to_json(html_content):
@@ -3168,7 +3168,7 @@ def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
     Cerca i file .m3u8 nei siti specificati per i canali daddy e tennis
     """
     # Carica la variabile d'ambiente LINK_DADDY
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlive.sx"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://thedaddy.li"
     # Restituisce direttamente l'URL .php come richiesto
     embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}"
     print(f"URL .php per il canale Daddylive {channel_id}: {embed_url}")

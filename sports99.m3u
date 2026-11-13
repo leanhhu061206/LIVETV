@@ -1,40 +1,110 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/leanhhu061206/LIVETV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TF1.FHD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (TF1 FHD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TF1%20FHD%20FR&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="A.Haber.FHD.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (A Haber FHD TR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=A%20Haber%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (SRF Zwei HD CH)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="DAZN.1.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (DAZN 1 FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Sport TV 1 FHD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (TVP Sport FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Polsat Sport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Ziggo Sport 2 FHD NL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Digi.Sport.1.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Digi Sport 1 FHD RO)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Prima.Sport.1.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Prima Sport 1 FHD RO)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%201%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="V.Sport.Premium.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (V Sport Premium SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cytavision.Sports.4.HD.CY" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Cytavision Sports 4 HD CY)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%204%20HD%20CY&code=cy&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TV2.Sport.X.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (TV2 Sport X HD DK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20X%20HD%20DK&code=dk&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Diema.Sport.3.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Diema Sport 3 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (ESPN FHD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (ESPN Brasil HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (Sport 2 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="3:00.PM.EDT.Oregon.@.Illinois.10/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (3:00 PM EDT Oregon @ Illinois 10/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=3%3A00%20PM%20EDT%20Oregon%20%40%20Illinois%2010%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="6:15.PM.EDT.Navarrete.vs..Foster:.Prelims.10/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (6:15 PM EDT Navarrete vs. Foster: Prelims 10/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=6%3A15%20PM%20EDT%20Navarrete%20vs.%20Foster%3A%20Prelims%2010%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:00.PM.EDT.Navarrete.vs..Foster.10/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:00 PM EDT Navarrete vs. Foster 10/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A00%20PM%20EDT%20Navarrete%20vs.%20Foster%2010%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:10.PM.EDT.Zhejiang.-.Race.2.10/24.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:10 PM EDT Zhejiang - Race 2 10/24 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A10%20PM%20EDT%20Zhejiang%20-%20Race%202%2010%2F24%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="12:30.AM.EDT.Osaka.Open.Final:.Krueger.vs..Siniakova.10/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (12:30 AM EDT Osaka Open Final: Krueger vs. Siniakova 10/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20Osaka%20Open%20Final%3A%20Krueger%20vs.%20Siniakova%2010%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:20.AM.EDT.Zhejiang.-.Race.3.10/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (1:20 AM EDT Zhejiang - Race 3 10/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A20%20AM%20EDT%20Zhejiang%20-%20Race%203%2010%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="12:30.AM.EDT.Osaka.Open.Final:.Krueger.vs..Siniakova.10/25.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (12:30 AM EDT Osaka Open Final: Krueger vs. Siniakova 10/25 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20Osaka%20Open%20Final%3A%20Krueger%20vs.%20Siniakova%2010%2F25%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:30.PM.EDT.Tokyo.Open:.Day.3.10/27.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:30 PM EDT Tokyo Open: Day 3 10/27 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A30%20PM%20EDT%20Tokyo%20Open%3A%20Day%203%2010%2F27%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:30.PM.EDT.Tokyo.Open:.Day.4.10/28.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:30 PM EDT Tokyo Open: Day 4 10/28 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A30%20PM%20EDT%20Tokyo%20Open%3A%20Day%204%2010%2F28%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EDT.Guangzhou.Open:.Day.1.10/29.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (1:00 AM EDT Guangzhou Open: Day 1 10/29 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Guangzhou%20Open%3A%20Day%201%2010%2F29%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:30.PM.EDT.Tokyo.Open:.Day.5.10/29.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:30 PM EDT Tokyo Open: Day 5 10/29 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A30%20PM%20EDT%20Tokyo%20Open%3A%20Day%205%2010%2F29%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EDT.Guangzhou.Open:.Day.5.10/30.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (1:00 AM EDT Guangzhou Open: Day 5 10/30 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Guangzhou%20Open%3A%20Day%205%2010%2F30%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Tokyo.Open:.Day.6.10/30.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (11:00 PM EDT Tokyo Open: Day 6 10/30 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Tokyo%20Open%3A%20Day%206%2010%2F30%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="12:50.AM.EDT.Shanghai:.Race.1.10/31.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (12:50 AM EDT Shanghai: Race 1 10/31 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A50%20AM%20EDT%20Shanghai%3A%20Race%201%2010%2F31%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="11:00.PM.EDT.Tokyo.Open:.Final.10/31.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (11:00 PM EDT Tokyo Open: Final 10/31 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A00%20PM%20EDT%20Tokyo%20Open%3A%20Final%2010%2F31%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:05.AM.EDT.Shanghai:.Race.2.11/1.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (1:05 AM EDT Shanghai: Race 2 11/1 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A05%20AM%20EDT%20Shanghai%3A%20Race%202%2011%2F1%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:00.PM.EST.Fairleigh.Dickinson.@.Illinois.11/2.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:00 PM EST Fairleigh Dickinson @ Illinois 11/2 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A00%20PM%20EST%20Fairleigh%20Dickinson%20%40%20Illinois%2011%2F2%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:00.PM.EST.Ohio.State.@.BYU.11/2.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:00 PM EST Ohio State @ BYU 11/2 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EST%20Ohio%20State%20%40%20BYU%2011%2F2%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EST.Montana.@.Oregon.11/2.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (10:00 PM EST Montana @ Oregon 11/2 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EST%20Montana%20%40%20Oregon%2011%2F2%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EST.Hong.Kong.Open.:.Day.4.11/5.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (1:00 AM EST Hong Kong Open : Day 4 11/5 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EST%20Hong%20Kong%20Open%20%3A%20Day%204%2011%2F5%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:00.PM.EST.Toledo.@.Michigan.State.11/5.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:00 PM EST Toledo @ Michigan State 11/5 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A00%20PM%20EST%20Toledo%20%40%20Michigan%20State%2011%2F5%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:30.PM.EST.Penn.@.Illinois.11/5.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:30 PM EST Penn @ Illinois 11/5 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A30%20PM%20EST%20Penn%20%40%20Illinois%2011%2F5%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EST.Hong.Kong.Open.:.Day.5.11/6.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (1:00 AM EST Hong Kong Open : Day 5 11/6 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EST%20Hong%20Kong%20Open%20%3A%20Day%205%2011%2F6%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Japan.U23.vs..Great.Britain.U23.11/6.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Japan U23 vs. Great Britain U23 11/6 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Japan%20U23%20vs.%20Great%20Britain%20U23%2011%2F6%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:00.PM.EST.Nebraska.@.Illinois.11/6.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:00 PM EST Nebraska @ Illinois 11/6 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A00%20PM%20EST%20Nebraska%20%40%20Illinois%2011%2F6%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:30.PM.EST.Australia.U23.vs..Nicaragua.U23.11/6.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:30 PM EST Australia U23 vs. Nicaragua U23 11/6 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A30%20PM%20EST%20Australia%20U23%20vs.%20Nicaragua%20U23%2011%2F6%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:30.PM.EST.Eastern.Illinois.@.Iowa.11/6.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:30 PM EST Eastern Illinois @ Iowa 11/6 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A30%20PM%20EST%20Eastern%20Illinois%20%40%20Iowa%2011%2F6%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:30.PM.EST.North.Florida.@.UCLA.11/6.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (10:30 PM EST North Florida @ UCLA 11/6 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A30%20PM%20EST%20North%20Florida%20%40%20UCLA%2011%2F6%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="1:00.AM.EST.Hong.Kong.Open.:.Day.6.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (1:00 AM EST Hong Kong Open : Day 6 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EST%20Hong%20Kong%20Open%20%3A%20Day%206%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:00.PM.EST.Chinese.Taipei.U23.vs..Nicaragua.U23.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:00 PM EST Chinese Taipei U23 vs. Nicaragua U23 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A00%20PM%20EST%20Chinese%20Taipei%20U23%20vs.%20Nicaragua%20U23%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Michigan.State.@.Michigan.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Michigan State @ Michigan 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Michigan%20State%20%40%20Michigan%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Japan.U23.vs..Republic.of.Korea.U23.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Japan U23 vs. Republic of Korea U23 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Japan%20U23%20vs.%20Republic%20of%20Korea%20U23%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Iowa.@.Northwestern.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Iowa @ Northwestern 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Iowa%20%40%20Northwestern%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Great.Britain.U23.vs..Venezuela.U23.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Great Britain U23 vs. Venezuela U23 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Great%20Britain%20U23%20vs.%20Venezuela%20U23%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:00.PM.EST.Perez.vs..Rivera.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:00 PM EST Perez vs. Rivera 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A00%20PM%20EST%20Perez%20vs.%20Rivera%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:30.PM.EST.Hawai'i.@.UTEP.11/7.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:30 PM EST Hawai'i @ UTEP 11/7 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A30%20PM%20EST%20Hawai'i%20%40%20UTEP%2011%2F7%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Nicaragua.U23.vs..Puerto.Rico.U23.11/8.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Nicaragua U23 vs. Puerto Rico U23 11/8 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Nicaragua%20U23%20vs.%20Puerto%20Rico%20U23%2011%2F8%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Venezuela.U23.vs..Republic.of.Korea.U23.11/8.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Venezuela U23 vs. Republic of Korea U23 11/8 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Venezuela%20U23%20vs.%20Republic%20of%20Korea%20U23%2011%2F8%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Panama.U23.vs..Nicaragua.U23.11/9.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Panama U23 vs. Nicaragua U23 11/9 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Panama%20U23%20vs.%20Nicaragua%20U23%2011%2F9%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.South.Africa.U23.vs..Japan.U23.11/9.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST South Africa U23 vs. Japan U23 11/9 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20South%20Africa%20U23%20vs.%20Japan%20U23%2011%2F9%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:30.PM.EST.Illinois.State.@.Purdue.11/9.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:30 PM EST Illinois State @ Purdue 11/9 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A30%20PM%20EST%20Illinois%20State%20%40%20Purdue%2011%2F9%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:00.PM.EST.Mississippi.Valley.State.@.Washington.11/9.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (10:00 PM EST Mississippi Valley State @ Washington 11/9 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A00%20PM%20EST%20Mississippi%20Valley%20State%20%40%20Washington%2011%2F9%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Republic.of.Korea.23.vs..South.Africa.U23.11/10.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Republic of Korea 23 vs. South Africa U23 11/10 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Republic%20of%20Korea%2023%20vs.%20South%20Africa%20U23%2011%2F10%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Nicaragua.U23.vs..Czechia.U23.11/10.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Nicaragua U23 vs. Czechia U23 11/10 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Nicaragua%20U23%20vs.%20Czechia%20U23%2011%2F10%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:30.PM.EST.Fairfield.@.Wisconsin.11/10.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:30 PM EST Fairfield @ Wisconsin 11/10 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A30%20PM%20EST%20Fairfield%20%40%20Wisconsin%2011%2F10%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:00.PM.EST.Creighton.@.Kansas.State.11/10.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:00 PM EST Creighton @ Kansas State 11/10 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EST%20Creighton%20%40%20Kansas%20State%2011%2F10%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:30.PM.EST.Charleston.@.USC.11/10.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (10:30 PM EST Charleston @ USC 11/10 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A30%20PM%20EST%20Charleston%20%40%20USC%2011%2F10%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:00.PM.EST.Lindenwood.@.Nebraska.11/11.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:00 PM EST Lindenwood @ Nebraska 11/11 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EST%20Lindenwood%20%40%20Nebraska%2011%2F11%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="9:00.PM.EST.Arkansas-Pine.Bluff.@.UCLA.11/11.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (9:00 PM EST Arkansas-Pine Bluff @ UCLA 11/11 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EST%20Arkansas-Pine%20Bluff%20%40%20UCLA%2011%2F11%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Nicaragua.U23.vs..South.Africa.U23.11/12.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Nicaragua U23 vs. South Africa U23 11/12 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Nicaragua%20U23%20vs.%20South%20Africa%20U23%2011%2F12%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="7:30.PM.EST.Chinese.Taipei.U23.vs..Korea.U23.11/12.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (7:30 PM EST Chinese Taipei U23 vs. Korea U23 11/12 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=7%3A30%20PM%20EST%20Chinese%20Taipei%20U23%20vs.%20Korea%20U23%2011%2F12%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="8:30.PM.EST.Northern.Iowa.@.Iowa.11/12.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (8:30 PM EST Northern Iowa @ Iowa 11/12 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=8%3A30%20PM%20EST%20Northern%20Iowa%20%40%20Iowa%2011%2F12%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="10:30.PM.EST.Arizona.@.UCLA.11/12.[DAZN.CA]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/France_U21_vs_Italy_U21.png",[Soccer] 2026-11-13 17:30 - International Friendlies - France U21 vs Italy U21 (10:30 PM EST Arizona @ UCLA 11/12 [DAZN CA])
+https://cdnlivetv.tv/api/v1/channels/player/?name=10%3A30%20PM%20EST%20Arizona%20%40%20UCLA%2011%2F12%20%5BDAZN%20CA%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.4.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Colombia_vs_Chile.png",[Soccer] 2026-11-13 21:00 - International Friendlies - Colombia vs Chile (Sport 4 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%204%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TYC.Sports.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Argentina_vs_Uruguay.png",[Soccer] 2026-11-13 21:00 - International Friendlies - Argentina vs Uruguay (TYC Sports FHD ARG)
@@ -207,8 +277,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%204%20HD%20IL&code=il&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=CW%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Virginia_vs_North_Carolina.png",[NCAA] 2026-11-21 04:00 - NCAA Division 1 Football - Virginia vs North Carolina (CBS Sports Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20Sports%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Clemson_vs_South_Carolina.png",[NCAA] 2026-11-28 04:00 - NCAA Division 1 Football - Clemson vs South Carolina (ESPN 2 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-19 00:00 - PGA Tour -  vs  (Golf Channel HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-11-19 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
@@ -273,12 +341,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -287,12 +355,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -341,6 +409,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
@@ -359,12 +429,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -373,12 +443,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -387,12 +457,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -401,12 +471,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -443,6 +513,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
@@ -461,12 +533,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.SD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Canal+ Sport SD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -475,12 +547,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 09:45 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 09:45 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 09:45 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 09:45 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 09:45 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 09:45 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -501,12 +573,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 14:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 14:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 14:00 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 14:00 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 14:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 14:00 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -527,12 +599,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A00%20AM%20EDT%20Grand%20Prix%20of%20Australia%2010%2F25%20%5BSPORTSNET%2B%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:10 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:10 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:10 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:10 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:10 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:10 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -541,12 +613,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:10 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -555,12 +627,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -569,12 +641,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -623,6 +695,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
@@ -645,12 +719,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Tipik FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:00.MotoGP.|.Round.18.|.Australia.motogp.FHD.10/25.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (05:00 MotoGP | Round 18 | Australia motogp FHD 10/25 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A00%20MotoGP%20%7C%20Round%2018%20%7C%20Australia%20motogp%20FHD%2010%2F25%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.OB3.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB3 (D))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
@@ -687,6 +761,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
@@ -773,6 +849,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Canal+ Sport HD FR)
@@ -823,6 +901,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal+.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport Extra 4 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.360.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport 360 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Canal+ Sport HD FR)

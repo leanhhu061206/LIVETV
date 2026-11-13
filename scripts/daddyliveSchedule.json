@@ -76,6 +76,10 @@
                         "channel_id": "68"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
                     },
@@ -332,12 +336,36 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "\u26bd Friendly Match : Germany U21 vs Belgium U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Friendly Match : Germany U21 vs Belgium U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    }
+                ]
+            },
+            {
                 "time": "17:30",
                 "event": "\u26bd Euro U-21 Qualifying : Denmark U21 \ud83c\udde9\ud83c\uddf0 vs Netherlands U21 \ud83c\uddf3\ud83c\uddf1",
                 "channels": [
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -350,8 +378,32 @@
                         "channel_id": "13"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd France Premiere Ligue Women : Nantes W vs Lens W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Friendly Match : France U21 vs Italy U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -510,6 +562,10 @@
                     {
                         "channel_name": "beIN Sports MENA Xtra 1",
                         "channel_id": "100"
+                    },
+                    {
+                        "channel_name": "Fubo Sports Network 6 USA",
+                        "channel_id": "100"
                     }
                 ]
             },
@@ -536,6 +592,10 @@
                     {
                         "channel_name": "SuperSport Action",
                         "channel_id": "420"
+                    },
+                    {
+                        "channel_name": "Fubo Sports USA",
+                        "channel_id": "3005"
                     },
                     {
                         "channel_name": "Fubo Sports USA",
@@ -2014,6 +2074,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 2 Spain",
                         "channel_id": "20"
                     },
@@ -3142,6 +3206,10 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -3152,6 +3220,10 @@
                     {
                         "channel_name": "TV4 Sport Live 4 Sweden",
                         "channel_id": "706"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             },
@@ -3162,6 +3234,10 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "705"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -3172,6 +3248,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1 Sweden",
                         "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -3182,6 +3262,20 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfd2 Sweden HockeyAllsvenskan : Oskarshamn vs Vimmerby",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -3192,6 +3286,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen Sweden",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     },
                     {
                         "channel_name": "TV4 Sportkanalen Sweden",

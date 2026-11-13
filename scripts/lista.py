@@ -2570,7 +2570,7 @@ def italy_channels():
                     "cursor": cursor,
                     "clientVersion": "3.0.2"
                 }
-                resp = requests.post("https://vavoo.to/mediahubmx-catalog.json", json=data, headers=headers, timeout=10)
+                resp = requests.post("https://vavoo.net/mediahubmx-catalog.json", json=data, headers=headers, timeout=10)
                 r = resp.json()
                 items = r.get("items", [])
                 all_channels.extend(items)
@@ -2803,7 +2803,7 @@ def world_channels_generator():
                     "cursor": cursor,
                     "clientVersion": "3.0.2"
                 }
-                resp = requests.post("https://vavoo.to/mediahubmx-catalog.json", json=data, headers=headers, timeout=10)
+                resp = requests.post("https://vavoo.net/mediahubmx-catalog.json", json=data, headers=headers, timeout=10)
                 r = resp.json()
                 items = r.get("items", [])
                 all_channels.extend(items)

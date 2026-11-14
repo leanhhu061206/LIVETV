@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",NESSUN EVENTO
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Real_Valladolid_vs_CD_Castellon.png" group-title="Eventi Live SPORTSONLINE",Real Valladolid vs CD Castellon 14:00
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Real_Sociedad_B_vs_Sporting_Gijon.png" group-title="Eventi Live SPORTSONLINE",Real Sociedad B vs Sporting Gijón 16:15
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Uganda_vs_Botswana.png" group-title="Eventi Live SPORTSONLINE",Uganda vs Botswana 17:00
+https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Mallorca_vs_Cordoba.png" group-title="Eventi Live SPORTSONLINE",Mallorca vs Córdoba 18:30
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Angola_vs_South_Sudan.png" group-title="Eventi Live SPORTSONLINE",Angola vs South Sudan 20:00
+https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Real_Oviedo_vs_Girona.png" group-title="Eventi Live SPORTSONLINE",Real Oviedo vs Girona 21:00
+https://sportsoonline.click/channels/hd/hd7.php

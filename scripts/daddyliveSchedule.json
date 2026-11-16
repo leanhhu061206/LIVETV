@@ -822,6 +822,10 @@
                         "channel_id": "427"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "Sportv3 Brazil",
                         "channel_id": "80"
                     },
@@ -842,6 +846,10 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -1084,6 +1092,10 @@
                         "channel_id": "756"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "3083"
                     }
@@ -1098,8 +1110,22 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "3026"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\u26bd Friendly Match : \ud83c\udff4 England U21 vs France U21 \ud83c\uddeb\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -1158,6 +1184,10 @@
                         "channel_id": "77"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "Sport TV6 Portugal",
                         "channel_id": "291"
                     },
@@ -1176,6 +1206,10 @@
                     {
                         "channel_name": "fuboTV",
                         "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
                     }
                 ]
             },
@@ -1186,6 +1220,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "Sport TV4 Portugal",
@@ -1222,6 +1260,10 @@
                     {
                         "channel_name": "fuboTV",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -1232,6 +1274,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "BBC Two UK",
@@ -1300,6 +1346,14 @@
                     {
                         "channel_name": "BBC Two",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -1310,6 +1364,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "NPO 3 NL",
@@ -1418,6 +1476,10 @@
                     {
                         "channel_name": "NPO 3",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
                     }
                 ]
             },
@@ -1428,6 +1490,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "Fox Sports 2 USA",
@@ -1512,6 +1578,14 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -2088,7 +2162,49 @@
                 ]
             }
         ],
-        "Snooker \ud83c\udfb1": [
+        "Machineseeker German Masters 2027 \ud83c\udfb1": [
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfb1 \ud83c\udff4 Snooker Machineseeker German Masters 2027 \u2013 Qualification : Iulian Boiko \ud83c\uddfa\ud83c\udde6 vs Jamie White \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfb1 \ud83c\udff4 Snooker Machineseeker German Masters 2027 \u2013 Qualification : Liam Heathcote \ud83c\udff4 vs Hammad Miah \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfb1 \ud83c\udff4 Snooker Machineseeker German Masters 2027 \u2013 Qualification : Michal Szubarczyk \ud83c\uddf5\ud83c\uddf1 vs Patrick O'Kane \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfb1 \ud83c\udff4 Snooker Machineseeker German Masters 2027 \u2013 Qualification : Liam James Davies \ud83c\udff4 vs Alfie Burden \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "24"
+                    }
+                ]
+            }
+        ],
+        "Ultimate Pool 2027 \ud83c\udfb1": [
             {
                 "time": "18:00",
                 "event": "\ud83c\udfb1 Ultimate Pool Mixed Pairs \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
@@ -3056,6 +3172,10 @@
                         "channel_id": "36"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "Sky Sport 1 NZ",
                         "channel_id": "588"
                     },
@@ -3090,6 +3210,10 @@
                     {
                         "channel_name": "V Sport Extra",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             }
@@ -3206,20 +3330,6 @@
         ],
         "Ice Hockey \ud83c\udfd2": [
             {
-                "time": "18:00",
-                "event": "\ud83c\udfd2 HockeyAllsvenskan : Ostersund \ud83c\uddf8\ud83c\uddea vs Visby/Roma \ud83c\uddf8\ud83c\uddea",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "700"
-                    },
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "3064"
-                    }
-                ]
-            },
-            {
                 "time": "14:00",
                 "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea IIHF Women's World Hockey Championship : Sweden W \ud83c\uddf8\ud83c\uddea vs Finland W \ud83c\uddeb\ud83c\uddee",
                 "channels": [
@@ -3264,6 +3374,24 @@
                     {
                         "channel_name": "Magenta Sport 318 DE",
                         "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfd2 HockeyAllsvenskan : Ostersund \ud83c\uddf8\ud83c\uddea vs Visby/Roma \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3064"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             }

@@ -700,6 +700,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
@@ -710,6 +714,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "beIN Sports 3 Malaysia",
@@ -734,6 +742,10 @@
                         "channel_id": "712"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
                         "channel_name": "\u010cT Sport CZ",
                         "channel_id": "1033"
                     },
@@ -756,6 +768,16 @@
                     {
                         "channel_name": "ESPN4 Argentina",
                         "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Brazil Serie A : Coritiba vs Santos",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -1380,6 +1402,48 @@
                     {
                         "channel_name": "TV2 Sport 2 Norway",
                         "channel_id": "666"
+                    }
+                ]
+            }
+        ],
+        "Snooker German Masters \ud83c\udfb1": [
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfb1 Snooker : German Masters \u2014 Table 1",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfb1 Snooker : German Masters \u2014 Table 2",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfb1 Snooker : German Masters \u2014 Table 3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfb1 Snooker : German Masters \u2014 Table 4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             }

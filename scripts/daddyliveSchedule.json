@@ -568,6 +568,10 @@
                         "channel_id": "88"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
                     },
@@ -600,6 +604,30 @@
                     {
                         "channel_name": "Premiere 3 BR",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Colombia Primera B : U Magdalena vs Boca Juniors",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Colombia Primera B : Ind Valle del Cauca vs Envigado",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -638,6 +666,10 @@
                         "channel_id": "55"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    },
+                    {
                         "channel_name": "Apple TV",
                         "channel_id": "3040"
                     },
@@ -654,6 +686,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "Apple TV",
@@ -960,6 +996,10 @@
                     {
                         "channel_name": "Willow Cricket",
                         "channel_id": "346"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -1416,6 +1456,14 @@
                     {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     },
                     {
                         "channel_name": "TSN5",
@@ -1940,6 +1988,10 @@
                         "channel_id": "1"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "Sky Sports NFL UK",
                         "channel_id": "37"
                     },
@@ -2460,6 +2512,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    },
+                    {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
                     },
@@ -2478,6 +2534,10 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
                     },
@@ -2494,6 +2554,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "MSG USA",
@@ -2528,6 +2592,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "beIN Sports 1 France",
@@ -2573,11 +2641,15 @@
             },
             {
                 "time": "22:00",
-                "event": "\ud83c\udfc0 College Basketball : TBD vs TBD",
+                "event": "\ud83c\udfc0 College Basketball : Notre Dame vs Auburn Tigers",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },

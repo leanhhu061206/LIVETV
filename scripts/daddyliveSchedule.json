@@ -1414,6 +1414,10 @@
                         "channel_id": "55"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1253"
+                    },
+                    {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
                     },
@@ -1528,6 +1532,10 @@
                     {
                         "channel_name": "BBC Scotland",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1254"
                     }
                 ]
             },
@@ -1570,8 +1578,22 @@
                         "channel_id": "59"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1257"
+                    },
+                    {
                         "channel_name": "DAZN Pro League 1 (BE)",
                         "channel_id": "3049"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "\u26bd English National League : Southend vs Boreham Wood",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1258"
                     }
                 ]
             },
@@ -1582,6 +1604,10 @@
                     {
                         "channel_name": "Ligue1+ France",
                         "channel_id": "960"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1256"
                     },
                     {
                         "channel_name": "Sport TV2 Portugal",
@@ -1640,6 +1666,10 @@
                     {
                         "channel_name": "M. LaLiga",
                         "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1261"
                     },
                     {
                         "channel_name": "Viaplay Sports 1 UK",
@@ -1740,6 +1770,10 @@
                         "channel_id": "35"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1262"
+                    },
+                    {
                         "channel_name": "Sky Sports Main Event UK",
                         "channel_id": "38"
                     },
@@ -1776,6 +1810,10 @@
                     {
                         "channel_name": "Canal+ Foot France",
                         "channel_id": "463"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1263"
                     }
                 ]
             },
@@ -2914,6 +2952,10 @@
                         "channel_id": "60"
                     },
                     {
+                        "channel_name": "AppleTV",
+                        "channel_id": "5013"
+                    },
+                    {
                         "channel_name": "Sky Sport F1 DE",
                         "channel_id": "274"
                     },
@@ -3012,6 +3054,42 @@
                     {
                         "channel_name": "Sky Sport F1 (IT)",
                         "channel_id": "3046"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 ENG",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 ENG UHD",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "DAZN F1 ES",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 DE",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 IT",
+                        "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Backup Stream UHD",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Backup Stream DE",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream ESP",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -3506,6 +3584,10 @@
                         "channel_id": "60"
                     },
                     {
+                        "channel_name": "AppleTV",
+                        "channel_id": "5013"
+                    },
+                    {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
                     },
@@ -3616,6 +3698,42 @@
                     {
                         "channel_name": "Sky Sport F1 (IT)",
                         "channel_id": "3046"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 ENG",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 ENG UHD",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "DAZN F1 ES",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 DE",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Sky Sports F1 IT",
+                        "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Backup Stream UHD",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Backup Stream DE",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream ESP",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -3658,6 +3776,10 @@
                         "channel_id": "76"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1266"
+                    },
+                    {
                         "channel_name": "BBC Two UK",
                         "channel_id": "357"
                     }
@@ -3670,6 +3792,10 @@
                     {
                         "channel_name": "PPV Feed",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1266"
                     },
                     {
                         "channel_name": "CANAL+ Sport Poland",
@@ -3802,6 +3928,10 @@
                     {
                         "channel_name": "Canal+ Sport360",
                         "channel_id": "464"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1267"
                     }
                 ]
             },
@@ -4540,6 +4670,10 @@
                         "channel_id": "22"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1255"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 2 Spain",
                         "channel_id": "26"
                     },
@@ -4572,6 +4706,10 @@
                     {
                         "channel_name": "Magenta Sport 312",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1259"
                     },
                     {
                         "channel_name": "M+ Baloncesto 3 Spain",
@@ -7518,6 +7656,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1260"
                     }
                 ]
             },
@@ -7528,6 +7670,10 @@
                     {
                         "channel_name": "Canal+ Sport France",
                         "channel_id": "122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1264"
                     }
                 ]
             },
@@ -7538,6 +7684,10 @@
                     {
                         "channel_name": "Canal+ Live 2 France",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1265"
                     }
                 ]
             }

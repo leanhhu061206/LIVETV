@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",NESSUN EVENTO
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Lazio_vs_Lecce.png" group-title="Eventi Live SPORTSONLINE",Lazio vs Lecce 15:00
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Bayer_Leverkusen_vs_Paderborn.png" group-title="Eventi Live SPORTSONLINE",Bayer Leverkusen vs Paderborn 15:30
+https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Parma_vs_Roma.png" group-title="Eventi Live SPORTSONLINE",Parma vs Roma 18:00
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Napoli_vs_Torino.png" group-title="Eventi Live SPORTSONLINE",Napoli vs Torino 20:45
+https://sportsoonline.click/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/main/logos/Inter_Miami_vs_Columbus_Crew.png" group-title="Eventi Live SPORTSONLINE",Inter Miami vs Columbus Crew 00:00
+https://sportsoonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Grand Prix Sunday: Las Vegas 05:00
+https://sportsoonline.click/channels/hd/hd7.php

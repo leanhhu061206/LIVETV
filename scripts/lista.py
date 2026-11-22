@@ -2099,6 +2099,32 @@ def schedule_extractor():
             exit(1)
 
 # Funzione per il sesto script (italy_channels.py)
+class VavooCatalogError(RuntimeError):
+    """Catalogo Vavoo non leggibile: il run deve fallire, non pubblicare liste vuote."""
+
+
+VAVOO_BASES = ["https://vavoo.net", "https://voltop.net", "https://kool.to", "https://kool.ws"]
+
+
+def vavoo_catalog_page(base, payload, headers, attempts=3):
+    """Una pagina del catalogo Vavoo: 3 tentativi con backoff. None se non arriva JSON valido."""
+    for attempt in range(attempts):
+        try:
+            resp = requests.post(f"{base}/mediahubmx-catalog.json", json=payload, headers=headers, timeout=10)
+            if resp.status_code == 200:
+                r = resp.json()
+                if isinstance(r, dict):
+                    return r
+                print(f"[vavoo] {base}: risposta JSON non valida")
+            else:
+                print(f"[vavoo] {base} HTTP {resp.status_code}: {resp.text[:120]!r}")
+        except Exception as e:
+            print(f"[vavoo] {base} errore: {e}")
+        if attempt < attempts - 1:
+            time.sleep(attempt + 1)
+    return None
+
+
 def italy_channels():
     print("Eseguendo il italy_channels.py...")
     import requests
@@ -2555,28 +2581,41 @@ def italy_channels():
             "mediahubmx-signature": signature
         }
         all_channels = []
-        for group in vavoo_groups():
-            cursor = 0
-            while True:
-                data = {
-                    "language": "de",
-                    "region": "AT",
-                    "catalogId": "iptv",
-                    "id": "iptv",
-                    "adult": False,
-                    "search": "",
-                    "sort": "name",
-                    "filter": {"group": group},
-                    "cursor": cursor,
-                    "clientVersion": "3.0.2"
-                }
-                resp = requests.post("https://vavoo.net/mediahubmx-catalog.json", json=data, headers=headers, timeout=10)
-                r = resp.json()
-                items = r.get("items", [])
-                all_channels.extend(items)
-                cursor = r.get("nextCursor")
-                if not cursor:
-                    break
+        seen = set()
+        for base in VAVOO_BASES:
+            for group in vavoo_groups():
+                cursor = 0
+                prev_cursor = None
+                for _ in range(200):
+                    data = {
+                        "language": "de",
+                        "region": "AT",
+                        "catalogId": "iptv",
+                        "id": "iptv",
+                        "adult": False,
+                        "search": "",
+                        "sort": "name",
+                        "filter": {"group": group},
+                        "cursor": cursor,
+                        "clientVersion": "3.0.2"
+                    }
+                    r = vavoo_catalog_page(base, data, headers)
+                    if r is None:
+                        break
+                    for ch in r.get("items", []):
+                        url = ch.get("url")
+                        if url and url not in seen:
+                            seen.add(url)
+                            all_channels.append(ch)
+                    cursor = r.get("nextCursor")
+                    if not cursor or cursor == prev_cursor:
+                        break
+                    prev_cursor = cursor
+            if all_channels:
+                print(f"[vavoo] catalogo letto da {base}: {len(all_channels)} canali")
+                break
+        if not all_channels:
+            raise VavooCatalogError("vavoo catalog: 0 canali")
         return all_channels
 
     def create_tvg_id_map(epg_file="epg.xml"):
@@ -2641,8 +2680,13 @@ def italy_channels():
                         "tvg_id": tvg_id         # TVG-ID trovato con nome modificato
                     })
 
-        # Salva nel file M3U
-        with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f:
+        # Salva nel file M3U (atomico e solo se ci sono canali: un errore non tronca la lista)
+        target = os.path.join(output_dir, filename)
+        if not channels_by_category:
+            print(f"[!] Nessun canale con URL valido: {target} lasciato invariato.")
+            return
+        tmp_path = target + ".tmp"
+        with open(tmp_path, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for category, channel_list in channels_by_category.items():
                 channel_list.sort(key=lambda x: x["name"].lower())
@@ -2693,7 +2737,8 @@ def italy_channels():
                     
                     f.write(f'{url}\n')
 
-        print(f"Playlist M3U salvata in: {os.path.join(output_dir, filename)}")
+        os.replace(tmp_path, target)
+        print(f"Playlist M3U salvata in: {target}")
         print(f"Totale canali Vavoo: {len(channels)}")
         print(f"Totale canali per categoria:")
         for category, channel_list in channels_by_category.items():
@@ -2788,28 +2833,41 @@ def world_channels_generator():
             "mediahubmx-signature": signature
         }
         all_channels = []
-        for group in vavoo_groups():
-            cursor = 0
-            while True:
-                data = {
-                    "language": "de",
-                    "region": "AT",
-                    "catalogId": "iptv",
-                    "id": "iptv",
-                    "adult": False,
-                    "search": "",
-                    "sort": "name",
-                    "filter": {"group": group},
-                    "cursor": cursor,
-                    "clientVersion": "3.0.2"
-                }
-                resp = requests.post("https://vavoo.net/mediahubmx-catalog.json", json=data, headers=headers, timeout=10)
-                r = resp.json()
-                items = r.get("items", [])
-                all_channels.extend(items)
-                cursor = r.get("nextCursor")
-                if not cursor:
-                    break
+        seen = set()
+        for base in VAVOO_BASES:
+            for group in vavoo_groups():
+                cursor = 0
+                prev_cursor = None
+                for _ in range(200):
+                    data = {
+                        "language": "de",
+                        "region": "AT",
+                        "catalogId": "iptv",
+                        "id": "iptv",
+                        "adult": False,
+                        "search": "",
+                        "sort": "name",
+                        "filter": {"group": group},
+                        "cursor": cursor,
+                        "clientVersion": "3.0.2"
+                    }
+                    r = vavoo_catalog_page(base, data, headers)
+                    if r is None:
+                        break
+                    for ch in r.get("items", []):
+                        url = ch.get("url")
+                        if url and url not in seen:
+                            seen.add(url)
+                            all_channels.append(ch)
+                    cursor = r.get("nextCursor")
+                    if not cursor or cursor == prev_cursor:
+                        break
+                    prev_cursor = cursor
+            if all_channels:
+                print(f"[vavoo] catalogo letto da {base}: {len(all_channels)} canali")
+                break
+        if not all_channels:
+            raise VavooCatalogError("vavoo catalog: 0 canali")
         return all_channels
     
     GROUP_COUNTRIES = {
@@ -2929,7 +2987,13 @@ def world_channels_generator():
                     logo_cache[cache_key] = world_logo(name, category, by_country, by_country_nospace)
                 channels_by_category[category].append((name, url, logo_cache[cache_key]))
         
-        with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f:
+        # Salva nel file M3U (atomico e solo se ci sono canali: un errore non tronca la lista)
+        target = os.path.join(output_dir, filename)
+        if not channels_by_category:
+            print(f"[!] Nessun canale con URL valido: {target} lasciato invariato.")
+            return
+        tmp_path = target + ".tmp"
+        with open(tmp_path, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             
             # Scrivi i canali raggruppati per categoria
@@ -2941,7 +3005,8 @@ def world_channels_generator():
                     logo_attr = f' tvg-logo="{logo}"' if logo else ''
                     f.write(f'#EXTINF:-1{logo_attr} group-title="{category}",{name}\n{url}\n')
         
-        print(f"Playlist M3U salvata in: {os.path.join(output_dir, filename)}")
+        os.replace(tmp_path, target)
+        print(f"Playlist M3U salvata in: {target}")
         print(f"Canali organizzati in {len(channels_by_category)} categorie:")
         for category, channel_list in sorted(channels_by_category.items()):
             print(f"  - {category}: {len(channel_list)} canali")
@@ -3212,6 +3277,8 @@ def main():
         # Canali Italia
         try:
             italy_channels()
+        except VavooCatalogError:
+            raise
         except Exception as e:
             print(f"Errore durante l'esecuzione di italy_channels: {e}")
             return
@@ -3222,6 +3289,8 @@ def main():
                 world_channels_generator()
             else:
                 print("[INFO] Generazione world.m3u saltata: WORLD non è 'si'.")
+        except VavooCatalogError:
+            raise
         except Exception as e:
             print(f"Errore durante l'esecuzione di world_channels_generator: {e}")
             

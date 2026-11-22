@@ -2105,6 +2105,62 @@ class VavooCatalogError(RuntimeError):
 
 VAVOO_BASES = ["https://vavoo.net", "https://voltop.net", "https://kool.to", "https://kool.ws"]
 
+VAVOO_FALLBACK_URLS = [
+    "https://raw.githubusercontent.com/qwertyuiop8899/tvvoo/main/src/channels/lista-it.m3u",
+]
+
+VAVOO_MHUB_CATALOG = "https://geil.to/live/catalog/live/channels.json"
+
+
+def vavoo_mhub_page(cursor=None, attempts=3):
+    """Una pagina del catalogo geil.to: 3 tentativi con backoff. None se non arriva JSON valido."""
+    params = {"region": "DE", "language": "it"}
+    if cursor:
+        params["cursor"] = cursor
+    for attempt in range(attempts):
+        try:
+            resp = requests.get(VAVOO_MHUB_CATALOG, params=params, timeout=10)
+            if resp.status_code == 200:
+                r = resp.json()
+                if isinstance(r, dict):
+                    return r
+                print("[vavoo] mhub: risposta JSON non valida")
+            else:
+                print(f"[vavoo] mhub HTTP {resp.status_code}: {resp.text[:120]!r}")
+        except Exception as e:
+            print(f"[vavoo] mhub errore: {e}")
+        if attempt < attempts - 1:
+            time.sleep(attempt + 1)
+    return None
+
+
+def vavoo_mhub_channels():
+    """Catalogo live geil.to (fonte primaria vavoo). Lista vuota se non risponde."""
+    channels = []
+    seen = set()
+    cursor = None
+    prev_cursor = None
+    pages = 0
+    for _ in range(100):
+        r = vavoo_mhub_page(cursor)
+        if r is None:
+            break
+        pages += 1
+        for item in r.get("items", []):
+            url = item.get("url")
+            if not url or url in seen:
+                continue
+            seen.add(url)
+            tags = item.get("tags") or ["Altro"]
+            channels.append({"name": item.get("name") or url, "url": url, "group": tags[0] or "Altro"})
+        cursor = r.get("nextCursor")
+        if not cursor or cursor == prev_cursor:
+            break
+        prev_cursor = cursor
+    if channels:
+        print(f"[vavoo] mhub {VAVOO_MHUB_CATALOG}: {pages} pagine, {len(channels)} canali")
+    return channels
+
 
 def vavoo_catalog_page(base, payload, headers, attempts=3):
     """Una pagina del catalogo Vavoo: 3 tentativi con backoff. None se non arriva JSON valido."""
@@ -2123,6 +2179,49 @@ def vavoo_catalog_page(base, payload, headers, attempts=3):
         if attempt < attempts - 1:
             time.sleep(attempt + 1)
     return None
+
+
+def vavoo_fallback_channels():
+    """Canali da liste M3U prebuilt, usate quando il catalogo Vavoo è giù. Non solleva mai."""
+    channels = []
+    seen = set()
+    for url in VAVOO_FALLBACK_URLS:
+        text = ""
+        for attempt in range(2):
+            try:
+                resp = requests.get(url, timeout=10)
+                if resp.status_code == 200:
+                    text = resp.text
+                    break
+                print(f"[vavoo] fallback {url} HTTP {resp.status_code}: {resp.text[:120]!r}")
+            except Exception as e:
+                print(f"[vavoo] fallback {url} errore: {e}")
+            if attempt == 0:
+                time.sleep(1)
+        if not text:
+            continue
+        found = 0
+        current = None
+        for line in text.splitlines():
+            line = line.strip()
+            if line.startswith("#EXTINF"):
+                attrs = dict(re.findall(r'([\w-]+)="([^"]*)"', line))
+                end = max((m.end() for m in re.finditer(r'[\w-]+="[^"]*"', line)), default=0)
+                comma = line.find(",", end)
+                current = {
+                    "name": line[comma + 1:].strip() if comma != -1 else "",
+                    "group": attrs.get("group-title", ""),
+                    "logo": attrs.get("tvg-logo", ""),
+                }
+            elif line and not line.startswith("#") and current:
+                if line not in seen:
+                    seen.add(line)
+                    channels.append({"name": current["name"] or line, "url": line,
+                                     "group": current["group"], "logo": current["logo"]})
+                    found += 1
+                current = None
+        print(f"[vavoo] fallback letto da {url}: {found} canali")
+    return channels
 
 
 def italy_channels():
@@ -2572,48 +2671,54 @@ def italy_channels():
         return "Altro"
 
     def get_channels():
-        signature = getAuthSignature()
-        headers = {
-            "user-agent": "okhttp/4.11.0",
-            "accept": "application/json",
-            "content-type": "application/json; charset=utf-8",
-            "accept-encoding": "gzip",
-            "mediahubmx-signature": signature
-        }
-        all_channels = []
-        seen = set()
-        for base in VAVOO_BASES:
-            for group in vavoo_groups():
-                cursor = 0
-                prev_cursor = None
-                for _ in range(200):
-                    data = {
-                        "language": "de",
-                        "region": "AT",
-                        "catalogId": "iptv",
-                        "id": "iptv",
-                        "adult": False,
-                        "search": "",
-                        "sort": "name",
-                        "filter": {"group": group},
-                        "cursor": cursor,
-                        "clientVersion": "3.0.2"
-                    }
-                    r = vavoo_catalog_page(base, data, headers)
-                    if r is None:
-                        break
-                    for ch in r.get("items", []):
-                        url = ch.get("url")
-                        if url and url not in seen:
-                            seen.add(url)
-                            all_channels.append(ch)
-                    cursor = r.get("nextCursor")
-                    if not cursor or cursor == prev_cursor:
-                        break
-                    prev_cursor = cursor
+        all_channels = vavoo_mhub_channels()
+        seen = {ch["url"] for ch in all_channels}
+        if not all_channels:
+            # Vecchio endpoint mediahubmx (morto): un solo tentativo per mirror
+            signature = getAuthSignature()
+            headers = {
+                "user-agent": "okhttp/4.11.0",
+                "accept": "application/json",
+                "content-type": "application/json; charset=utf-8",
+                "accept-encoding": "gzip",
+                "mediahubmx-signature": signature
+            }
+            for base in VAVOO_BASES:
+                for group in vavoo_groups():
+                    cursor = 0
+                    prev_cursor = None
+                    for _ in range(200):
+                        data = {
+                            "language": "de",
+                            "region": "AT",
+                            "catalogId": "iptv",
+                            "id": "iptv",
+                            "adult": False,
+                            "search": "",
+                            "sort": "name",
+                            "filter": {"group": group},
+                            "cursor": cursor,
+                            "clientVersion": "3.0.2"
+                        }
+                        r = vavoo_catalog_page(base, data, headers, attempts=1)
+                        if r is None:
+                            break
+                        for ch in r.get("items", []):
+                            url = ch.get("url")
+                            if url and url not in seen:
+                                seen.add(url)
+                                all_channels.append(ch)
+                        cursor = r.get("nextCursor")
+                        if not cursor or cursor == prev_cursor:
+                            break
+                        prev_cursor = cursor
+                if all_channels:
+                    print(f"[vavoo] catalogo letto da {base}: {len(all_channels)} canali")
+                    break
+        if not all_channels:
+            all_channels = vavoo_fallback_channels()
             if all_channels:
-                print(f"[vavoo] catalogo letto da {base}: {len(all_channels)} canali")
-                break
+                print(f"[vavoo] catalogo giù, uso fallback: {len(all_channels)} canali da {VAVOO_FALLBACK_URLS[0]}")
         if not all_channels:
             raise VavooCatalogError("vavoo catalog: 0 canali")
         return all_channels
@@ -2670,7 +2775,7 @@ def italy_channels():
                         channels_by_category[category] = []
                     
                     # USA IL NOME MODIFICATO PER RICERCA LOGO E TVG-ID
-                    logo = logos.get(name_for_lookup.lower(), "")
+                    logo = logos.get(name_for_lookup.lower(), "") or ch.get("logo", "")
                     tvg_id = tvg_id_map.get(normalize_channel_name(name_for_lookup), "")
                     
                     channels_by_category[category].append({
@@ -2824,48 +2929,54 @@ def world_channels_generator():
         return cleaned_name.strip()
     
     def get_channels():
-        signature = getAuthSignature()
-        headers = {
-            "user-agent": "okhttp/4.11.0",
-            "accept": "application/json",
-            "content-type": "application/json; charset=utf-8",
-            "accept-encoding": "gzip",
-            "mediahubmx-signature": signature
-        }
-        all_channels = []
-        seen = set()
-        for base in VAVOO_BASES:
-            for group in vavoo_groups():
-                cursor = 0
-                prev_cursor = None
-                for _ in range(200):
-                    data = {
-                        "language": "de",
-                        "region": "AT",
-                        "catalogId": "iptv",
-                        "id": "iptv",
-                        "adult": False,
-                        "search": "",
-                        "sort": "name",
-                        "filter": {"group": group},
-                        "cursor": cursor,
-                        "clientVersion": "3.0.2"
-                    }
-                    r = vavoo_catalog_page(base, data, headers)
-                    if r is None:
-                        break
-                    for ch in r.get("items", []):
-                        url = ch.get("url")
-                        if url and url not in seen:
-                            seen.add(url)
-                            all_channels.append(ch)
-                    cursor = r.get("nextCursor")
-                    if not cursor or cursor == prev_cursor:
-                        break
-                    prev_cursor = cursor
+        all_channels = vavoo_mhub_channels()
+        seen = {ch["url"] for ch in all_channels}
+        if not all_channels:
+            # Vecchio endpoint mediahubmx (morto): un solo tentativo per mirror
+            signature = getAuthSignature()
+            headers = {
+                "user-agent": "okhttp/4.11.0",
+                "accept": "application/json",
+                "content-type": "application/json; charset=utf-8",
+                "accept-encoding": "gzip",
+                "mediahubmx-signature": signature
+            }
+            for base in VAVOO_BASES:
+                for group in vavoo_groups():
+                    cursor = 0
+                    prev_cursor = None
+                    for _ in range(200):
+                        data = {
+                            "language": "de",
+                            "region": "AT",
+                            "catalogId": "iptv",
+                            "id": "iptv",
+                            "adult": False,
+                            "search": "",
+                            "sort": "name",
+                            "filter": {"group": group},
+                            "cursor": cursor,
+                            "clientVersion": "3.0.2"
+                        }
+                        r = vavoo_catalog_page(base, data, headers, attempts=1)
+                        if r is None:
+                            break
+                        for ch in r.get("items", []):
+                            url = ch.get("url")
+                            if url and url not in seen:
+                                seen.add(url)
+                                all_channels.append(ch)
+                        cursor = r.get("nextCursor")
+                        if not cursor or cursor == prev_cursor:
+                            break
+                        prev_cursor = cursor
+                if all_channels:
+                    print(f"[vavoo] catalogo letto da {base}: {len(all_channels)} canali")
+                    break
+        if not all_channels:
+            all_channels = vavoo_fallback_channels()
             if all_channels:
-                print(f"[vavoo] catalogo letto da {base}: {len(all_channels)} canali")
-                break
+                print(f"[vavoo] catalogo giù, uso fallback: {len(all_channels)} canali da {VAVOO_FALLBACK_URLS[0]}")
         if not all_channels:
             raise VavooCatalogError("vavoo catalog: 0 canali")
         return all_channels
@@ -2984,7 +3095,7 @@ def world_channels_generator():
                     channels_by_category[category] = []
                 cache_key = (category, name)
                 if cache_key not in logo_cache:
-                    logo_cache[cache_key] = world_logo(name, category, by_country, by_country_nospace)
+                    logo_cache[cache_key] = world_logo(name, category, by_country, by_country_nospace) or ch.get("logo", "")
                 channels_by_category[category].append((name, url, logo_cache[cache_key]))
         
         # Salva nel file M3U (atomico e solo se ci sono canali: un errore non tronca la lista)

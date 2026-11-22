@@ -2112,9 +2112,11 @@ VAVOO_FALLBACK_URLS = [
 VAVOO_MHUB_CATALOG = "https://geil.to/live/catalog/live/channels.json"
 
 
-def vavoo_mhub_page(cursor=None, attempts=3):
+def vavoo_mhub_page(cursor=None, attempts=3, group=None):
     """Una pagina del catalogo geil.to: 3 tentativi con backoff. None se non arriva JSON valido."""
     params = {"region": "DE", "language": "it"}
+    if group:
+        params["filter[group]"] = group
     if cursor:
         params["cursor"] = cursor
     for attempt in range(attempts):
@@ -2134,31 +2136,41 @@ def vavoo_mhub_page(cursor=None, attempts=3):
     return None
 
 
-def vavoo_mhub_channels():
-    """Catalogo live geil.to (fonte primaria vavoo). Lista vuota se non risponde."""
+def vavoo_mhub_channels(group=None):
+    """Catalogo live geil.to (fonte primaria vavoo). Con group filtra un solo paese. Lista vuota se non risponde."""
     channels = []
-    seen = set()
+    seen_urls = set()
+    seen_keys = set()
     cursor = None
     prev_cursor = None
     pages = 0
+    raw = 0
     for _ in range(100):
-        r = vavoo_mhub_page(cursor)
+        r = vavoo_mhub_page(cursor, group=group)
         if r is None:
             break
         pages += 1
         for item in r.get("items", []):
             url = item.get("url")
-            if not url or url in seen:
+            if not url:
                 continue
-            seen.add(url)
+            raw += 1
             tags = item.get("tags") or ["Altro"]
-            channels.append({"name": item.get("name") or url, "url": url, "group": tags[0] or "Altro"})
+            grp = tags[0] or "Altro"
+            # "AMC (7)" è la variante dello stesso canale: tiene il primo url
+            name = re.sub(r'\s*\(\d+\)\s*$', '', item.get("name") or "").strip() or url
+            key = (grp.lower(), name.lower())
+            if url in seen_urls or key in seen_keys:
+                continue
+            seen_urls.add(url)
+            seen_keys.add(key)
+            channels.append({"name": name, "url": url, "group": grp})
         cursor = r.get("nextCursor")
         if not cursor or cursor == prev_cursor:
             break
         prev_cursor = cursor
     if channels:
-        print(f"[vavoo] mhub {VAVOO_MHUB_CATALOG}: {pages} pagine, {len(channels)} canali")
+        print(f"[vavoo] mhub {VAVOO_MHUB_CATALOG} ({group or 'tutti'}): {pages} pagine, {raw} item, {len(channels)} canali")
     return channels
 
 
@@ -2287,7 +2299,8 @@ def italy_channels():
         return ["Italy"]
 
     def clean_channel_name(name):
-        """Rimuove i suffissi .a, .b, .c dal nome del canale"""
+        """Rimuove le varianti (N) e i suffissi .a, .b, .c dal nome del canale"""
+        name = re.sub(r'\s*\(\d+\)\s*$', '', name)
         # Rimuove .a, .b, .c alla fine del nome (con o senza spazi prima)
         cleaned_name = re.sub(r'\s*\.(a|b|c|s|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|t|u|v|w|x|y|z)\s*$', '', name, flags=re.IGNORECASE)
         return cleaned_name.strip()
@@ -2671,7 +2684,7 @@ def italy_channels():
         return "Altro"
 
     def get_channels():
-        all_channels = vavoo_mhub_channels()
+        all_channels = vavoo_mhub_channels(group="Italy")
         seen = {ch["url"] for ch in all_channels}
         if not all_channels:
             # Vecchio endpoint mediahubmx (morto): un solo tentativo per mirror
@@ -2794,6 +2807,11 @@ def italy_channels():
         with open(tmp_path, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for category, channel_list in channels_by_category.items():
+                # Solo Italia: un canale per nome nella categoria (tiene il primo)
+                unici = {}
+                for ch in channel_list:
+                    unici.setdefault(ch["name"].lower(), ch)
+                channel_list = list(unici.values())
                 channel_list.sort(key=lambda x: x["name"].lower())
                 
                 # Gestione dei canali duplicati (aggiungi suffisso numerico)
@@ -2923,7 +2941,8 @@ def world_channels_generator():
         return [""]
     
     def clean_channel_name(name):
-        """Rimuove i suffissi .a, .b, .c dal nome del canale"""
+        """Rimuove le varianti (N) e i suffissi .a, .b, .c dal nome del canale"""
+        name = re.sub(r'\s*\(\d+\)\s*$', '', name)
         # Rimuove .a, .b, .c alla fine del nome (con o senza spazi prima)
         cleaned_name = re.sub(r'\s*\.(a|b|c|s|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|t|u|v|w|x|y|z)\s*$', '', name, flags=re.IGNORECASE)
         return cleaned_name.strip()

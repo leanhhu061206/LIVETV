@@ -428,6 +428,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1239"
                     }
                 ]
             }
@@ -440,6 +444,14 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "3031"
                     }
                 ]
             },
@@ -450,6 +462,18 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5051"
                     }
                 ]
             },
@@ -460,6 +484,18 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5050"
                     }
                 ]
             },
@@ -470,6 +506,14 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5054"
                     }
                 ]
             },
@@ -480,6 +524,14 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "178"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5052"
                     }
                 ]
             },
@@ -490,6 +542,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "179"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -500,6 +556,14 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "180"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5053"
                     }
                 ]
             }
@@ -512,6 +576,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "181"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1233"
                     }
                 ]
             },
@@ -522,6 +590,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "182"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
                     }
                 ]
             },
@@ -532,6 +604,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "183"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1234"
                     }
                 ]
             },
@@ -542,6 +618,102 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
+                    }
+                ]
+            }
+        ],
+        "English National League \u26bd": [
+            {
+                "time": "19:45",
+                "event": "English National League : Woking vs Worthing",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1237"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Scunthorpe vs Gateshead",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1240"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Hornchurch vs Sutton",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1241"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Forest Green vs Southend",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1242"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Eastleigh vs Yeovil",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1243"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Carlisle vs Tamworth",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1244"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Boston Utd vs Barrow",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1245"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Altrincham vs Wealdstone",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : AFC Fylde vs FC Halifax",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1247"
                     }
                 ]
             }
@@ -554,6 +726,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1235"
                     }
                 ]
             },
@@ -564,6 +740,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "186"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1236"
                     }
                 ]
             }
@@ -576,6 +756,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "187"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -596,6 +780,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "189"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -606,6 +794,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "190"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             }
@@ -1080,6 +1272,10 @@
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
@@ -1092,8 +1288,36 @@
                         "channel_id": "413"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
                         "channel_name": "Canal+ Sport 1 Afrique",
                         "channel_id": "486"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd South Africa Betway Premiership : Durban City vs Polokwane",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "17:45",
+                "event": "\u26bd UEFA Champions League : The Glazo Show",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -1134,6 +1358,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -1242,6 +1470,22 @@
                     {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "3004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
                     }
                 ]
             },
@@ -1252,6 +1496,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -1380,6 +1628,26 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -1390,6 +1658,30 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Egypt Premier League : Arab Contractors vs Al Qanah",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Egypt Premier League : Al Masry vs Asyut Petroleum",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -1400,6 +1692,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "Astro Football",
@@ -1424,6 +1720,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Diema Sport 3 Bulgaria",
+                        "channel_id": "3048"
                     }
                 ]
             },
@@ -1444,6 +1744,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -1454,6 +1758,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     },
                     {
                         "channel_name": "Fox Soccer Plus",
@@ -1468,6 +1776,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -1478,6 +1790,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             },
@@ -1488,6 +1804,24 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    }
+                ]
+            },
+            {
+                "time": "17:45",
+                "event": "\u26bd UEFA Champions League : The Glazo Show",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -1654,6 +1988,18 @@
                     {
                         "channel_name": "5Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -1736,6 +2082,14 @@
                     {
                         "channel_name": "beIN Sports MENA 5",
                         "channel_id": "95"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -1802,6 +2156,18 @@
                     {
                         "channel_name": "beIN Sports MENA 6",
                         "channel_id": "96"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -1908,6 +2274,14 @@
                     {
                         "channel_name": "beIN Sports MENA English 2",
                         "channel_id": "90"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -1966,6 +2340,18 @@
                     {
                         "channel_name": "beIN Sports MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -2084,6 +2470,18 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010"
                     }
                 ]
             },
@@ -2138,6 +2536,18 @@
                     {
                         "channel_name": "beIN Sports MENA 9",
                         "channel_id": "99"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -2148,6 +2558,10 @@
                     {
                         "channel_name": "Sky Sports Main Event UK",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
                     },
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -2186,6 +2600,10 @@
                     {
                         "channel_name": "Sky Sports Football UK",
                         "channel_id": "35"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
@@ -2622,202 +3040,82 @@
         ],
         "Snooker UK Championship \ud83c\udfb1": [
             {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Stuart Bingham vs Liam Davies",
+                "time": "14:30",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\udde7\ud83c\uddea Luca Brecel vs \ud83c\udde8\ud83c\uddf3 Lei Peifan",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Fan Zhengyi vs Alan Burden",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Tom Ford vs Cheung Ka Wai",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Anthony McGill vs Liam Highfield",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Stan Moody vs Liu Hongyu",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Pang Junxu vs Rodney Powell",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Gary Wilson vs Lyu Haotian",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Zhang Anda vs Yu Pengcheng",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "206"
                     }
                 ]
             },
             {
                 "time": "14:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Ryan Day vs Robbie Williams",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\udde8\ud83c\uddf3 Ding Junhui vs \ud83c\udde8\ud83c\uddf3 Yang Guang",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "207"
                     }
                 ]
             },
             {
                 "time": "14:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Ding Junhui vs Yang Gao",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Stephen Maguire vs \ud83c\udff4 Jordan Brown",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "208"
                     }
                 ]
             },
             {
                 "time": "14:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Daniel Gilbert vs Julien Leclercq",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\udde8\ud83c\uddf3 Zhou Yuelong vs \ud83c\udde8\ud83c\uddf3 Wu Yize",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : David Wells vs Ricky Walden",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Yuan Sijun vs Liam Pullen",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "209"
                     }
                 ]
             },
             {
                 "time": "19:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Aaron Hill vs Ben Mertens",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\uddee\ud83c\uddea Aaron Hill vs \ud83c\udde7\ud83c\uddea Ben Mertens",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "210"
                     }
                 ]
             },
             {
                 "time": "19:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Lei Peifan vs Daniel Emery",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\udff4 Jack Lisowski vs \ud83c\udff4 Ian Burns",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "211"
                     }
                 ]
             },
             {
                 "time": "19:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Jack Lisowski vs Ian Burns",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\uddf9\ud83c\udded Thepchaiya Un-Nooh vs \ud83c\udff4 Sean Hallworth",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "212"
                     }
                 ]
             },
             {
                 "time": "19:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Jackson Page vs Scott Donaldson",
+                "event": "\ud83c\udfb1 Snooker UK Championship : \ud83c\uddee\ud83c\uddf7 Hossein Vafaei vs \ud83c\uddee\ud83c\uddf3 Ishpreet Singh Chadha",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Zak Surety vs Oliver Sykes",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Thepchaiya Un-Nooh vs Sam Hallworth",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "\ud83c\udfb1 Snooker UK Championship : Hossein Vafaei vs Ishpreet Singh Chadha",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed \ud83d\udcac#JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "HBO Max UK",
+                        "channel_id": "213"
                     }
                 ]
             }
@@ -2880,6 +3178,10 @@
                         "channel_id": "21"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto Spain",
                         "channel_id": "27"
                     },
@@ -2934,6 +3236,10 @@
                         "channel_id": "22"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 2 Spain",
                         "channel_id": "28"
                     },
@@ -2952,6 +3258,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 308",
+                        "channel_id": "3013"
                     }
                 ]
             },
@@ -2962,6 +3272,10 @@
                     {
                         "channel_name": "Magenta Sport 309",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "M+ Baloncesto 3 Spain",
@@ -2982,6 +3296,10 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 309",
+                        "channel_id": "3014"
                     }
                 ]
             },
@@ -2992,6 +3310,10 @@
                     {
                         "channel_name": "Magenta Sport 310",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     },
                     {
                         "channel_name": "M+ Vamos ES",
@@ -3020,6 +3342,14 @@
                     {
                         "channel_name": "Sportklub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 310",
+                        "channel_id": "3015"
+                    },
+                    {
+                        "channel_name": "Nova Sports Prime Greece",
+                        "channel_id": "3025"
                     }
                 ]
             },
@@ -3030,6 +3360,10 @@
                     {
                         "channel_name": "Magenta Sport 311",
                         "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1238"
                     },
                     {
                         "channel_name": "M+ Baloncesto 4 Spain",
@@ -3046,6 +3380,10 @@
                     {
                         "channel_name": "Arena Sport 7 Serbia",
                         "channel_id": "942"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 311",
+                        "channel_id": "3016"
                     }
                 ]
             },
@@ -3056,6 +3394,10 @@
                     {
                         "channel_name": "Magenta Sport 312",
                         "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
                     },
                     {
                         "channel_name": "M+ Baloncesto Spain",
@@ -3104,6 +3446,10 @@
                     {
                         "channel_name": "Cosmote Sport 4 Greece",
                         "channel_id": "625"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -3170,6 +3516,10 @@
                     {
                         "channel_name": "Eurosport 3 Poland",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -3248,6 +3598,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             }
@@ -4646,6 +5000,10 @@
                     {
                         "channel_name": "MAX Sport 2 Bulgaria",
                         "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             }
@@ -4778,6 +5136,10 @@
                     {
                         "channel_name": "Magenta Sport 304",
                         "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "3096"
                     }
                 ]
             },
@@ -4788,6 +5150,10 @@
                     {
                         "channel_name": "Magenta Sport 303",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "3098"
                     }
                 ]
             },
@@ -4798,6 +5164,10 @@
                     {
                         "channel_name": "Magenta Sport 302",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "3099"
                     }
                 ]
             },
@@ -4808,6 +5178,10 @@
                     {
                         "channel_name": "Magenta Sport 305",
                         "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "3097"
                     }
                 ]
             },
@@ -4818,6 +5192,10 @@
                     {
                         "channel_name": "Magenta Sport",
                         "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "Magenta Sport",
+                        "channel_id": "4000"
                     }
                 ]
             }
@@ -4832,8 +5210,16 @@
                         "channel_id": "700"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "\u0160TV 2 Slovenia",
                         "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "3064"
                     }
                 ]
             },
@@ -4844,6 +5230,24 @@
                     {
                         "channel_name": "Sportkanalen Sweden",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
+                        "channel_name": "Sportkanalen Sweden",
+                        "channel_id": "3065"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\ud83c\udfd2 : Switzerland National League : Davos vs Geneve vs Servette HC",
+                "channels": [
+                    {
+                        "channel_name": "MTV Max",
+                        "channel_id": "3074"
                     }
                 ]
             }

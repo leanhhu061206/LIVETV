@@ -1820,7 +1820,8 @@ def eventi_dlhd_m3u8_generator():
                 date_obj = parser.parse(date_part, fuzzy=True).date() 
             except Exception as e: 
                 print(f"[!] Errore parsing data '{date_part}': {e}") 
-                continue 
+                print(f"AVVISO: uso la data odierna {now.date()} come fallback") 
+                date_obj = now.date() 
      
             # Il titolo della pagina puo' restare indietro di un giorno: il blocco
             # valido e' comunque quello corrente, quindi si usa la data piu' recente.
@@ -1969,7 +1970,11 @@ def schedule_extractor():
         # La data è unica per tutto lo schedule (Saturday 15th Nov 2025)
         day_title_tag = schedule_div.find('div', class_='schedule__dayTitle')
         if not day_title_tag:
-            current_date = "Unknown Date"
+            # La pagina tradotta puo' non avere la classe esatta: cerca "dayTitle"
+            day_title_tag = schedule_div.find('div', class_=re.compile(r'dayTitle', re.I))
+        if not day_title_tag:
+            current_date = datetime.now().strftime("%A %dth %b %Y - Schedule Time UK GMT")
+            print(f"AVVISO: titolo schedule non trovato, uso la data odierna: '{current_date}'")
         else:
             current_date = day_title_tag.text.strip()
         
